@@ -11,7 +11,9 @@ EXPORT_PATH = os.environ.get("PROMO_RADAR_EXPORT", os.path.join(ROOT, "docs", "d
 
 # Be polite to shop servers: wait between page requests and identify ourselves.
 REQUEST_DELAY_SECONDS = 4
-USER_AGENT = "PromoRadarNG/0.1 (+https://promoradar.com.ng/bot)"
+# Shops ask bots to say who they are and who runs them.
+BOT_NAME = "PromoRadarNG"
+USER_AGENT = "PromoRadarNG/0.2 (deals finder; +https://promoradarng.github.io/promo-radar-ng/)"
 TIMEOUT_SECONDS = 20
 
 # A deal must be at least this many percent off to be listed.
@@ -30,20 +32,21 @@ AFFILIATE = {
     "kara": os.environ.get("KARA_AFFILIATE_ID", ""),
 }
 
-# Pages on each shop that list discounted products.
-# Check these URLs in a browser from time to time: shops rename deal pages.
+# Pages on each shop that list products. The finder keeps only items with an old price.
+# Use plain category pages: Jumia's robots.txt forbids sorted (?sort=) and filtered pages.
+# Check these URLs in a browser from time to time: shops rename pages.
 STORES = {
     "jumia": {
         "name": "Jumia",
         "scraper": "jumia",
         "pages": [
             ("https://www.jumia.com.ng/flash-sales/", None),
-            ("https://www.jumia.com.ng/phones-tablets/?shipped_from=country_local&sort=discount", "Phones"),
-            ("https://www.jumia.com.ng/electronics/?sort=discount", "Electronics"),
-            ("https://www.jumia.com.ng/home-office/?sort=discount", "Home & Kitchen"),
-            ("https://www.jumia.com.ng/groceries/?sort=discount", "Groceries"),
-            ("https://www.jumia.com.ng/category-fashion-by-jumia/?sort=discount", "Fashion"),
-            ("https://www.jumia.com.ng/health-beauty/?sort=discount", "Beauty & Health"),
+            ("https://www.jumia.com.ng/phones-tablets/", "Phones"),
+            ("https://www.jumia.com.ng/electronics/", "Electronics"),
+            ("https://www.jumia.com.ng/home-office/", "Home & Kitchen"),
+            ("https://www.jumia.com.ng/groceries/", "Groceries"),
+            ("https://www.jumia.com.ng/category-fashion-by-jumia/", "Fashion"),
+            ("https://www.jumia.com.ng/health-beauty/", "Beauty & Health"),
         ],
         "max_pages_per_url": 2,
     },
@@ -52,21 +55,13 @@ STORES = {
         "scraper": "magento",
         "base_url": "https://slot.ng",
         "pages": [
-            ("https://slot.ng/mobile-phones.html?product_list_order=discount", "Phones"),
-            ("https://slot.ng/laptops.html?product_list_order=discount", "Electronics"),
+            ("https://slot.ng/mobile-phones.html", "Phones"),
+            ("https://slot.ng/laptops.html", "Electronics"),
         ],
         "max_pages_per_url": 2,
     },
-    "kara": {
-        "name": "Kara",
-        "scraper": "magento",
-        "base_url": "https://www.kara.com.ng",
-        "pages": [
-            ("https://www.kara.com.ng/home-appliances.html", "Home & Kitchen"),
-            ("https://www.kara.com.ng/televisions.html", "Electronics"),
-        ],
-        "max_pages_per_url": 2,
-    },
+    # Kara's robots.txt does not allow automated visitors, so it is switched off.
+    # Ask Kara for a product feed or a partnership instead.
 }
 
 # Shops and marketplaces that must never be listed.
