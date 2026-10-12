@@ -1,0 +1,54 @@
+# =====================================================================
+#  PROMO RADAR NG - CONTROL PANEL
+#  Edit this file on GitHub (pencil icon), then "Commit changes".
+#  Your website updates within 1-2 minutes.
+#
+#  Lines starting with # are notes and are ignored.
+#  To switch a line ON, delete the # at its start.
+#  To switch it OFF, put a # back.
+# =====================================================================
+
+
+# ---------------------------------------------------------------------
+#  1. VISITOR COUNTING (Google Analytics)
+#  Paste your Measurement ID (it starts with G-). One line only.
+# ---------------------------------------------------------------------
+# analytics G-XXXXXXXXXX
+
+
+# ---------------------------------------------------------------------
+#  2. DEAL OF THE DAY  (big box at the top of the site)
+#  Open the product on Jumia, copy the link from the address bar,
+#  and paste it after "deal-of-the-day ". One line only.
+#  If the deal ends, the box disappears by itself.
+# ---------------------------------------------------------------------
+# deal-of-the-day https://www.jumia.com.ng/paste-the-product-link-here.html
+
+
+# ---------------------------------------------------------------------
+#  3. TOP PICKS  (shown first, with a "Top pick" badge)
+#  One link per line, in the order you want them.
+# ---------------------------------------------------------------------
+# pin https://www.jumia.com.ng/first-product-link.html
+# pin https://www.jumia.com.ng/second-product-link.html
+
+
+# ---------------------------------------------------------------------
+#  4. HIDE DEALS
+#  Hide one product: paste its link.
+#  Hide everything containing a word: write the word (e.g. hide cable).
+# ---------------------------------------------------------------------
+# hide https://www.jumia.com.ng/product-you-dont-want.html
+# hide cable
+
+
+# ---------------------------------------------------------------------
+#  5. SPONSORED DEALS  (paid spots from brands, shown first, labelled
+#  "Sponsored")
+#  Format, separated by | :
+#  sponsored | Product name | Shop name | Price | Link | Old price | Category
+#  Prices are numbers only. Old price and category are optional.
+#  Categories: Phones, Electronics, Home & Kitchen, Groceries,
+#  Fashion, Beauty & Health, Travel
+# ---------------------------------------------------------------------
+# sponsored | Ankara Kaftan Set (Men) | Ada Couture | 22000 | https://adacouture.ng/kaftan | 35000 | Fashion

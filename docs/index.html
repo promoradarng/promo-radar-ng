@@ -2,8 +2,18 @@
 <html lang="en">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="Promo Radar NG finds real discounts from Nigerian shops like Jumia, Slot and Kara, updated every few hours.">
+<meta name="description" content="Promo Radar NG finds real discounts from Nigerian shops, checked every few hours, with fake 'slashed prices' filtered out.">
 <title>Promo Radar NG</title>
+<!-- How the link looks when shared on Facebook, WhatsApp, X -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Promo Radar NG">
+<meta property="og:title" content="Promo Radar NG: real discounts from Nigerian shops">
+<meta property="og:description" content="Hundreds of real deals on phones, electronics, groceries and fashion, checked every few hours. Fake discounts filtered out.">
+<meta property="og:url" content="https://promoradarng.github.io/promo-radar-ng/">
+<meta property="og:image" content="https://promoradarng.github.io/promo-radar-ng/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600&family=JetBrains+Mono:wght@500;700&display=swap">
 <style>
@@ -23,6 +33,7 @@
   --bg:#0f1512; --surface:#18201c; --fg:#eef1ec; --muted:#9aa89f; --line:#2a352f;
   --accent:#3ccf8a; --accent-fg:#06200f; --tag:#ffd44a; --tag-fg:#2a2205; --hot:#ff7a5c; --chip:#212b26; color-scheme:dark}
 *{box-sizing:border-box}
+[hidden]{display:none!important}
 body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.45}
 .wrap{max-width:1080px;margin:0 auto;padding-inline:16px;padding-block:0 48px}
 header{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
@@ -65,6 +76,16 @@ select{font:inherit;font-size:13px;padding:7px 10px;border-radius:8px;border:1px
 .fav[aria-pressed="true"]{color:var(--hot);border-color:var(--hot)}
 .empty{grid-column:1/-1;text-align:center;color:var(--muted);padding:40px 0}
 footer{margin-top:32px;color:var(--muted);font-size:13px;display:grid;gap:6px}
+.storewrap{display:flex;align-items:center;gap:6px;flex-wrap:wrap;min-width:0}
+.badge{font-size:10.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:2px 7px;border-radius:5px;background:var(--accent);color:var(--accent-fg)}
+.badge.sp{background:var(--chip);color:var(--fg);border:1px solid var(--line)}
+.card.pinned{border-color:var(--accent)}
+.dotd{margin-top:18px;background:var(--surface);border:2px solid var(--tag);border-radius:16px;padding:18px;display:grid;gap:10px}
+.dotd-label{font-family:var(--display);font-weight:800;font-size:13px;letter-spacing:.08em;text-transform:uppercase;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.dotd-label .flag{background:var(--tag);color:var(--tag-fg);padding:3px 9px;border-radius:6px}
+.dotd .name{font-size:20px}
+.dotd .now{font-size:26px}
+.dotd .go{flex:none;padding:12px 22px}
 @media (prefers-reduced-motion:no-preference){.card{transition:transform .15s}.card:hover{transform:translateY(-2px)}}
 </style>
 
@@ -81,6 +102,7 @@ footer{margin-top:32px;color:var(--muted);font-size:13px;display:grid;gap:6px}
 
 <main class="wrap">
   <p class="notice" id="notice" hidden><b>Example deals.</b> Live deals appear here after the deal finder's first run. Prices and promo codes below are samples. Buttons open each shop's real website.</p>
+  <section class="dotd" id="dotd" hidden aria-label="Deal of the day"></section>
   <div class="bar">
     <p class="count" id="count"></p>
     <div class="filters">
@@ -96,7 +118,8 @@ footer{margin-top:32px;color:var(--muted);font-size:13px;display:grid;gap:6px}
   <section class="grid" id="grid" aria-live="polite"></section>
   <footer>
     <div>Only direct Nigerian shops and brands are listed. No TikTok Shop, Temu, AliExpress/Alibaba or Shein.</div>
-    <div>When live, each "Go to shop" button carries an affiliate tracking link, which is how the app earns money.</div>
+    <div>Some links are affiliate links: we may earn a small commission if you buy, at no extra cost to you. "Sponsored" deals are paid placements. Prices can change, so always check on the shop's site.</div>
+    <div id="analytics-note" hidden>This site uses Google Analytics to count visits and deal clicks.</div>
   </footer>
 </main>
 
@@ -143,16 +166,73 @@ const SAMPLE=[
 
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const naira=n=>"₦"+n.toLocaleString("en-NG");
-const pct=d=>Math.floor((d.was-d.now)*100/d.was);
+const naira=n=>"₦"+Number(n).toLocaleString("en-NG");
+const pct=d=>d.was>d.now?Math.floor((d.was-d.now)*100/d.was):0;
 const ends=h=>h<24?`Ends in ${h}h`:`Ends in ${Math.round(h/24)}d`;
 const ago=iso=>{const m=Math.max(1,Math.round((Date.now()-new Date(iso))/60000));
   return m<60?`${m} min ago`:m<1440?`${Math.round(m/60)}h ago`:`${Math.round(m/1440)}d ago`};
-let DEALS=SAMPLE, updated="";
+let DEALS=SAMPLE, updated="", DOTD=null;
 let state={cat:"All",q:"",store:"All",sort:"off"};
 let favs=new Set();
 try{favs=new Set(JSON.parse(localStorage.getItem("promoradar-favs")||"[]"))}catch(e){}
 function saveFavs(){try{localStorage.setItem("promoradar-favs",JSON.stringify([...favs]))}catch(e){}}
+
+// ---- Owner controls (control.txt) -------------------------------------------
+// Turns any product link into a simple key, so a pasted Jumia link matches the
+// deal even if it has tracking bits on the end or is wrapped in an affiliate link.
+function keyOf(link){
+  if(!link) return "";
+  let s=String(link).trim();
+  const m=s.match(/[?&](?:redirect|url|u)=([^&]+)/i);
+  if(m){try{s=decodeURIComponent(m[1])}catch(e){}}
+  try{const u=new URL(s);return (u.hostname.replace(/^www\./,"")+u.pathname).replace(/\/+$/,"").toLowerCase()}
+  catch(e){return s.toLowerCase()}
+}
+function parseNum(s){return Number(String(s||"").replace(/[^\d.]/g,""))||0}
+function parseControl(text){
+  const c={analytics:"",dotd:"",pins:[],hideLinks:new Set(),hideWords:[],sponsored:[]};
+  text.split(/\r?\n/).forEach(raw=>{
+    const line=raw.trim();
+    if(!line||line.startsWith("#")) return;
+    const m=line.match(/^([a-z-]+)\s*(.*)$/i); if(!m) return;
+    const cmd=m[1].toLowerCase(), rest=m[2].replace(/^\|/,"").trim();
+    if(cmd==="analytics") c.analytics=rest;
+    else if(cmd==="deal-of-the-day") c.dotd=keyOf(rest);
+    else if(cmd==="pin") c.pins.push(keyOf(rest));
+    else if(cmd==="hide"){ /^https?:/i.test(rest)?c.hideLinks.add(keyOf(rest)):c.hideWords.push(rest.toLowerCase()); }
+    else if(cmd==="sponsored"){
+      const p=rest.split("|").map(x=>x.trim());
+      if(p.length>=4&&p[0]&&p[3]) c.sponsored.push({name:p[0],store:p[1]||"Sponsor",now:parseNum(p[2]),was:parseNum(p[4])||0,link:p[3],cat:p[5]||"Other",sponsored:true});
+    }
+  });
+  return c;
+}
+function applyControl(c){
+  const pinRank=new Map(c.pins.map((k,i)=>[k,i]));
+  const sp=c.sponsored.map((d,i)=>({...d,id:"sp-"+i,key:keyOf(d.link),hrs:null}));
+  let all=[...sp,...DEALS.map(d=>({...d,key:keyOf(d.link)}))];
+  all=all.filter(d=>!c.hideLinks.has(d.key)&&!c.hideWords.some(w=>d.name.toLowerCase().includes(w)));
+  all.forEach(d=>{ if(pinRank.has(d.key)) d.pin=pinRank.get(d.key); });
+  DOTD=c.dotd?all.find(d=>d.key===c.dotd)||null:null;
+  DEALS=all;
+  if(c.analytics) startAnalytics(c.analytics);
+}
+
+// ---- Visitor counting (Google Analytics) ------------------------------------
+function startAnalytics(id){
+  if(!/^G-[A-Z0-9]+$/i.test(id)) return;
+  window.dataLayer=window.dataLayer||[];
+  window.gtag=function(){dataLayer.push(arguments)};
+  gtag("js",new Date()); gtag("config",id);
+  const s=document.createElement("script"); s.async=true;
+  s.src="https://www.googletagmanager.com/gtag/js?id="+encodeURIComponent(id);
+  document.head.appendChild(s);
+  $("#analytics-note").hidden=false;
+}
+document.addEventListener("click",e=>{
+  const a=e.target.closest("a.go"); if(!a||!window.gtag) return;
+  gtag("event","deal_click",{deal_name:a.dataset.name,shop:a.dataset.store,placement:a.dataset.place,price:Number(a.dataset.price)||0});
+});
 
 function buildFilters(){
   const cats=[...new Set([...CATS,...DEALS.map(d=>d.cat)])];
@@ -161,7 +241,6 @@ function buildFilters(){
   $("#store").innerHTML=["All",...shops].map(s=>`<option value="${esc(s)}">${s==="All"?"All shops":esc(s)}</option>`).join("");
 }
 
-// Load live deals written by the deal finder. If there are none yet, show the examples.
 async function load(){
   try{
     const r=await fetch("deals.json",{cache:"no-store"});
@@ -173,6 +252,10 @@ async function load(){
       hrs:d.ends_at?Math.max(0,Math.round((new Date(d.ends_at)-Date.now())/3600000)):null}));
     updated=data.updated_at;
   }catch(e){ $("#notice").hidden=false; }
+  try{
+    const r=await fetch("control.txt",{cache:"no-store"});
+    if(r.ok) applyControl(parseControl(await r.text()));
+  }catch(e){}
   buildFilters(); render();
 }
 
@@ -181,31 +264,57 @@ $("#cats").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)
 $("#q").addEventListener("input",e=>{state.q=e.target.value.trim().toLowerCase();render()});
 $("#store").addEventListener("change",e=>{state.store=e.target.value;render()});
 $("#sort").addEventListener("change",e=>{state.sort=e.target.value;render()});
-$("#grid").addEventListener("click",e=>{const b=e.target.closest(".fav");if(!b)return;const id=isNaN(b.dataset.id)?b.dataset.id:+b.dataset.id;
+document.addEventListener("click",e=>{const b=e.target.closest(".fav");if(!b)return;const id=isNaN(b.dataset.id)?b.dataset.id:+b.dataset.id;
   favs.has(id)?favs.delete(id):favs.add(id);saveFavs();render()});
 
+function hrefOf(d){return d.link||(STORES[d.store]?STORES[d.store](d.name):"#")}
+function goLink(d,place,cls="go"){
+  return `<a class="${cls}" href="${esc(hrefOf(d))}" target="_blank" rel="noopener sponsored" data-name="${esc(d.name)}" data-store="${esc(d.store)}" data-place="${place}" data-price="${d.now}">Go to ${esc(d.store)} ↗</a>`;
+}
+function priceBlock(d){
+  return `<div class="prices"><span class="now">${naira(d.now)}</span>${d.was>d.now?`<span class="was">${naira(d.was)}</span>`:""}</div>
+      ${d.was>d.now?`<div class="save">You save ${naira(d.was-d.now)}</div>`:""}`;
+}
+function badges(d){
+  return (d.sponsored?`<span class="badge sp">Sponsored</span>`:"")+(d.pin!=null?`<span class="badge">Top pick</span>`:"");
+}
+
+function renderDotd(){
+  const box=$("#dotd");
+  const show=DOTD&&state.cat==="All"&&!state.q&&state.store==="All";
+  box.hidden=!show;
+  if(!show) return;
+  const d=DOTD;
+  box.innerHTML=`
+    <div class="dotd-label"><span class="flag">Deal of the day</span>${d.sponsored?`<span class="badge sp">Sponsored</span>`:""}<span class="store">${esc(d.store)}</span>${pct(d)?`<span class="off">-${pct(d)}%</span>`:""}</div>
+    <h2 class="name">${esc(d.name)}</h2>
+    ${priceBlock(d)}
+    <div class="actions">${goLink(d,"deal_of_the_day")}</div>`;
+}
+
 function render(){
-  let list=DEALS.filter(d=>
+  renderDotd();
+  let list=DEALS.filter(d=>d!==DOTD||$("#dotd").hidden).filter(d=>
     (state.cat==="All"||(state.cat==="Saved"?favs.has(d.id):d.cat===state.cat))&&
     (state.store==="All"||d.store===state.store)&&
     (!state.q||(d.name+" "+d.store+" "+d.cat).toLowerCase().includes(state.q)));
   const by={off:(a,b)=>pct(b)-pct(a),save:(a,b)=>(b.was-b.now)-(a.was-a.now),ending:(a,b)=>(a.hrs??1e9)-(b.hrs??1e9),low:(a,b)=>a.now-b.now}[state.sort];
-  list.sort(by);
-  $("#count").textContent=`${list.length} deal${list.length===1?"":"s"}`+(updated?` · updated ${ago(updated)}`:"");
-  $("#grid").innerHTML=list.length?list.map(d=>{
-    const href=d.link||(STORES[d.store]?STORES[d.store](d.name):"#");
-    return `
-    <article class="card">
-      <div class="row"><span class="store">${esc(d.store)}</span><span class="off">-${pct(d)}%</span></div>
+  // Sponsored first, then your pins in the order you listed them, then everything else by the chosen sort.
+  const rank=d=>d.sponsored?0:d.pin!=null?1:2;
+  list.sort((a,b)=>rank(a)-rank(b)||(a.pin??0)-(b.pin??0)||by(a,b));
+  const total=list.length+($("#dotd").hidden?0:1);
+  $("#count").textContent=`${total} deal${total===1?"":"s"}`+(updated?` · updated ${ago(updated)}`:"");
+  $("#grid").innerHTML=list.length?list.map(d=>`
+    <article class="card${d.pin!=null?" pinned":""}">
+      <div class="row"><span class="storewrap"><span class="store">${esc(d.store)}</span>${badges(d)}</span>${pct(d)?`<span class="off">-${pct(d)}%</span>`:""}</div>
       <h2 class="name">${esc(d.name)}</h2>
-      <div class="prices"><span class="now">${naira(d.now)}</span><span class="was">${naira(d.was)}</span></div>
-      <div class="save">You save ${naira(d.was-d.now)}</div>
+      ${priceBlock(d)}
       <div class="meta"><span class="pill">${esc(d.cat)}</span>${d.hrs!=null?`<span class="pill ${d.hrs<24?"ending":""}">${ends(d.hrs)}</span>`:""}${d.code?`<span class="code">Code: ${esc(d.code)}</span>`:""}</div>
       <div class="actions">
-        <a class="go" href="${esc(href)}" target="_blank" rel="noopener sponsored">Go to ${esc(d.store)} ↗</a>
+        ${goLink(d,d.sponsored?"sponsored":d.pin!=null?"top_pick":"list")}
         <button class="fav" data-id="${esc(d.id)}" aria-pressed="${favs.has(d.id)}" aria-label="Save deal">${favs.has(d.id)?"♥":"♡"}</button>
       </div>
-    </article>`}).join(""):`<p class="empty">${state.cat==="Saved"?"No saved deals yet. Tap ♡ on any deal to keep it here.":"No deals match. Try another word or category."}</p>`;
+    </article>`).join(""):`<p class="empty">${state.cat==="Saved"?"No saved deals yet. Tap ♡ on any deal to keep it here.":"No deals match. Try another word or category."}</p>`;
 }
 load();
 </script>
