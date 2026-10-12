@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-12T00:46:47+00:00",
- "count": 483,
+ "updated_at": "2026-10-12T04:38:27+00:00",
+ "count": 486,
  "deals": [
   {
    "id": "06e7f070d8d8b513",
@@ -143,20 +143,6 @@
    "link": "https://www.jumia.com.ng/2black-darkening-anti-dandruff-unisex-hair-cream80g-216691252.html"
   },
   {
-   "id": "376d6d2dd684da19",
-   "store": "Jumia",
-   "title": "Kingnote 2 In 1 Hair Straightener And Curler With Hand Dryer - Pink+ Free Professional Hair Dryer",
-   "category": "Beauty & Health",
-   "price": 5800,
-   "old_price": 28800,
-   "discount_percent": 79,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/73/3518514/1.jpg?6944",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:15:05+00:00",
-   "link": "https://www.jumia.com.ng/kingnote-2-in-1-hair-straightener-and-curler-with-hand-dryer-pink-free-professional-hair-dryer-415815337.html"
-  },
-  {
    "id": "791ca53719a74e24",
    "store": "Jumia",
    "title": "UNLIMITED BAGGY JOGGERS",
@@ -225,6 +211,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:14:51+00:00",
    "link": "https://www.jumia.com.ng/avnex-new-mens-fashion-sneakers-black-419079816.html"
+  },
+  {
+   "id": "376d6d2dd684da19",
+   "store": "Jumia",
+   "title": "Kingnote 2 In 1 Hair Straightener And Curler With Hand Dryer - Pink+ Free Professional Hair Dryer",
+   "category": "Beauty & Health",
+   "price": 6300,
+   "old_price": 28800,
+   "discount_percent": 78,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/73/3518514/1.jpg?6944",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:15:05+00:00",
+   "link": "https://www.jumia.com.ng/kingnote-2-in-1-hair-straightener-and-curler-with-hand-dryer-pink-free-professional-hair-dryer-415815337.html"
   },
   {
    "id": "3535e5f910c72745",
@@ -343,9 +343,9 @@
    "store": "Jumia",
    "title": "2NLF 4-megapixel high-definition 2.4GHz WiFi surveillance camera featuring motion detection, two-way audio, 360° spotlight and colour night vision",
    "category": "Electronics",
-   "price": 12240,
+   "price": 11990,
    "old_price": 43200,
-   "discount_percent": 71,
+   "discount_percent": 72,
    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/93/8933314/1.jpg?3914",
    "promo_code": null,
    "ends_at": null,
@@ -535,18 +535,18 @@
    "link": "https://www.jumia.com.ng/generic-universal-power-adapter-converter-travel-socket-charger-plug-100970329.html"
   },
   {
-   "id": "20602374cc2ee94d",
+   "id": "943fecff5bb56556",
    "store": "Jumia",
-   "title": "40cm DIY 3D Gold Mirror Wall Clock Silent Non-Ticking Sticker Home Decor",
-   "category": "Home & Kitchen",
-   "price": 2228,
-   "old_price": 6998,
-   "discount_percent": 68,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/3332691/1.jpg?8041",
+   "title": "2NLF 2NLF® 8mp Double Screen Full HD Security Camera With Alarm",
+   "category": "Electronics",
+   "price": 18600,
+   "old_price": 57600,
+   "discount_percent": 67,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/34/9354704/1.jpg?6826",
    "promo_code": null,
    "ends_at": null,
-   "first_seen": "2026-10-12T00:46:06+00:00",
-   "link": "https://www.jumia.com.ng/generic-40cm-diy-3d-gold-mirror-wall-clock-silent-non-ticking-sticker-home-decor-196233308.html"
+   "first_seen": "2026-10-11T21:14:02+00:00",
+   "link": "https://www.jumia.com.ng/2nlf-2nlfr-8mp-double-screen-full-hd-security-camera-with-alarm-407453943.html"
   },
   {
    "id": "120eb6ef7bb4b0c5",
@@ -871,6 +871,20 @@
    "link": "https://www.jumia.com.ng/generic-usb-charging-two-in-one-automatic-retractable-rose-vibrator-sex-toy-272679159.html"
   },
   {
+   "id": "20602374cc2ee94d",
+   "store": "Jumia",
+   "title": "40cm DIY 3D Gold Mirror Wall Clock Silent Non-Ticking Sticker Home Decor",
+   "category": "Home & Kitchen",
+   "price": 2562,
+   "old_price": 6998,
+   "discount_percent": 63,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/3332691/1.jpg?8041",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-12T00:46:06+00:00",
+   "link": "https://www.jumia.com.ng/generic-40cm-diy-3d-gold-mirror-wall-clock-silent-non-ticking-sticker-home-decor-196233308.html"
+  },
+  {
    "id": "229abcd8b443095b",
    "store": "Jumia",
    "title": "Bluetooth Selfie Stick Tripod + Fill Light +Shutter Remote",
@@ -899,6 +913,20 @@
    "link": "https://www.jumia.com.ng/fashion-gold-9-piece-knuckle-ring-set-love-rhinestone-rings-for-women-ladies-415644193.html"
   },
   {
+   "id": "180212803b410844",
+   "store": "Jumia",
+   "title": "USB Multi Charging Cable with 3 in 1 USB C Fast Charging Cable, Universal Multiple Charger Cord with Type-C, Micro USB, 8Pin Port",
+   "category": "Electronics",
+   "price": 3365,
+   "old_price": 9029,
+   "discount_percent": 62,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/8821622/1.jpg?8441",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:02+00:00",
+   "link": "https://www.jumia.com.ng/generic-usb-multi-charging-cable-with-3-in-1-usb-c-fast-charging-cable-universal-multiple-charger-cord-with-type-c-micro-usb-8pin-port-226128889.html"
+  },
+  {
    "id": "20a4760cf05bb5ec",
    "store": "Jumia",
    "title": "Cerave  Hydrating Facial Cleanser For Normal To Dry Skin -( 236ml)",
@@ -925,20 +953,6 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:13:48+00:00",
    "link": "https://www.jumia.com.ng/synzida-wireless-bluetooth-earbuds-with-charging-case-in-ear-eeadphones-with-deep-bass-built-in-microphone-stable-15m-connection-lightweight-sports-earphones-for-music-calls-travel-and-daily-use-419147511.html"
-  },
-  {
-   "id": "943fecff5bb56556",
-   "store": "Jumia",
-   "title": "2NLF 2NLF® 8mp Double Screen Full HD Security Camera With Alarm",
-   "category": "Electronics",
-   "price": 21600,
-   "old_price": 57600,
-   "discount_percent": 62,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/34/9354704/1.jpg?6826",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:02+00:00",
-   "link": "https://www.jumia.com.ng/2nlf-2nlfr-8mp-double-screen-full-hd-security-camera-with-alarm-407453943.html"
   },
   {
    "id": "4451fbbb9bf101f3",
@@ -1011,20 +1025,6 @@
    "link": "https://www.jumia.com.ng/mk-ultra-66w-50000max40000mah-power-bank-66w-super-output-100-screen-led-light-8-usb-ports-battery-type-c-419135100.html"
   },
   {
-   "id": "180212803b410844",
-   "store": "Jumia",
-   "title": "USB Multi Charging Cable with 3 in 1 USB C Fast Charging Cable, Universal Multiple Charger Cord with Type-C, Micro USB, 8Pin Port",
-   "category": "Electronics",
-   "price": 3468,
-   "old_price": 9029,
-   "discount_percent": 61,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/8821622/1.jpg?8441",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:02+00:00",
-   "link": "https://www.jumia.com.ng/generic-usb-multi-charging-cable-with-3-in-1-usb-c-fast-charging-cable-universal-multiple-charger-cord-with-type-c-micro-usb-8pin-port-226128889.html"
-  },
-  {
    "id": "a0fe09a193664a85",
    "store": "Jumia",
    "title": "GtyGo 2 Pieces  Leather Automatic Buckle Belt Black plus Golden",
@@ -1065,6 +1065,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:14:51+00:00",
    "link": "https://www.jumia.com.ng/fashion-automatic-movement-watch-mens-waterproof-400441484.html"
+  },
+  {
+   "id": "ea984cc54d46cfc3",
+   "store": "Jumia",
+   "title": "MKTEL OYE3 Black with Green Small Phone,Button Phone,1.77 inch, Dual SIM,2500mAh Big Battery,Torch Light,FM Radio GSM Mobile Phone",
+   "category": "Phones",
+   "price": 8240,
+   "old_price": 20923,
+   "discount_percent": 60,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/1552914/1.jpg?1618",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:13:48+00:00",
+   "link": "https://www.jumia.com.ng/mktel-oye3-black-with-green-small-phonebutton-phone1.77-inch-dual-sim2500mah-big-batterytorch-lightfm-radio-gsm-mobile-phone-419255190.html"
   },
   {
    "id": "9e089268f225ab7f",
@@ -1235,20 +1249,6 @@
    "link": "https://www.jumia.com.ng/mythco-46-pieces-14-inch-drive-socket-ratchet-wrench-set-black-291050437.html"
   },
   {
-   "id": "ea984cc54d46cfc3",
-   "store": "Jumia",
-   "title": "MKTEL OYE3 Black with Green Small Phone,Button Phone,1.77 inch, Dual SIM,2500mAh Big Battery,Torch Light,FM Radio GSM Mobile Phone",
-   "category": "Phones",
-   "price": 8564,
-   "old_price": 20923,
-   "discount_percent": 59,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/1552914/1.jpg?1618",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:13:48+00:00",
-   "link": "https://www.jumia.com.ng/mktel-oye3-black-with-green-small-phonebutton-phone1.77-inch-dual-sim2500mah-big-batterytorch-lightfm-radio-gsm-mobile-phone-419255190.html"
-  },
-  {
    "id": "eb736f7f44c7b5c1",
    "store": "Jumia",
    "title": "MKTEL OYE3 Blue Small Phone,Button Phone,1.77 inch, Dual SIM,2500mAh Big Battery,Torch Light,FM Radio GSM Mobile Phone",
@@ -1359,20 +1359,6 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:14:02+00:00",
    "link": "https://www.jumia.com.ng/generic-andoer-led-600-led-video-light-203708075.html"
-  },
-  {
-   "id": "8849c82e763ae65c",
-   "store": "Jumia",
-   "title": "2 In1 Watch Fashion Rhinestone Wrist Watch For Ladies+ Bracelet",
-   "category": "Fashion",
-   "price": 3902,
-   "old_price": 9115,
-   "discount_percent": 57,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/8308372/1.jpg?4122",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:55+00:00",
-   "link": "https://www.jumia.com.ng/fashion-2-in1-watch-fashion-rhinestone-wrist-watch-for-ladies-bracelet-273803879.html"
   },
   {
    "id": "584d3ea97e1d07bd",
@@ -1711,6 +1697,20 @@
    "link": "https://www.jumia.com.ng/generic-wearable-bathrobe-set-made-of-halal-quick-drying-microfiber-fabric-with-pockets-and-an-adjustable-bow-for-convenient-post-shower-wear-includes-a-gift-bag-418538599.html"
   },
   {
+   "id": "8849c82e763ae65c",
+   "store": "Jumia",
+   "title": "2 In1 Watch Fashion Rhinestone Wrist Watch For Ladies+ Bracelet",
+   "category": "Fashion",
+   "price": 4292,
+   "old_price": 9115,
+   "discount_percent": 52,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/8308372/1.jpg?4122",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:55+00:00",
+   "link": "https://www.jumia.com.ng/fashion-2-in1-watch-fashion-rhinestone-wrist-watch-for-ladies-bracelet-273803879.html"
+  },
+  {
    "id": "32b1c523f9835a82",
    "store": "Jumia",
    "title": "ALagzi 2025 New Men's Trendy Board Shoes-Black And White",
@@ -2005,6 +2005,20 @@
    "link": "https://www.jumia.com.ng/oukitel-wp23plus-rugged-smartphone-10600mah-16gb4gb12gbram128gb-rom-android-15-phones-6.52display13mp-cameraip68ip69k-dustproof-phonewaterproof-rugged-phone4g-dual-sim-cell-phonefingerprintnfcgpsotgface-id-orange-419201885.html"
   },
   {
+   "id": "c51014bed40fb746",
+   "store": "Jumia",
+   "title": "MKTEL 528 Black Small Phone,Button Phone,2.8 inch, Dual SIM,2500mAh Big Battery,Torch Light,FM Radio GSM Mobile Phone",
+   "category": "Phones",
+   "price": 10774,
+   "old_price": 21600,
+   "discount_percent": 50,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/30/3373914/1.jpg?2723",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:13:48+00:00",
+   "link": "https://www.jumia.com.ng/mktel-528-black-small-phonebutton-phone2.8-inch-dual-sim2500mah-big-batterytorch-lightfm-radio-gsm-mobile-phone-419373303.html"
+  },
+  {
    "id": "620a9443c89ba0ac",
    "store": "Jumia",
    "title": "7in1 Smart Watch 2.2 \"ECG Monitoring Smart Wireless Charging NFC Bluetooth Call Heart Rate Monitoring Sleep Monitoring Leisure Watch Men's Watch Sports Watch Smart Watch Strap Suitable for Android and iOS",
@@ -2257,20 +2271,6 @@
    "link": "https://www.jumia.com.ng/xy-hair-clippers-multifunctional-haircut-machine-electric-shavers-for-home-barber-use-419188856.html"
   },
   {
-   "id": "c51014bed40fb746",
-   "store": "Jumia",
-   "title": "MKTEL 528 Black Small Phone,Button Phone,2.8 inch, Dual SIM,2500mAh Big Battery,Torch Light,FM Radio GSM Mobile Phone",
-   "category": "Phones",
-   "price": 11190,
-   "old_price": 21600,
-   "discount_percent": 48,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/30/3373914/1.jpg?2723",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:13:48+00:00",
-   "link": "https://www.jumia.com.ng/mktel-528-black-small-phonebutton-phone2.8-inch-dual-sim2500mah-big-batterytorch-lightfm-radio-gsm-mobile-phone-419373303.html"
-  },
-  {
    "id": "8a47eb7c4f000eec",
    "store": "Jumia",
    "title": "3 Lens 4G Solar CCTV Camera – Wireless Outdoor PTZ Security Camera with Night Vision, Motion Detection, SIM Card & V380 Pro App",
@@ -2507,6 +2507,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:14:25+00:00",
    "link": "https://www.jumia.com.ng/martini-fiero-red-sweet-vermouth-aperitivo-75cl-83118668.html"
+  },
+  {
+   "id": "dc01316ee28ce452",
+   "store": "Jumia",
+   "title": "MATIHO MATIHO Hair Clippers, Multifunctional Haircut Machine Electric Shavers for Home & Barber Use",
+   "category": "Beauty & Health",
+   "price": 2644,
+   "old_price": 4910,
+   "discount_percent": 46,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/1590253/1.jpg?6886",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:58+00:00",
+   "link": "https://www.jumia.com.ng/matiho-matiho-hair-clippers-multifunctional-haircut-machine-electric-shavers-for-home-barber-use-352095106.html"
   },
   {
    "id": "88a18618890efa7d",
@@ -3319,20 +3333,6 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:13:39+00:00",
    "link": "https://www.jumia.com.ng/generic-metal-foldable-laptop-stand-desktop-aluminum-alloy-stand-10-steps-laptop-holder-silver-419406472.html"
-  },
-  {
-   "id": "dc01316ee28ce452",
-   "store": "Jumia",
-   "title": "MATIHO MATIHO Hair Clippers, Multifunctional Haircut Machine Electric Shavers for Home & Barber Use",
-   "category": "Beauty & Health",
-   "price": 3000,
-   "old_price": 4910,
-   "discount_percent": 38,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/1590253/1.jpg?6886",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/matiho-matiho-hair-clippers-multifunctional-haircut-machine-electric-shavers-for-home-barber-use-352095106.html"
   },
   {
    "id": "7ab00bd1a7a1dd7f",
@@ -4903,6 +4903,20 @@
    "link": "https://www.jumia.com.ng/sniper-bedbug-killer-nafdac-a10-100343-408677957.html"
   },
   {
+   "id": "89095867769406c6",
+   "store": "Jumia",
+   "title": "WAW Machine Auto Wash 2kg",
+   "category": "Groceries",
+   "price": 5745,
+   "old_price": 8005,
+   "discount_percent": 28,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/2108963/1.jpg?2256",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-12T04:37:34+00:00",
+   "link": "https://www.jumia.com.ng/waw-machine-auto-wash-2kg-369801274.html"
+  },
+  {
    "id": "058fdf200625847b",
    "store": "Jumia",
    "title": "WAW ALL PURPOSE CLEANER SPRINGMOUNT 1Litre",
@@ -5223,6 +5237,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:14:25+00:00",
    "link": "https://www.jumia.com.ng/tequila-blanco-75cl-olmeca-mpg1657591.html"
+  },
+  {
+   "id": "6458d47965f464fc",
+   "store": "Jumia",
+   "title": "Syinix 8.5KG Top Load Twin Tub Washing Machine (E8WTMG) + 2 years Warranty - Grey",
+   "category": "Home & Kitchen",
+   "price": 169996,
+   "old_price": 227621,
+   "discount_percent": 25,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/5369914/1.jpg?2282",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-12T04:37:27+00:00",
+   "link": "https://www.jumia.com.ng/syinix-8.5kg-top-load-twin-tub-washing-machine-e8wtmg-2-years-warranty-grey-419963502.html"
   },
   {
    "id": "f133493610423794",
@@ -5629,6 +5657,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:14:25+00:00",
    "link": "https://www.jumia.com.ng/generic-3-rolls-heavy-duty-trash-refusewaste-bin-nylon-404343312.html"
+  },
+  {
+   "id": "4c20d07acec2339b",
+   "store": "Jumia",
+   "title": "Vaseline Even Tone Body Lotion 400ml.",
+   "category": "Beauty & Health",
+   "price": 4280,
+   "old_price": 5560,
+   "discount_percent": 23,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/10/5928814/1.jpg?8061",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-12T04:38:19+00:00",
+   "link": "https://www.jumia.com.ng/vaseline-even-tone-body-lotion-400ml.-418829501.html"
   },
   {
    "id": "243083121704f3ff",
