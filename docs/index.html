@@ -190,13 +190,14 @@ function keyOf(link){
 }
 function parseNum(s){return Number(String(s||"").replace(/[^\d.]/g,""))||0}
 function parseControl(text){
-  const c={analytics:"",dotd:"",pins:[],hideLinks:new Set(),hideWords:[],sponsored:[]};
+  const c={analytics:"",dotd:"",pins:[],hideLinks:new Set(),hideWords:[],sponsored:[],maxOff:70};
   text.split(/\r?\n/).forEach(raw=>{
     const line=raw.trim();
     if(!line||line.startsWith("#")) return;
     const m=line.match(/^([a-z-]+)\s*(.*)$/i); if(!m) return;
     const cmd=m[1].toLowerCase(), rest=m[2].replace(/^\|/,"").trim();
     if(cmd==="analytics") c.analytics=rest;
+    else if(cmd==="max-discount"){ const n=parseNum(rest); if(n>0&&n<=100) c.maxOff=n; }
     else if(cmd==="deal-of-the-day") c.dotd=keyOf(rest);
     else if(cmd==="pin") c.pins.push(keyOf(rest));
     else if(cmd==="hide"){ /^https?:/i.test(rest)?c.hideLinks.add(keyOf(rest)):c.hideWords.push(rest.toLowerCase()); }
@@ -212,6 +213,8 @@ function applyControl(c){
   const sp=c.sponsored.map((d,i)=>({...d,id:"sp-"+i,key:keyOf(d.link),hrs:null}));
   let all=[...sp,...DEALS.map(d=>({...d,key:keyOf(d.link)}))];
   all=all.filter(d=>!c.hideLinks.has(d.key)&&!c.hideWords.some(w=>d.name.toLowerCase().includes(w)));
+  // Very big "discounts" are usually a fake old price set by the seller. Your own sponsored deals are never hidden.
+  all=all.filter(d=>d.sponsored||pct(d)<=c.maxOff);
   all.forEach(d=>{ if(pinRank.has(d.key)) d.pin=pinRank.get(d.key); });
   DOTD=c.dotd?all.find(d=>d.key===c.dotd)||null:null;
   DEALS=all;

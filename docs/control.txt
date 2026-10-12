@@ -17,6 +17,15 @@ analytics G-FJXBL4F648
 
 
 # ---------------------------------------------------------------------
+#  1b. FAKE-DISCOUNT LIMIT
+#  Deals more than this % off are hidden, because sellers often
+#  invent a high "old price". 70 is a good setting. Use 60 to be
+#  stricter, 80 to show more. (Sponsored deals are never hidden.)
+# ---------------------------------------------------------------------
+max-discount 70
+
+
+# ---------------------------------------------------------------------
 #  2. DEAL OF THE DAY  (big box at the top of the site)
 #  Open the product on Jumia, copy the link from the address bar,
 #  and paste it after "deal-of-the-day ". One line only.
