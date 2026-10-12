@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-12T04:38:27+00:00",
- "count": 486,
+ "updated_at": "2026-10-12T08:41:29+00:00",
+ "count": 492,
  "deals": [
   {
    "id": "06e7f070d8d8b513",
@@ -225,6 +225,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:15:05+00:00",
    "link": "https://www.jumia.com.ng/kingnote-2-in-1-hair-straightener-and-curler-with-hand-dryer-pink-free-professional-hair-dryer-415815337.html"
+  },
+  {
+   "id": "af5523013be635d5",
+   "store": "Jumia",
+   "title": "Rose Tongue Licking Vibrator Nipples Dildo Sex Toy",
+   "category": "Beauty & Health",
+   "price": 6700,
+   "old_price": 30000,
+   "discount_percent": 77,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/4086272/1.jpg?0413",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-12T08:41:20+00:00",
+   "link": "https://www.jumia.com.ng/generic-rose-tongue-licking-vibrator-nipples-dildo-sex-toy-272680404.html"
   },
   {
    "id": "3535e5f910c72745",
@@ -997,6 +1011,20 @@
    "link": "https://www.jumia.com.ng/fashion-women-sneakers-girl-running-flats-sports-ladies-shoes-390545085.html"
   },
   {
+   "id": "63cca5286987d5cf",
+   "store": "Jumia",
+   "title": "Wireless Bluetooth earphone hook ear HiFi Stereo Sound Headset  Smart Touch Sports Headphones",
+   "category": "Phones",
+   "price": 4968,
+   "old_price": 12960,
+   "discount_percent": 61,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/55/2564704/1.jpg?4589",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-12T08:40:06+00:00",
+   "link": "https://www.jumia.com.ng/generic-wireless-bluetooth-earphone-hook-ear-hifi-stereo-sound-headset-smart-touch-sports-headphones-407465255.html"
+  },
+  {
    "id": "4fb6ea2b228afe4f",
    "store": "Jumia",
    "title": "MKTEL M106  Feature Phone 1.77\" Big Button Dual SIM FM Torch 800mAh Black",
@@ -1289,6 +1317,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:13:34+00:00",
    "link": "https://www.jumia.com.ng/ecoflow-ecoflow-solar-generator-river-2-pro-with-160w-solar-panel-protable-solar-generator-with-panel-398822759.html"
+  },
+  {
+   "id": "5d8ea8785659e7dc",
+   "store": "Jumia",
+   "title": "Oraimo SpaceBuds Neo True Wireless Spatial Earbuds Sound360 Audio - Black",
+   "category": "Phones",
+   "price": 17798,
+   "old_price": 43200,
+   "discount_percent": 58,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/32/2591114/1.jpg?3276",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-12T08:40:06+00:00",
+   "link": "https://www.jumia.com.ng/oraimo-spacebuds-neo-true-wireless-spatial-earbuds-sound360-audio-black-411195223.html"
   },
   {
    "id": "72868642ceae7751",
@@ -1765,6 +1807,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:13:48+00:00",
    "link": "https://www.jumia.com.ng/philly-philly-30000-mah-large-capacity-portable-power-bank-with-led-lights-402959938.html"
+  },
+  {
+   "id": "b673a79c0cf5385f",
+   "store": "Jumia",
+   "title": "Philly Philly Power Banks 30000 MAh 66W Portable Super Fast Charger",
+   "category": "Phones",
+   "price": 14950,
+   "old_price": 31507,
+   "discount_percent": 52,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/91/3011304/1.jpg?8706",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-12T08:40:06+00:00",
+   "link": "https://www.jumia.com.ng/philly-philly-power-banks-30000-mah-66w-portable-super-fast-charger-403110319.html"
   },
   {
    "id": "faa8066b5ff72bc2",
@@ -2495,6 +2551,20 @@
    "link": "https://www.jumia.com.ng/aidailu-womens-sexy-lingerie-lace-nightwear-bodysuit-silk-sleep-lounge-pink-402346916.html"
   },
   {
+   "id": "463b4eecd9fc7f5c",
+   "store": "Jumia",
+   "title": "Skyrun 100 Litres Chest Freezer (BD-100HNW) - Grey",
+   "category": "Home & Kitchen",
+   "price": 209990,
+   "old_price": 390845,
+   "discount_percent": 46,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/27/6518652/1.jpg?9422",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:13:34+00:00",
+   "link": "https://www.jumia.com.ng/skyrun-100-litres-chest-freezer-bd-100hnw-grey-256815672.html"
+  },
+  {
    "id": "687bf056c6b8a791",
    "store": "Jumia",
    "title": "Martini Fiero Red Sweet Vermouth Aperitivo 75cl",
@@ -2901,20 +2971,6 @@
    "link": "https://www.jumia.com.ng/aeon-90-litres-chest-freezer-acf90gj-dark-grey-1-year-warranty-401319087.html"
   },
   {
-   "id": "463b4eecd9fc7f5c",
-   "store": "Jumia",
-   "title": "Skyrun 100 Litres Chest Freezer (BD-100HNW) - Grey",
-   "category": "Home & Kitchen",
-   "price": 222984,
-   "old_price": 390845,
-   "discount_percent": 42,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/27/6518652/1.jpg?9422",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:13:34+00:00",
-   "link": "https://www.jumia.com.ng/skyrun-100-litres-chest-freezer-bd-100hnw-grey-256815672.html"
-  },
-  {
    "id": "6b9495bc9e9660cd",
    "store": "Jumia",
    "title": "KingElec 50,000mAh high-capacity Power Banks",
@@ -2955,6 +3011,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:15:05+00:00",
    "link": "https://www.jumia.com.ng/huameisi-premium-usb-wireless-rechargeable-hair-clipper-professional-hair-cutting-tools-battery-display-1200mah-419151171.html"
+  },
+  {
+   "id": "22ebeb21fcaa8563",
+   "store": "Jumia",
+   "title": "TOUPHY Men's Classic Running Sneakers Men's Shoes",
+   "category": "Fashion",
+   "price": 11520,
+   "old_price": 20160,
+   "discount_percent": 42,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/10/996309/1.jpg?1780",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-12T08:40:57+00:00",
+   "link": "https://www.jumia.com.ng/touphy-mens-classic-running-sneakers-mens-shoes-90369901.html"
   },
   {
    "id": "65f19e716c4c17fd",
@@ -3431,6 +3501,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:14:25+00:00",
    "link": "https://www.jumia.com.ng/harpic-power-plus-1-ltr-214165260.html"
+  },
+  {
+   "id": "1adc3baf3580e817",
+   "store": "Jumia",
+   "title": "Philly Philly 20000 MAh Utra Slim Portable Power Bank",
+   "category": "Phones",
+   "price": 7950,
+   "old_price": 12830,
+   "discount_percent": 38,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/21/8617704/1.jpg?3596",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-12T08:40:06+00:00",
+   "link": "https://www.jumia.com.ng/philly-philly-20000-mah-utra-slim-portable-power-bank-407716812.html"
   },
   {
    "id": "fcbf5351b47c48e8",
