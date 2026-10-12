@@ -13,7 +13,7 @@
 #  1. VISITOR COUNTING (Google Analytics)
 #  Paste your Measurement ID (it starts with G-). One line only.
 # ---------------------------------------------------------------------
-# analytics G-XXXXXXXXXX
+analytics G-FJXBL4F648
 
 
 # ---------------------------------------------------------------------
