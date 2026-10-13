@@ -109,6 +109,10 @@ footer{margin-top:32px;color:var(--muted);font-size:13px;display:grid;gap:6px}
   .dotd{padding:14px}
   .dotd .name{font-size:17px;-webkit-line-clamp:4}
 }
+.thumb{display:block;aspect-ratio:1/1;margin:-14px -14px 2px;border-radius:13px 13px 0 0;overflow:hidden;background:#fff}
+.thumb img{width:100%;height:100%;object-fit:contain;display:block}
+.dotd .thumb{margin:0;border-radius:12px;max-width:260px;width:100%;justify-self:center;border:1px solid var(--line)}
+@media (max-width:600px){.card .thumb{margin:-10px -10px 0;border-radius:11px 11px 0 0}}
 </style>
 
 <header>
@@ -225,7 +229,7 @@ function parseControl(text){
     else if(cmd==="hide"){ /^https?:/i.test(rest)?c.hideLinks.add(keyOf(rest)):c.hideWords.push(rest.toLowerCase()); }
     else if(cmd==="sponsored"||cmd==="deal"){
       const p=rest.split("|").map(x=>x.trim());
-      if(p.length>=4&&p[0]&&p[3]) c.sponsored.push({name:p[0],store:p[1]||(cmd==="deal"?"Shop":"Sponsor"),now:parseNum(p[2]),was:parseNum(p[4])||0,link:p[3],cat:p[5]||"Other",sponsored:cmd==="sponsored",manual:cmd==="deal"});
+      if(p.length>=4&&p[0]&&p[3]) c.sponsored.push({name:p[0],store:p[1]||(cmd==="deal"?"Shop":"Sponsor"),now:parseNum(p[2]),was:parseNum(p[4])||0,link:p[3],cat:p[5]||"Other",img:/^https?:\/\//i.test(p[6]||"")?p[6]:"",sponsored:cmd==="sponsored",manual:cmd==="deal"});
     }
   });
   return c;
@@ -273,7 +277,7 @@ async function load(){
     const data=await r.json();
     if(!data.deals||!data.deals.length) throw 0;
     DEALS=data.deals.map(d=>({id:d.id,name:d.title,cat:d.category||"Other",store:d.store,
-      was:d.old_price,now:d.price,code:d.promo_code,link:d.link,
+      was:d.old_price,now:d.price,code:d.promo_code,link:d.link,img:d.image||"",
       hrs:d.ends_at?Math.max(0,Math.round((new Date(d.ends_at)-Date.now())/3600000)):null}));
     updated=data.updated_at;
   }catch(e){ $("#notice").hidden=false; }
@@ -292,6 +296,10 @@ $("#sort").addEventListener("change",e=>{state.sort=e.target.value;render()});
 document.addEventListener("click",e=>{const b=e.target.closest(".fav");if(!b)return;const id=isNaN(b.dataset.id)?b.dataset.id:+b.dataset.id;
   favs.has(id)?favs.delete(id):favs.add(id);saveFavs();render()});
 
+function thumb(d,cls="thumb"){
+  if(!d.img) return "";
+  return `<a class="${cls}" href="${esc(hrefOf(d))}" target="_blank" rel="noopener sponsored" tabindex="-1" aria-hidden="true"><img src="${esc(d.img)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></a>`;
+}
 function hrefOf(d){return d.link||(STORES[d.store]?STORES[d.store](d.name):"#")}
 function goLink(d,place,cls="go"){
   return `<a class="${cls}" href="${esc(hrefOf(d))}" target="_blank" rel="noopener sponsored" data-name="${esc(d.name)}" data-store="${esc(d.store)}" data-place="${place}" data-price="${d.now}">Go to ${esc(d.store)} ↗</a>`;
@@ -311,6 +319,7 @@ function renderDotd(){
   if(!show) return;
   const d=DOTD;
   box.innerHTML=`
+    ${thumb(d,"thumb dotd-thumb")}
     <div class="dotd-label"><span class="flag">Deal of the day</span>${d.sponsored?`<span class="badge sp">Sponsored</span>`:""}<span class="store">${esc(d.store)}</span>${pct(d)?`<span class="off">-${pct(d)}%</span>`:""}</div>
     <h2 class="name">${esc(d.name)}</h2>
     ${priceBlock(d)}
@@ -331,6 +340,7 @@ function render(){
   $("#count").textContent=`${total} deal${total===1?"":"s"}`+(updated?` · updated ${ago(updated)}`:"");
   $("#grid").innerHTML=list.length?list.map(d=>`
     <article class="card${d.pin!=null?" pinned":""}">
+      ${thumb(d)}
       <div class="row"><span class="storewrap"><span class="store">${esc(d.store)}</span>${badges(d)}</span>${pct(d)?`<span class="off">-${pct(d)}%</span>`:""}</div>
       <h2 class="name">${esc(d.name)}</h2>
       ${priceBlock(d)}
