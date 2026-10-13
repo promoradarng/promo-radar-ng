@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-12T20:37:08+00:00",
- "count": 621,
+ "updated_at": "2026-10-13T00:49:32+00:00",
+ "count": 619,
  "deals": [
   {
    "id": "4ff6c2a223009fba",
@@ -129,6 +129,20 @@
    "link": "https://www.jumia.com.ng/kingnote-2-in-1-hair-straightener-and-curler-with-hand-dryer-pink-free-professional-hair-dryer-415815337.html"
   },
   {
+   "id": "b4147a99a682ee39",
+   "store": "Jumia",
+   "title": "Full Touch Screen Smart Bluetooth Call Smartwatch - For Android and iOS - Black",
+   "category": "Phones",
+   "price": 6227,
+   "old_price": 32314,
+   "discount_percent": 80,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/16/6097352/1.jpg?1095",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:13:46+00:00",
+   "link": "https://www.jumia.com.ng/generic-full-touch-screen-smart-bluetooth-call-smartwatch-for-android-and-ios-black-253790661.html"
+  },
+  {
    "id": "9e8f3478ea204aa5",
    "store": "Jumia",
    "title": "LONTOR Portable Wireless Bluetooth Speaker Subwoofer Water Proof",
@@ -197,20 +211,6 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:15:05+00:00",
    "link": "https://www.jumia.com.ng/blood-pressure-monitor-digital-blood-pressure-monitor-for-home-use-digital-bp-machine-gift-with-finger-pulse-function-touphy-mpg11973529.html"
-  },
-  {
-   "id": "b4147a99a682ee39",
-   "store": "Jumia",
-   "title": "Full Touch Screen Smart Bluetooth Call Smartwatch - For Android and iOS - Black",
-   "category": "Phones",
-   "price": 6696,
-   "old_price": 32314,
-   "discount_percent": 79,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/16/6097352/1.jpg?1095",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:13:46+00:00",
-   "link": "https://www.jumia.com.ng/generic-full-touch-screen-smart-bluetooth-call-smartwatch-for-android-and-ios-black-253790661.html"
   },
   {
    "id": "5e06486bdb302af4",
@@ -1224,7 +1224,7 @@
    "id": "5d8ea8785659e7dc",
    "store": "Jumia",
    "title": "Oraimo SpaceBuds Neo True Wireless Spatial Earbuds Sound360 Audio - Black",
-   "category": "Phones",
+   "category": "Electronics",
    "price": 16552,
    "old_price": 43200,
    "discount_percent": 61,
@@ -1485,20 +1485,6 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:13:34+00:00",
    "link": "https://www.jumia.com.ng/ecoflow-ecoflow-solar-generator-river-2-pro-with-160w-solar-panel-protable-solar-generator-with-panel-398822759.html"
-  },
-  {
-   "id": "72868642ceae7751",
-   "store": "Jumia",
-   "title": "Universal Steering Wheel Lock Anti-Theft Device - Black",
-   "category": "Electronics",
-   "price": 13986,
-   "old_price": 33610,
-   "discount_percent": 58,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/67/4098352/1.jpg?8719",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:02+00:00",
-   "link": "https://www.jumia.com.ng/generic-universal-steering-wheel-lock-anti-theft-device-black-253890476.html"
   },
   {
    "id": "6f3d587db92ad28f",
@@ -2229,20 +2215,6 @@
    "link": "https://www.jumia.com.ng/mythco-wireless-body-induction-lampled-motion-sensor-night-light-375807590.html"
   },
   {
-   "id": "bee4e57233bfc937",
-   "store": "Jumia",
-   "title": "Head Mounted Camera Holder With Adjustable Nylon Strap for Most Head Sizes,With EMOTE Mobile Phone POV Mount for Cycling, Fishing, Motorcycling and Other Outdoor Sports",
-   "category": "Electronics",
-   "price": 6990,
-   "old_price": 14400,
-   "discount_percent": 51,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/91/5365914/1.jpg?7118",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:13:56+00:00",
-   "link": "https://www.jumia.com.ng/generic-head-mounted-camera-holder-with-adjustable-nylon-strap-for-most-head-sizeswith-emote-mobile-phone-pov-mount-for-cycling-fishing-motorcycling-and-other-outdoor-sports-419563519.html"
-  },
-  {
    "id": "f8aa123b0634fed3",
    "store": "Jumia",
    "title": "GALUIN Men's Trendy Casual Sneakers - White",
@@ -2339,6 +2311,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:13:56+00:00",
    "link": "https://www.jumia.com.ng/lp-lp-smart-tv-32-android-14.0-18g-frameless-hd-wifi-2-hdmi-2-usb-ports-1-year-warranty-black-418927155.html"
+  },
+  {
+   "id": "bee4e57233bfc937",
+   "store": "Jumia",
+   "title": "Head Mounted Camera Holder With Adjustable Nylon Strap for Most Head Sizes,With EMOTE Mobile Phone POV Mount for Cycling, Fishing, Motorcycling and Other Outdoor Sports",
+   "category": "Electronics",
+   "price": 7100,
+   "old_price": 14400,
+   "discount_percent": 50,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/91/5365914/1.jpg?7118",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:13:56+00:00",
+   "link": "https://www.jumia.com.ng/generic-head-mounted-camera-holder-with-adjustable-nylon-strap-for-most-head-sizeswith-emote-mobile-phone-pov-mount-for-cycling-fishing-motorcycling-and-other-outdoor-sports-419563519.html"
   },
   {
    "id": "11d5b22a8e1206b6",
@@ -2733,6 +2719,20 @@
    "link": "https://www.jumia.com.ng/fashion-womens-casual-lace-up-contrast-color-sneakers-comfortable-sporty-419004067.html"
   },
   {
+   "id": "7ab29921f93cc4a5",
+   "store": "Jumia",
+   "title": "10KG Dumbbell Set With Barbell Extension",
+   "category": "Other",
+   "price": 27999,
+   "old_price": 55000,
+   "discount_percent": 49,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/7637814/1.jpg?0454",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-13T00:47:16+00:00",
+   "link": "https://www.jumia.com.ng/generic-10kg-dumbbell-set-with-barbell-extension-418736757.html"
+  },
+  {
    "id": "524c32b59cf6a93b",
    "store": "Jumia",
    "title": "GALUIN Men's Non-slip Breathable Casual Shoes",
@@ -2817,6 +2817,20 @@
    "link": "https://www.jumia.com.ng/galuin-mens-casual-board-shoes-running-sneakers-black-337811834.html"
   },
   {
+   "id": "f10ae017038ccc22",
+   "store": "Jumia",
+   "title": "Zealot S32 Portable Bluetooth Speaker",
+   "category": "Electronics",
+   "price": 13060,
+   "old_price": 25000,
+   "discount_percent": 47,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/7132914/1.jpg?8195",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:13:56+00:00",
+   "link": "https://www.jumia.com.ng/zealot-s32-portable-bluetooth-speaker-419231729.html"
+  },
+  {
    "id": "ac34f96dbc712d56",
    "store": "Jumia",
    "title": "Seamless Shapewear Bodysuit Women's Tummy Control Body Shapers",
@@ -2876,7 +2890,7 @@
    "id": "a0f8b36d5ec9f7d3",
    "store": "Jumia",
    "title": "Victory R Swivel Office Chair",
-   "category": "Home & Kitchen",
+   "category": "Beauty & Health",
    "price": 42240,
    "old_price": 80000,
    "discount_percent": 47,
@@ -3013,20 +3027,6 @@
    "link": "https://www.jumia.com.ng/generic-wireless-bluetooth-headsets-earphones-earbuds-airpods-252698995.html"
   },
   {
-   "id": "f10ae017038ccc22",
-   "store": "Jumia",
-   "title": "Zealot S32 Portable Bluetooth Speaker",
-   "category": "Electronics",
-   "price": 13370,
-   "old_price": 25000,
-   "discount_percent": 46,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/7132914/1.jpg?8195",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:13:56+00:00",
-   "link": "https://www.jumia.com.ng/zealot-s32-portable-bluetooth-speaker-419231729.html"
-  },
-  {
    "id": "babadddf84a3b93d",
    "store": "Jumia",
    "title": "New LED Curved Screen Waterproof Electronic Bracelet Watch for Children - Black",
@@ -3137,6 +3137,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:13:56+00:00",
    "link": "https://www.jumia.com.ng/lp-smart-tv-43-android-14.0-frameless-full-hd-18g-wifibluetooth-2-hdmi-2-usb-ports-1-year-warranty-black-419220352.html"
+  },
+  {
+   "id": "16efd8f437843927",
+   "store": "Jumia",
+   "title": "TOUPHY T-Shirts +Shorts 100% Cotton Men's Short Sleeve Set-Black",
+   "category": "Fashion",
+   "price": 8314,
+   "old_price": 15362,
+   "discount_percent": 45,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/4863942/1.jpg?6479",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:55+00:00",
+   "link": "https://www.jumia.com.ng/touphy-t-shirts-shorts-100-cotton-mens-short-sleeve-set-black-249368408.html"
   },
   {
    "id": "1a2b3d116cca92ad",
@@ -3333,20 +3347,6 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:14:02+00:00",
    "link": "https://www.jumia.com.ng/power-pod-earbuds-ne105-earphones-wireless-bluetooth-5.4-earbuds-earphones-headset-for-android-iphone-wireless-earphone-headphones-earbuds-with-bass-418787007.html"
-  },
-  {
-   "id": "96b5b1e3353a6593",
-   "store": "Jumia",
-   "title": "Men Casual Quartz Watch With Stainless Steel Strap",
-   "category": "Fashion",
-   "price": 2981,
-   "old_price": 5314,
-   "discount_percent": 43,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/56/1402323/1.jpg?1827",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:55+00:00",
-   "link": "https://www.jumia.com.ng/fashion-men-casual-quartz-watch-with-stainless-steel-strap-323204165.html"
   },
   {
    "id": "9eb955387ad7f6d7",
@@ -3585,20 +3585,6 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:13:56+00:00",
    "link": "https://www.jumia.com.ng/addigoes-power-strip-extension-socket-with-usb-4-ac-outlets-4-usb-ports-type-c-arctic-white-403510426.html"
-  },
-  {
-   "id": "16efd8f437843927",
-   "store": "Jumia",
-   "title": "TOUPHY T-Shirts +Shorts 100% Cotton Men's Short Sleeve Set-Black",
-   "category": "Fashion",
-   "price": 8940,
-   "old_price": 15362,
-   "discount_percent": 41,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/4863942/1.jpg?6479",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:55+00:00",
-   "link": "https://www.jumia.com.ng/touphy-t-shirts-shorts-100-cotton-mens-short-sleeve-set-black-249368408.html"
   },
   {
    "id": "31bfcda1aeabcc4d",
@@ -4047,6 +4033,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:14:51+00:00",
    "link": "https://www.jumia.com.ng/fashion-2-in-1-photochromic-color-changing-anti-blue-light-photochromic-glass-all-day-computer-reading-glasses-with-uv400-anti-glare-protection-388971580.html"
+  },
+  {
+   "id": "55f12d3c987581e2",
+   "store": "Jumia",
+   "title": "Dou-color  Men's 2-in-1 Short Sleeved T-shirt And Pants Set - Black",
+   "category": "Fashion",
+   "price": 8928,
+   "old_price": 14400,
+   "discount_percent": 38,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/5258382/1.jpg?8614",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-12T00:46:30+00:00",
+   "link": "https://www.jumia.com.ng/dou-color-mens-2-in-1-short-sleeved-t-shirt-and-pants-set-black-283852557.html"
   },
   {
    "id": "d0cf6c53826f8ff2",
@@ -4707,20 +4707,6 @@
    "link": "https://www.jumia.com.ng/lp-43-tv-wall-mount-bracket-419368236.html"
   },
   {
-   "id": "55f12d3c987581e2",
-   "store": "Jumia",
-   "title": "Dou-color  Men's 2-in-1 Short Sleeved T-shirt And Pants Set - Black",
-   "category": "Fashion",
-   "price": 9600,
-   "old_price": 14400,
-   "discount_percent": 33,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/5258382/1.jpg?8614",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-12T00:46:30+00:00",
-   "link": "https://www.jumia.com.ng/dou-color-mens-2-in-1-short-sleeved-t-shirt-and-pants-set-black-283852557.html"
-  },
-  {
    "id": "9185cc6beccf2d65",
    "store": "Jumia",
    "title": "Elepaq 4.5KVA Key Start Generator - SV8500E2 100% Copper",
@@ -5307,20 +5293,6 @@
    "ends_at": null,
    "first_seen": "2026-10-12T00:46:04+00:00",
    "link": "https://www.jumia.com.ng/cyfaza-wardrobe-for-clothes-portable-closet-with-cover-3-column-3-hanging-sections-organizer-with-shelves-dustproof-fabric-clothes-storage-easy-to-assemble-408165530.html"
-  },
-  {
-   "id": "c4d4adf8c242307b",
-   "store": "Jumia",
-   "title": "Nestle Golden Morn Grainsmart 600g",
-   "category": "Groceries",
-   "price": 3499,
-   "old_price": 5000,
-   "discount_percent": 30,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/31/4801812/1.jpg?8729",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:25+00:00",
-   "link": "https://www.jumia.com.ng/nestle-golden-morn-grainsmart-600g-218108413.html"
   },
   {
    "id": "6c5c6e2350e0d1ac",
