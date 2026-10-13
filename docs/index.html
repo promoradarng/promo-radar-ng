@@ -87,6 +87,28 @@ footer{margin-top:32px;color:var(--muted);font-size:13px;display:grid;gap:6px}
 .dotd .now{font-size:26px}
 .dotd .go{flex:none;padding:12px 22px}
 @media (prefers-reduced-motion:no-preference){.card{transition:transform .15s}.card:hover{transform:translateY(-2px)}}
+@media (max-width:600px){
+  /* Phones: two deals side by side */
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .card{padding:10px;gap:6px;border-radius:12px}
+  .row{flex-wrap:wrap;gap:4px}
+  .store{font-size:10.5px}
+  .off{font-size:11.5px;padding:2px 6px 2px 10px}
+  .name{font-size:13.5px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .prices{gap:6px}
+  .now{font-size:16px}
+  .was{font-size:11.5px}
+  .save{font-size:12px}
+  .meta{font-size:11px;gap:4px}
+  .meta .pill{padding:2px 6px}
+  .code{font-size:11px}
+  .actions{gap:6px}
+  .go{padding:9px 6px;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+  .fav{width:34px;flex:none;font-size:16px}
+  .badge{font-size:9.5px;padding:1px 5px}
+  .dotd{padding:14px}
+  .dotd .name{font-size:17px;-webkit-line-clamp:4}
+}
 </style>
 
 <header>
@@ -201,16 +223,16 @@ function parseControl(text){
     else if(cmd==="deal-of-the-day") c.dotd=keyOf(rest);
     else if(cmd==="pin") c.pins.push(keyOf(rest));
     else if(cmd==="hide"){ /^https?:/i.test(rest)?c.hideLinks.add(keyOf(rest)):c.hideWords.push(rest.toLowerCase()); }
-    else if(cmd==="sponsored"){
+    else if(cmd==="sponsored"||cmd==="deal"){
       const p=rest.split("|").map(x=>x.trim());
-      if(p.length>=4&&p[0]&&p[3]) c.sponsored.push({name:p[0],store:p[1]||"Sponsor",now:parseNum(p[2]),was:parseNum(p[4])||0,link:p[3],cat:p[5]||"Other",sponsored:true});
+      if(p.length>=4&&p[0]&&p[3]) c.sponsored.push({name:p[0],store:p[1]||(cmd==="deal"?"Shop":"Sponsor"),now:parseNum(p[2]),was:parseNum(p[4])||0,link:p[3],cat:p[5]||"Other",sponsored:cmd==="sponsored",manual:cmd==="deal"});
     }
   });
   return c;
 }
 function applyControl(c){
   const pinRank=new Map(c.pins.map((k,i)=>[k,i]));
-  const sp=c.sponsored.map((d,i)=>({...d,id:"sp-"+i,key:keyOf(d.link),hrs:null}));
+  const sp=c.sponsored.map((d,i)=>({...d,id:(d.manual?"hp-":"sp-")+i,key:keyOf(d.link),hrs:null}));
   let all=[...sp,...DEALS.map(d=>({...d,key:keyOf(d.link)}))];
   all=all.filter(d=>!c.hideLinks.has(d.key)&&!c.hideWords.some(w=>d.name.toLowerCase().includes(w)));
   // Very big "discounts" are usually a fake old price set by the seller. Your own sponsored deals are never hidden.
