@@ -61,3 +61,6 @@ max-discount 70
 #  Fashion, Beauty & Health, Travel
 # ---------------------------------------------------------------------
 # sponsored | Ankara Kaftan Set (Men) | Ada Couture | 22000 | https://adacouture.ng/kaftan | 35000 | Fashion
+
+deal | Acer Wireless Earbuds, Noise-Cancelling Mic, Long Battery | Temu | 16025 | https://share.temu.com/eSEPhUNcdmB | 27884 | Electronics
+pin https://share.temu.com/eSEPhUNcdmB
