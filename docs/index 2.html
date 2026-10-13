@@ -1,0 +1,345 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Promo Radar NG finds real discounts from Nigerian shops, checked every few hours, with fake 'slashed prices' filtered out.">
+<title>Promo Radar NG</title>
+<!-- How the link looks when shared on Facebook, WhatsApp, X -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Promo Radar NG">
+<meta property="og:title" content="Promo Radar NG: real discounts from Nigerian shops">
+<meta property="og:description" content="Hundreds of real deals on phones, electronics, groceries and fashion, checked every few hours. Fake discounts filtered out.">
+<meta property="og:url" content="https://promoradarng.com.ng/">
+<meta property="og:image" content="https://promoradarng.com.ng/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600&family=JetBrains+Mono:wght@500;700&display=swap">
+<style>
+/* Layout: sticky header with search, chip row for categories, filter bar, card grid of price tags */
+:root{
+  --bg:#f6f5f1; --surface:#ffffff; --fg:#17201b; --muted:#5d6a62; --line:#e2e2da;
+  --accent:#0f7a4a; --accent-fg:#ffffff; --tag:#ffd44a; --tag-fg:#2a2205; --hot:#c8361c;
+  --chip:#ecebe4;
+  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --body:"Figtree",ui-sans-serif,system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0f1512; --surface:#18201c; --fg:#eef1ec; --muted:#9aa89f; --line:#2a352f;
+  --accent:#3ccf8a; --accent-fg:#06200f; --tag:#ffd44a; --tag-fg:#2a2205; --hot:#ff7a5c; --chip:#212b26; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1512; --surface:#18201c; --fg:#eef1ec; --muted:#9aa89f; --line:#2a352f;
+  --accent:#3ccf8a; --accent-fg:#06200f; --tag:#ffd44a; --tag-fg:#2a2205; --hot:#ff7a5c; --chip:#212b26; color-scheme:dark}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.45}
+.wrap{max-width:1080px;margin:0 auto;padding-inline:16px;padding-block:0 48px}
+header{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+.top{max-width:1080px;margin:0 auto;padding:14px 16px 12px;display:flex;flex-direction:column;gap:12px}
+.brand{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.logo{font-family:var(--display);font-weight:800;font-size:26px;letter-spacing:-.02em;margin:0}
+.logo span{background:var(--tag);color:var(--tag-fg);padding:0 6px;border-radius:4px;margin-left:2px}
+.tagline{color:var(--muted);font-size:13px}
+.search{display:flex;gap:8px}
+.search input{flex:1;min-width:0;font:inherit;padding:11px 14px;border-radius:10px;border:1px solid var(--line);background:var(--surface);color:var(--fg)}
+.search input:focus,.chip:focus-visible,select:focus,a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.chips{display:flex;gap:8px;overflow-x:auto;padding-bottom:2px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;font:500 13px var(--body);padding:7px 13px;border-radius:999px;border:1px solid transparent;background:var(--chip);color:var(--fg);cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--fg);color:var(--bg)}
+.notice{margin:16px 0 0;padding:10px 14px;border:1px dashed var(--line);border-radius:10px;color:var(--muted);font-size:13px}
+.notice b{color:var(--fg)}
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between;margin:18px 0 14px}
+.count{font-family:var(--display);font-weight:600;font-size:18px;margin:0}
+.filters{display:flex;gap:8px;flex-wrap:wrap}
+select{font:inherit;font-size:13px;padding:7px 10px;border-radius:8px;border:1px solid var(--line);background:var(--surface);color:var(--fg)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px;display:flex;flex-direction:column;gap:10px;position:relative;min-width:0}
+.row{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.store{font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.off{font-family:var(--mono);font-weight:700;font-size:13px;background:var(--tag);color:var(--tag-fg);padding:3px 8px;border-radius:5px;clip-path:polygon(8px 0,100% 0,100% 100%,8px 100%,0 50%);padding-left:12px}
+.name{font-weight:600;font-size:16px;line-height:1.3;margin:0;text-wrap:balance}
+.prices{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;font-variant-numeric:tabular-nums}
+.now{font-family:var(--mono);font-weight:700;font-size:20px}
+.was{font-family:var(--mono);font-size:13px;color:var(--muted);text-decoration:line-through}
+.save{font-size:13px;color:var(--accent);font-weight:600}
+.meta{display:flex;gap:6px;flex-wrap:wrap;font-size:12px;color:var(--muted)}
+.meta .pill{background:var(--chip);padding:3px 8px;border-radius:999px}
+.meta .pill.ending{color:var(--hot);font-weight:600}
+.code{font-family:var(--mono);font-size:12px;border:1px dashed var(--muted);padding:2px 7px;border-radius:5px;color:var(--fg)}
+.actions{display:flex;gap:8px;margin-top:auto}
+.go{flex:1;text-align:center;text-decoration:none;font-weight:600;padding:10px;border-radius:10px;background:var(--accent);color:var(--accent-fg)}
+.go:hover{filter:brightness(1.08)}
+.fav{width:44px;border-radius:10px;border:1px solid var(--line);background:transparent;color:var(--fg);font-size:18px;cursor:pointer}
+.fav[aria-pressed="true"]{color:var(--hot);border-color:var(--hot)}
+.empty{grid-column:1/-1;text-align:center;color:var(--muted);padding:40px 0}
+footer{margin-top:32px;color:var(--muted);font-size:13px;display:grid;gap:6px}
+.storewrap{display:flex;align-items:center;gap:6px;flex-wrap:wrap;min-width:0}
+.badge{font-size:10.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:2px 7px;border-radius:5px;background:var(--accent);color:var(--accent-fg)}
+.badge.sp{background:var(--chip);color:var(--fg);border:1px solid var(--line)}
+.card.pinned{border-color:var(--accent)}
+.dotd{margin-top:18px;background:var(--surface);border:2px solid var(--tag);border-radius:16px;padding:18px;display:grid;gap:10px}
+.dotd-label{font-family:var(--display);font-weight:800;font-size:13px;letter-spacing:.08em;text-transform:uppercase;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.dotd-label .flag{background:var(--tag);color:var(--tag-fg);padding:3px 9px;border-radius:6px}
+.dotd .name{font-size:20px}
+.dotd .now{font-size:26px}
+.dotd .go{flex:none;padding:12px 22px}
+@media (prefers-reduced-motion:no-preference){.card{transition:transform .15s}.card:hover{transform:translateY(-2px)}}
+@media (max-width:600px){
+  /* Phones: two deals side by side */
+  .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .card{padding:10px;gap:6px;border-radius:12px}
+  .row{flex-wrap:wrap;gap:4px}
+  .store{font-size:10.5px}
+  .off{font-size:11.5px;padding:2px 6px 2px 10px}
+  .name{font-size:13.5px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .prices{gap:6px}
+  .now{font-size:16px}
+  .was{font-size:11.5px}
+  .save{font-size:12px}
+  .meta{font-size:11px;gap:4px}
+  .meta .pill{padding:2px 6px}
+  .code{font-size:11px}
+  .actions{gap:6px}
+  .go{padding:9px 6px;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+  .fav{width:34px;flex:none;font-size:16px}
+  .badge{font-size:9.5px;padding:1px 5px}
+  .dotd{padding:14px}
+  .dotd .name{font-size:17px;-webkit-line-clamp:4}
+}
+</style>
+
+<header>
+  <div class="top">
+    <div class="brand">
+      <h1 class="logo">Promo Radar<span>NG</span></h1>
+      <div class="tagline">Real promos from Nigerian shops. Tap to buy on the shop's own site.</div>
+    </div>
+    <div class="search"><input id="q" type="search" placeholder="Search phones, rice, sneakers, flights…" aria-label="Search deals"></div>
+    <div class="chips" id="cats" role="toolbar" aria-label="Categories"></div>
+  </div>
+</header>
+
+<main class="wrap">
+  <p class="notice" id="notice" hidden><b>Example deals.</b> Live deals appear here after the deal finder's first run. Prices and promo codes below are samples. Buttons open each shop's real website.</p>
+  <section class="dotd" id="dotd" hidden aria-label="Deal of the day"></section>
+  <div class="bar">
+    <p class="count" id="count"></p>
+    <div class="filters">
+      <select id="store" aria-label="Filter by shop"></select>
+      <select id="sort" aria-label="Sort deals">
+        <option value="off">Biggest discount</option>
+        <option value="save">Most Naira saved</option>
+        <option value="ending">Ending soon</option>
+        <option value="low">Lowest price</option>
+      </select>
+    </div>
+  </div>
+  <section class="grid" id="grid" aria-live="polite"></section>
+  <footer>
+    <div>Only direct shops and the best brands are listed here.</div>
+    <div>Some links are affiliate links: we may earn a small commission if you buy, at no extra cost to you. "Sponsored" deals are paid placements. Prices can change, so always check on the shop's site.</div>
+    <div id="analytics-note" hidden>This site uses Google Analytics to count visits and deal clicks.</div>
+  </footer>
+</main>
+
+<script>
+const STORES={
+  "Jumia":q=>"https://www.jumia.com.ng/catalog/?q="+encodeURIComponent(q),
+  "Konga":q=>"https://www.konga.com/search?search="+encodeURIComponent(q),
+  "Slot":q=>"https://slot.ng/catalogsearch/result/?q="+encodeURIComponent(q),
+  "Pointek":()=>"https://www.pointekonline.com/",
+  "Kara":q=>"https://www.kara.com.ng/catalogsearch/result/?q="+encodeURIComponent(q),
+  "Spar":()=>"https://www.sparnigeria.com/",
+  "Air Peace":()=>"https://www.flyairpeace.com/",
+  "HealthPlus":()=>"https://www.healthplus.com.ng/"
+};
+const CATS=["All","Phones","Electronics","Home & Kitchen","Groceries","Fashion","Beauty & Health","Travel"];
+// Example data only. hrs = hours until promo ends.
+const SAMPLE=[
+ ["Tecno Spark 30 (8GB/256GB)","Phones","Slot",229000,189000,30],
+ ["Infinix Hot 50 (8GB/128GB)","Phones","Jumia",215000,172000,52],
+ ["Samsung Galaxy A16 (128GB)","Phones","Pointek",289000,249000,120],
+ ["Itel A70 (4GB/64GB)","Phones","Konga",98000,79500,18],
+ ["Hisense 43\" Smart TV","Electronics","Kara",420000,335000,70],
+ ["Oraimo FreePods 4","Electronics","Jumia",32000,21900,8],
+ ["HP 15 Laptop, Core i5, 16GB","Electronics","Slot",780000,689000,96],
+ ["Itel 20,000mAh Power Bank","Electronics","Konga",21000,14500,40],
+ ["Scanfrost 7kg Chest Freezer (150L)","Home & Kitchen","Kara",365000,299000,48],
+ ["Binatone 1.7L Electric Kettle","Home & Kitchen","Konga",26500,18900,22],
+ ["Nexus 1.5HP Split AC","Home & Kitchen","Jumia",510000,439000,140],
+ ["Kenwood Blender 1.5L","Home & Kitchen","Spar",68000,54000,60],
+ ["Mama Gold Rice 25kg","Groceries","Spar",48000,41500,36],
+ ["Golden Penny Spaghetti (carton, 20 x 500g)","Groceries","Jumia",24000,19800,12],
+ ["Power Oil 5L","Groceries","Konga",27500,23900,72],
+ ["Milo Refill 1kg","Groceries","Spar",16500,13900,5],
+ ["Men's Ankara Kaftan Set","Fashion","Konga",35000,22000,84],
+ ["Adidas Running Sneakers","Fashion","Jumia",85000,59500,26],
+ ["Women's Leather Handbag","Fashion","Jumia",42000,27300,44],
+ ["Nivea Body Lotion 400ml (pack of 2)","Beauty & Health","HealthPlus",21000,16800,66],
+ ["Oral-B Electric Toothbrush","Beauty & Health","HealthPlus",38000,29900,110],
+ ["Omron Blood Pressure Monitor","Beauty & Health","Jumia",62000,48500,30],
+ ["Lagos to Abuja one-way fare","Travel","Air Peace",145000,118000,20],
+ ["Lagos to Port Harcourt one-way fare","Travel","Air Peace",132000,109000,9]
+].map((d,i)=>({id:i,name:d[0],cat:d[1],store:d[2],was:d[3],now:d[4],hrs:d[5],
+  code:[1,5,13,17,22].includes(i)?["RADAR10","FLASHNOW","SPARSAVE","STEPUP","FLYPEACE"][[1,5,13,17,22].indexOf(i)]:null}));
+
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const naira=n=>"₦"+Number(n).toLocaleString("en-NG");
+const pct=d=>d.was>d.now?Math.floor((d.was-d.now)*100/d.was):0;
+const ends=h=>h<24?`Ends in ${h}h`:`Ends in ${Math.round(h/24)}d`;
+const ago=iso=>{const m=Math.max(1,Math.round((Date.now()-new Date(iso))/60000));
+  return m<60?`${m} min ago`:m<1440?`${Math.round(m/60)}h ago`:`${Math.round(m/1440)}d ago`};
+let DEALS=SAMPLE, updated="", DOTD=null;
+let state={cat:"All",q:"",store:"All",sort:"off"};
+let favs=new Set();
+try{favs=new Set(JSON.parse(localStorage.getItem("promoradar-favs")||"[]"))}catch(e){}
+function saveFavs(){try{localStorage.setItem("promoradar-favs",JSON.stringify([...favs]))}catch(e){}}
+
+// ---- Owner controls (control.txt) -------------------------------------------
+// Turns any product link into a simple key, so a pasted Jumia link matches the
+// deal even if it has tracking bits on the end or is wrapped in an affiliate link.
+function keyOf(link){
+  if(!link) return "";
+  let s=String(link).trim();
+  const m=s.match(/[?&](?:redirect|url|u)=([^&]+)/i);
+  if(m){try{s=decodeURIComponent(m[1])}catch(e){}}
+  try{const u=new URL(s);return (u.hostname.replace(/^www\./,"")+u.pathname).replace(/\/+$/,"").toLowerCase()}
+  catch(e){return s.toLowerCase()}
+}
+function parseNum(s){return Number(String(s||"").replace(/[^\d.]/g,""))||0}
+function parseControl(text){
+  const c={analytics:"",dotd:"",pins:[],hideLinks:new Set(),hideWords:[],sponsored:[],maxOff:70};
+  text.split(/\r?\n/).forEach(raw=>{
+    const line=raw.trim();
+    if(!line||line.startsWith("#")) return;
+    const m=line.match(/^([a-z-]+)\s*(.*)$/i); if(!m) return;
+    const cmd=m[1].toLowerCase(), rest=m[2].replace(/^\|/,"").trim();
+    if(cmd==="analytics") c.analytics=rest;
+    else if(cmd==="max-discount"){ const n=parseNum(rest); if(n>0&&n<=100) c.maxOff=n; }
+    else if(cmd==="deal-of-the-day") c.dotd=keyOf(rest);
+    else if(cmd==="pin") c.pins.push(keyOf(rest));
+    else if(cmd==="hide"){ /^https?:/i.test(rest)?c.hideLinks.add(keyOf(rest)):c.hideWords.push(rest.toLowerCase()); }
+    else if(cmd==="sponsored"||cmd==="deal"){
+      const p=rest.split("|").map(x=>x.trim());
+      if(p.length>=4&&p[0]&&p[3]) c.sponsored.push({name:p[0],store:p[1]||(cmd==="deal"?"Shop":"Sponsor"),now:parseNum(p[2]),was:parseNum(p[4])||0,link:p[3],cat:p[5]||"Other",sponsored:cmd==="sponsored",manual:cmd==="deal"});
+    }
+  });
+  return c;
+}
+function applyControl(c){
+  const pinRank=new Map(c.pins.map((k,i)=>[k,i]));
+  const sp=c.sponsored.map((d,i)=>({...d,id:(d.manual?"hp-":"sp-")+i,key:keyOf(d.link),hrs:null}));
+  let all=[...sp,...DEALS.map(d=>({...d,key:keyOf(d.link)}))];
+  all=all.filter(d=>!c.hideLinks.has(d.key)&&!c.hideWords.some(w=>d.name.toLowerCase().includes(w)));
+  // Very big "discounts" are usually a fake old price set by the seller. Your own sponsored deals are never hidden.
+  all=all.filter(d=>d.sponsored||pct(d)<=c.maxOff);
+  all.forEach(d=>{ if(pinRank.has(d.key)) d.pin=pinRank.get(d.key); });
+  DOTD=c.dotd?all.find(d=>d.key===c.dotd)||null:null;
+  DEALS=all;
+  if(c.analytics) startAnalytics(c.analytics);
+}
+
+// ---- Visitor counting (Google Analytics) ------------------------------------
+function startAnalytics(id){
+  if(!/^G-[A-Z0-9]+$/i.test(id)) return;
+  window.dataLayer=window.dataLayer||[];
+  window.gtag=function(){dataLayer.push(arguments)};
+  gtag("js",new Date()); gtag("config",id);
+  const s=document.createElement("script"); s.async=true;
+  s.src="https://www.googletagmanager.com/gtag/js?id="+encodeURIComponent(id);
+  document.head.appendChild(s);
+  $("#analytics-note").hidden=false;
+}
+document.addEventListener("click",e=>{
+  const a=e.target.closest("a.go"); if(!a||!window.gtag) return;
+  gtag("event","deal_click",{deal_name:a.dataset.name,shop:a.dataset.store,placement:a.dataset.place,price:Number(a.dataset.price)||0});
+});
+
+function buildFilters(){
+  const cats=[...new Set([...CATS,...DEALS.map(d=>d.cat)])];
+  $("#cats").innerHTML=[...cats,"Saved"].map(c=>`<button class="chip" data-cat="${esc(c)}" aria-pressed="${c===state.cat}">${c==="Saved"?"♥ Saved":esc(c)}</button>`).join("");
+  const shops=[...new Set(DEALS.map(d=>d.store))].sort();
+  $("#store").innerHTML=["All",...shops].map(s=>`<option value="${esc(s)}">${s==="All"?"All shops":esc(s)}</option>`).join("");
+}
+
+async function load(){
+  try{
+    const r=await fetch("deals.json",{cache:"no-store"});
+    if(!r.ok) throw 0;
+    const data=await r.json();
+    if(!data.deals||!data.deals.length) throw 0;
+    DEALS=data.deals.map(d=>({id:d.id,name:d.title,cat:d.category||"Other",store:d.store,
+      was:d.old_price,now:d.price,code:d.promo_code,link:d.link,
+      hrs:d.ends_at?Math.max(0,Math.round((new Date(d.ends_at)-Date.now())/3600000)):null}));
+    updated=data.updated_at;
+  }catch(e){ $("#notice").hidden=false; }
+  try{
+    const r=await fetch("control.txt",{cache:"no-store"});
+    if(r.ok) applyControl(parseControl(await r.text()));
+  }catch(e){}
+  buildFilters(); render();
+}
+
+$("#cats").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;state.cat=b.dataset.cat;
+  document.querySelectorAll(".chip").forEach(x=>x.setAttribute("aria-pressed",x===b));render()});
+$("#q").addEventListener("input",e=>{state.q=e.target.value.trim().toLowerCase();render()});
+$("#store").addEventListener("change",e=>{state.store=e.target.value;render()});
+$("#sort").addEventListener("change",e=>{state.sort=e.target.value;render()});
+document.addEventListener("click",e=>{const b=e.target.closest(".fav");if(!b)return;const id=isNaN(b.dataset.id)?b.dataset.id:+b.dataset.id;
+  favs.has(id)?favs.delete(id):favs.add(id);saveFavs();render()});
+
+function hrefOf(d){return d.link||(STORES[d.store]?STORES[d.store](d.name):"#")}
+function goLink(d,place,cls="go"){
+  return `<a class="${cls}" href="${esc(hrefOf(d))}" target="_blank" rel="noopener sponsored" data-name="${esc(d.name)}" data-store="${esc(d.store)}" data-place="${place}" data-price="${d.now}">Go to ${esc(d.store)} ↗</a>`;
+}
+function priceBlock(d){
+  return `<div class="prices"><span class="now">${naira(d.now)}</span>${d.was>d.now?`<span class="was">${naira(d.was)}</span>`:""}</div>
+      ${d.was>d.now?`<div class="save">You save ${naira(d.was-d.now)}</div>`:""}`;
+}
+function badges(d){
+  return (d.sponsored?`<span class="badge sp">Sponsored</span>`:"")+(d.pin!=null?`<span class="badge">Top pick</span>`:"");
+}
+
+function renderDotd(){
+  const box=$("#dotd");
+  const show=DOTD&&state.cat==="All"&&!state.q&&state.store==="All";
+  box.hidden=!show;
+  if(!show) return;
+  const d=DOTD;
+  box.innerHTML=`
+    <div class="dotd-label"><span class="flag">Deal of the day</span>${d.sponsored?`<span class="badge sp">Sponsored</span>`:""}<span class="store">${esc(d.store)}</span>${pct(d)?`<span class="off">-${pct(d)}%</span>`:""}</div>
+    <h2 class="name">${esc(d.name)}</h2>
+    ${priceBlock(d)}
+    <div class="actions">${goLink(d,"deal_of_the_day")}</div>`;
+}
+
+function render(){
+  renderDotd();
+  let list=DEALS.filter(d=>d!==DOTD||$("#dotd").hidden).filter(d=>
+    (state.cat==="All"||(state.cat==="Saved"?favs.has(d.id):d.cat===state.cat))&&
+    (state.store==="All"||d.store===state.store)&&
+    (!state.q||(d.name+" "+d.store+" "+d.cat).toLowerCase().includes(state.q)));
+  const by={off:(a,b)=>pct(b)-pct(a),save:(a,b)=>(b.was-b.now)-(a.was-a.now),ending:(a,b)=>(a.hrs??1e9)-(b.hrs??1e9),low:(a,b)=>a.now-b.now}[state.sort];
+  // Sponsored first, then your pins in the order you listed them, then everything else by the chosen sort.
+  const rank=d=>d.sponsored?0:d.pin!=null?1:2;
+  list.sort((a,b)=>rank(a)-rank(b)||(a.pin??0)-(b.pin??0)||by(a,b));
+  const total=list.length+($("#dotd").hidden?0:1);
+  $("#count").textContent=`${total} deal${total===1?"":"s"}`+(updated?` · updated ${ago(updated)}`:"");
+  $("#grid").innerHTML=list.length?list.map(d=>`
+    <article class="card${d.pin!=null?" pinned":""}">
+      <div class="row"><span class="storewrap"><span class="store">${esc(d.store)}</span>${badges(d)}</span>${pct(d)?`<span class="off">-${pct(d)}%</span>`:""}</div>
+      <h2 class="name">${esc(d.name)}</h2>
+      ${priceBlock(d)}
+      <div class="meta"><span class="pill">${esc(d.cat)}</span>${d.hrs!=null?`<span class="pill ${d.hrs<24?"ending":""}">${ends(d.hrs)}</span>`:""}${d.code?`<span class="code">Code: ${esc(d.code)}</span>`:""}</div>
+      <div class="actions">
+        ${goLink(d,d.sponsored?"sponsored":d.pin!=null?"top_pick":"list")}
+        <button class="fav" data-id="${esc(d.id)}" aria-pressed="${favs.has(d.id)}" aria-label="Save deal">${favs.has(d.id)?"♥":"♡"}</button>
+      </div>
+    </article>`).join(""):`<p class="empty">${state.cat==="Saved"?"No saved deals yet. Tap ♡ on any deal to keep it here.":"No deals match. Try another word or category."}</p>`;
+}
+load();
+</script>
