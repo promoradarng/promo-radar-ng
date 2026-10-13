@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-13T00:49:32+00:00",
- "count": 619,
+ "updated_at": "2026-10-13T04:38:41+00:00",
+ "count": 621,
  "deals": [
   {
    "id": "4ff6c2a223009fba",
@@ -435,6 +435,20 @@
    "ends_at": null,
    "first_seen": "2026-10-12T16:35:21+00:00",
    "link": "https://www.jumia.com.ng/home-theater-bluetooth-exclusive-bass-system-3902-djack-mpg12042212.html"
+  },
+  {
+   "id": "c5c17c5a333bcd63",
+   "store": "Jumia",
+   "title": "Kingnote 2.09''inch T900U  Smart Watch Dual Band 2-in-1 With Bluetooth Headset",
+   "category": "Phones",
+   "price": 7500,
+   "old_price": 25920,
+   "discount_percent": 71,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/78/7007814/1.jpg?3391",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-13T04:37:09+00:00",
+   "link": "https://www.jumia.com.ng/kingnote-2.09inch-t900u-smart-watch-dual-band-2-in-1-with-bluetooth-headset-418700787.html"
   },
   {
    "id": "8f3dabaac78bd8e1",
@@ -1207,6 +1221,20 @@
    "link": "https://www.jumia.com.ng/mythco-46-pieces-14-inch-drive-socket-ratchet-wrench-set-black-291050437.html"
   },
   {
+   "id": "ee50224dca7ac3c3",
+   "store": "Jumia",
+   "title": "Rechargeable Hair Clippers, Multifunctional Haircut Machine Electric Shavers for Home & Barber Use",
+   "category": "Beauty & Health",
+   "price": 1990,
+   "old_price": 5285,
+   "discount_percent": 62,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/53/6981914/1.jpg?7503",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-13T04:38:33+00:00",
+   "link": "https://www.jumia.com.ng/generic-rechargeable-hair-clippers-multifunctional-haircut-machine-electric-shavers-for-home-barber-use-419189635.html"
+  },
+  {
    "id": "4d6f92623fcd0fbc",
    "store": "Jumia",
    "title": "Dr. Rashel Vitamin C Face Serum - Brightening & Anti-Aging - 50ml - NAFDAC No: A2-101704",
@@ -1224,7 +1252,7 @@
    "id": "5d8ea8785659e7dc",
    "store": "Jumia",
    "title": "Oraimo SpaceBuds Neo True Wireless Spatial Earbuds Sound360 Audio - Black",
-   "category": "Electronics",
+   "category": "Phones",
    "price": 16552,
    "old_price": 43200,
    "discount_percent": 61,
@@ -1345,6 +1373,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:14:51+00:00",
    "link": "https://www.jumia.com.ng/fashion-children-shoes-kids-sports-shoes-anti-slip-boys-board-sneakers-soft-sole-baby-419085487.html"
+  },
+  {
+   "id": "9da73735aaa6eff9",
+   "store": "Jumia",
+   "title": "Bolizma Portable Charger Power Bank, 20000mAh Battery, PowerIQ, 2 USB-A, 1 Micro USB, 1 USB-C Ports for iPhone Series, AirPods, Android Phone and More",
+   "category": "Phones",
+   "price": 5760,
+   "old_price": 14400,
+   "discount_percent": 60,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/93/5947814/1.jpg?1851",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-13T04:37:09+00:00",
+   "link": "https://www.jumia.com.ng/bolizma-portable-charger-power-bank-20000mah-battery-poweriq-2-usb-a-1-micro-usb-1-usb-c-ports-for-iphone-series-airpods-android-phone-and-more-418749539.html"
   },
   {
    "id": "584d3ea97e1d07bd",
@@ -1571,6 +1613,20 @@
    "link": "https://www.jumia.com.ng/generic-rechargeable-metal-simple-style-hair-clippers-black-gold-399010164.html"
   },
   {
+   "id": "495771cad005e161",
+   "store": "Jumia",
+   "title": "Philly 30000mAh  Portable Power Banks With  LED Lights",
+   "category": "Phones",
+   "price": 13903,
+   "old_price": 32820,
+   "discount_percent": 57,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/74/3025814/1.jpg?8455",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-12T00:45:48+00:00",
+   "link": "https://www.jumia.com.ng/philly-30000mah-portable-power-banks-with-led-lights-418520347.html"
+  },
+  {
    "id": "8e9ab58421c757fd",
    "store": "Jumia",
    "title": "Voice Digital Blood Pressure Monitor Meter BP Heartbeat Test",
@@ -1681,6 +1737,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:14:55+00:00",
    "link": "https://www.jumia.com.ng/alagzi-2025-new-mens-trendy-board-shoes-black-and-white-402188039.html"
+  },
+  {
+   "id": "fa37c0bfdd9d57ff",
+   "store": "Jumia",
+   "title": "Philly Philly 30000 MAh Large Capacity Portable Power Bank With LED Lights",
+   "category": "Phones",
+   "price": 13903,
+   "old_price": 31507,
+   "discount_percent": 55,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/83/9959204/1.jpg?8586",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:13:48+00:00",
+   "link": "https://www.jumia.com.ng/philly-philly-30000-mah-large-capacity-portable-power-bank-with-led-lights-402959938.html"
   },
   {
    "id": "b673a79c0cf5385f",
@@ -1863,20 +1933,6 @@
    "ends_at": null,
    "first_seen": "2026-10-12T12:57:16+00:00",
    "link": "https://www.jumia.com.ng/ecoflow-portable-power-station-delta-3-1000-air-960wh-lifepo4-lfp-battery-500w-ac-output-solar-generatorsolar-panel-optional-for-blendertvfanlightmini-fridgeair-pump-419163052.html"
-  },
-  {
-   "id": "495771cad005e161",
-   "store": "Jumia",
-   "title": "Philly 30000mAh  Portable Power Banks With  LED Lights",
-   "category": "Phones",
-   "price": 14950,
-   "old_price": 32820,
-   "discount_percent": 54,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/74/3025814/1.jpg?8455",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-12T00:45:48+00:00",
-   "link": "https://www.jumia.com.ng/philly-30000mah-portable-power-banks-with-led-lights-418520347.html"
   },
   {
    "id": "51ea08820a642623",
@@ -2187,18 +2243,18 @@
    "link": "https://www.jumia.com.ng/philly-30000mah-66w-super-fast-charge-power-banks-418210832.html"
   },
   {
-   "id": "fa37c0bfdd9d57ff",
+   "id": "4dd46360d9286184",
    "store": "Jumia",
-   "title": "Philly Philly 30000 MAh Large Capacity Portable Power Bank With LED Lights",
+   "title": "FOOMEE 30000mAh, Power Bank AB31 With Type-C Fast Charging, built-in strap and Light Indicator",
    "category": "Phones",
-   "price": 14950,
-   "old_price": 31507,
+   "price": 20999,
+   "old_price": 44000,
    "discount_percent": 52,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/83/9959204/1.jpg?8586",
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/74/6969814/1.jpg?8546",
    "promo_code": null,
    "ends_at": null,
-   "first_seen": "2026-10-11T21:13:48+00:00",
-   "link": "https://www.jumia.com.ng/philly-philly-30000-mah-large-capacity-portable-power-bank-with-led-lights-402959938.html"
+   "first_seen": "2026-10-13T04:37:09+00:00",
+   "link": "https://www.jumia.com.ng/foomee-30000mah-power-bank-ab31-with-type-c-fast-charging-built-in-strap-and-light-indicator-418969647.html"
   },
   {
    "id": "6b8befe1ef28afc1",
@@ -2789,6 +2845,20 @@
    "link": "https://www.jumia.com.ng/xy-hair-clippers-multifunctional-haircut-machine-electric-shavers-for-home-barber-use-419188856.html"
   },
   {
+   "id": "cd75020494949681",
+   "store": "Jumia",
+   "title": "Black Frameless 3D Mirror DIY Wall Clock Large Self Adhesive Silent Decor Sticker for Home Office",
+   "category": "Home & Kitchen",
+   "price": 2945,
+   "old_price": 5702,
+   "discount_percent": 48,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/59/0681822/1.jpg?2263",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-13T04:37:32+00:00",
+   "link": "https://www.jumia.com.ng/generic-black-frameless-3d-mirror-diy-wall-clock-large-self-adhesive-silent-decor-sticker-for-home-office-228186095.html"
+  },
+  {
    "id": "76d4789f0c143e0f",
    "store": "Jumia",
    "title": "ALagzi 2025 Men's Breathable Height-Increasing Fashionable Sports Shoes - White",
@@ -3067,6 +3137,20 @@
    "ends_at": null,
    "first_seen": "2026-10-12T20:35:21+00:00",
    "link": "https://www.jumia.com.ng/c-idea-android-16-tablets10.1-inches-sim-8gb1tb-keyboard-mouse-long-standby-tablet-pc-418487303.html"
+  },
+  {
+   "id": "4126366307ac50d4",
+   "store": "Jumia",
+   "title": "Rechargeable Hair Clipper, Professional Cordless Trimmer with T-Blade and 4 Guide Combs for Men",
+   "category": "Beauty & Health",
+   "price": 3701,
+   "old_price": 6898,
+   "discount_percent": 46,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/08/2061814/1.jpg?9235",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-13T04:38:33+00:00",
+   "link": "https://www.jumia.com.ng/generic-rechargeable-hair-clipper-professional-cordless-trimmer-with-t-blade-and-4-guide-combs-for-men-418160280.html"
   },
   {
    "id": "463b4eecd9fc7f5c",
@@ -4539,20 +4623,6 @@
    "link": "https://www.jumia.com.ng/generic-menstrual-pain-relieve-heating-padded-belt-with-vibration-419257909.html"
   },
   {
-   "id": "83af588201a20b79",
-   "store": "Jumia",
-   "title": "NIVEA Sun UV Sunscreen Face Shine Control Cream SPF 50 - 50ml (Pack of 2)",
-   "category": "Beauty & Health",
-   "price": 14330,
-   "old_price": 21840,
-   "discount_percent": 34,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/4808404/1.jpg?5630",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/nivea-sun-uv-sunscreen-face-shine-control-cream-spf-50-50ml-pack-of-2-404808434.html"
-  },
-  {
    "id": "9518767ce8d55ed1",
    "store": "Jumia",
    "title": "AV To HDMI Converter Digital Signal To RCA AV CVBS/L+R Audio To HDMI Video Converter",
@@ -4805,20 +4875,6 @@
    "link": "https://www.jumia.com.ng/nivea-radiant-beauty-even-glow-body-lotion-for-women-400ml-pack-of-2-104325862.html"
   },
   {
-   "id": "851f371c7064f94c",
-   "store": "Jumia",
-   "title": "NIVEA Radiant & Beauty Advanced Care Body Lotion For Women - 400ml - Pack Of 2",
-   "category": "Beauty & Health",
-   "price": 8915,
-   "old_price": 13270,
-   "discount_percent": 32,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/1433401/1.jpg?9948",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-12T12:58:39+00:00",
-   "link": "https://www.jumia.com.ng/nivea-radiant-beauty-advanced-care-body-lotion-for-women-400ml-pack-of-2-104334102.html"
-  },
-  {
    "id": "42ad6bdf455200cc",
    "store": "Jumia",
    "title": "Nexus WM-6SAK-6.5KG TWIN TUB WASHING MACHINE",
@@ -4903,20 +4959,6 @@
    "link": "https://www.jumia.com.ng/nescafe-3-in-1-breakfast-coffee-25g-x10-87162576.html"
   },
   {
-   "id": "3b64537481b897dd",
-   "store": "Jumia",
-   "title": "NIVEA Dry Comfort Anti-Perspirant Spray For Women, 72h - 200ml (Pack Of 2)",
-   "category": "Beauty & Health",
-   "price": 7355,
-   "old_price": 10820,
-   "discount_percent": 32,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/19/5723401/1.jpg?2931",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:15:05+00:00",
-   "link": "https://www.jumia.com.ng/dry-comfort-anti-perspirant-spray-for-women-48h-200ml-pack-of-2-nivea-mpg1657654.html"
-  },
-  {
    "id": "676b50b3478a47c3",
    "store": "Jumia",
    "title": "NIVEA Pearl & Beauty Anti-Perspirant Body Spray For Women, 48h - 200ml (Pack Of 2)",
@@ -4990,7 +5032,7 @@
    "id": "6458d47965f464fc",
    "store": "Jumia",
    "title": "Syinix 8.5KG Top Load Twin Tub Washing Machine (E8WTMG) + 2 years Warranty - Grey",
-   "category": "Home & Kitchen",
+   "category": "Other",
    "price": 154999,
    "old_price": 227621,
    "discount_percent": 31,
@@ -5057,20 +5099,6 @@
    "link": "https://www.jumia.com.ng/nexus-210-litres-chest-freezer-nx-265-hce-silver-292341396.html"
   },
   {
-   "id": "c41cdb042540aa31",
-   "store": "Jumia",
-   "title": "NIVEA Watimagbo Pack- Perfect & Radiant Body Lotion - 400ml (Pack of 3)",
-   "category": "Beauty & Health",
-   "price": 11575,
-   "old_price": 16840,
-   "discount_percent": 31,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/9023401/1.jpg?9720",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-12T12:58:39+00:00",
-   "link": "https://www.jumia.com.ng/watimagbo-pack-natural-fairness-clarifiant-lotion-400mlpack-of-3-nivea-mpg1657720.html"
-  },
-  {
    "id": "78b385d56e0dc0c4",
    "store": "Jumia",
    "title": "Aeon 1.5HP Split Inverter Air Conditioner (ASA12IJJ) with Free Installation Kit + 2 Year Warranty - White",
@@ -5083,20 +5111,6 @@
    "ends_at": null,
    "first_seen": "2026-10-12T00:46:06+00:00",
    "link": "https://www.jumia.com.ng/aeon-1.5hp-split-inverter-air-conditioner-asa12ijj-with-free-installation-kit-2-year-warranty-white-401319093.html"
-  },
-  {
-   "id": "49e346efb15c9f73",
-   "store": "Jumia",
-   "title": "NIVEA MEN Deep Body Lotion 400ml + Deep Roll-on 50ml",
-   "category": "Beauty & Health",
-   "price": 5275,
-   "old_price": 7655,
-   "discount_percent": 31,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/31/2713401/1.jpg?4516",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/nourishing-cocoa-body-lotion-400ml-free-dry-fresh-roll-on-for-men-50ml-nivea-mpg1657713.html"
   },
   {
    "id": "e7d56c14c936e4b4",
@@ -5181,62 +5195,6 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:14:02+00:00",
    "link": "https://www.jumia.com.ng/tk-j90-open-ear-clip-tws-bluetooth-earbuds-led-digital-display-wireless-sports-headphones-420169640.html"
-  },
-  {
-   "id": "c81eb2ee297a81db",
-   "store": "Jumia",
-   "title": "NIVEA Nourishing Cocoa Body Lotion For Women - 400ml (Pack Of 2)",
-   "category": "Beauty & Health",
-   "price": 7095,
-   "old_price": 10205,
-   "discount_percent": 30,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/63/9523401/1.jpg?8376",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/nivea-nourishing-cocoa-body-lotion-for-women-400ml-pack-of-2-104325936.html"
-  },
-  {
-   "id": "3df7c225d15afe6b",
-   "store": "Jumia",
-   "title": "NIVEA Deep Anti-Perspirant Spray For Men, 48h - 200ml (Pack Of 2)",
-   "category": "Beauty & Health",
-   "price": 7525,
-   "old_price": 10820,
-   "discount_percent": 30,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/3213401/1.jpg?1349",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:15:05+00:00",
-   "link": "https://www.jumia.com.ng/flash-sales-deep-anti-perspirant-spray-for-men-48h-200ml-pack-of-2-nivea-mpg1657672.html"
-  },
-  {
-   "id": "f300272aacf5ce67",
-   "store": "Jumia",
-   "title": "NIVEA Dry Impact Roll-on For Men, 72h- 50ml (Pack Of 3)",
-   "category": "Beauty & Health",
-   "price": 4260,
-   "old_price": 6125,
-   "discount_percent": 30,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/24/9523401/1.jpg?6508",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/nivea-dry-impact-roll-on-for-men-72h-50ml-pack-of-3-104325942.html"
-  },
-  {
-   "id": "d53737913c41b8ab",
-   "store": "Jumia",
-   "title": "NIVEA Dry Comfort Roll-on For Women, 72h- 50ml (Pack Of 3)",
-   "category": "Beauty & Health",
-   "price": 4260,
-   "old_price": 6125,
-   "discount_percent": 30,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/64/9523401/1.jpg?4502",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/dry-comfort-roll-on-for-women-48h-50ml-pack-of-3-nivea-mpg1657646.html"
   },
   {
    "id": "bd4e3aec6e6ecacd",
@@ -5351,76 +5309,6 @@
    "link": "https://www.jumia.com.ng/black-white-scotch-whisky-70cl-395492464.html"
   },
   {
-   "id": "0475a78e31e40055",
-   "store": "Jumia",
-   "title": "NIVEA Dry Impact Roll-on For Men 72h- 50ml (Pack Of 2)",
-   "category": "Beauty & Health",
-   "price": 2870,
-   "old_price": 4085,
-   "discount_percent": 29,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/1713401/1.jpg?3147",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/dry-impact-roll-on-for-men-48h-50ml-pack-of-2-nivea-mpg1657708.html"
-  },
-  {
-   "id": "2e57a5a3b605ff7d",
-   "store": "Jumia",
-   "title": "NIVEA Pearl & Beauty Anti-Perspirant Roll-on For Women 72h - 50ml (Pack Of 2)",
-   "category": "Beauty & Health",
-   "price": 2870,
-   "old_price": 4085,
-   "discount_percent": 29,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/1713401/1.jpg?8572",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:15:05+00:00",
-   "link": "https://www.jumia.com.ng/pearl-beauty-anti-perspirant-roll-on-for-women-48h-50ml-pack-of-2-nivea-mpg1657641.html"
-  },
-  {
-   "id": "4710cc4a4f2518d7",
-   "store": "Jumia",
-   "title": "NIVEA MEN Black & White Invisible Original Anti-Perspirant Roll-on For Men, 72h - 50ml (Pack Of 3)",
-   "category": "Beauty & Health",
-   "price": 4305,
-   "old_price": 6125,
-   "discount_percent": 29,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/15/9523401/1.jpg?2827",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/nivea-men-black-white-invisible-original-anti-perspirant-roll-on-for-men-72h-50ml-pack-of-3-104325951.html"
-  },
-  {
-   "id": "d080655cd19d868e",
-   "store": "Jumia",
-   "title": "NIVEA Pearl & Beauty Anti-Perspirant Roll-on For Women 72h - 50ml (Pack Of 3)",
-   "category": "Beauty & Health",
-   "price": 4305,
-   "old_price": 6125,
-   "discount_percent": 29,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/16/9523401/1.jpg?2904",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/nivea-pearl-beauty-anti-perspirant-roll-on-for-women-72h-50ml-pack-of-3-104325961.html"
-  },
-  {
-   "id": "14a52921eaff64e6",
-   "store": "Jumia",
-   "title": "NIVEA Black & White Invisible Clear Anti-Perspirant Roll-on For Women 72h - 50ml (Pack Of 3)",
-   "category": "Beauty & Health",
-   "price": 4305,
-   "old_price": 6125,
-   "discount_percent": 29,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/94/9523401/1.jpg?2982",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:15:05+00:00",
-   "link": "https://www.jumia.com.ng/nivea-black-white-invisible-clear-anti-perspirant-roll-on-for-women-72h-50ml-pack-of-3-104325949.html"
-  },
-  {
    "id": "dc0ffb46a0b50d49",
    "store": "Jumia",
    "title": "Syinix 8.5KG Top Load Twin Tub Washing Machine (E8WTMG) + 2 years Warranty",
@@ -5433,48 +5321,6 @@
    "ends_at": null,
    "first_seen": "2026-10-12T00:46:04+00:00",
    "link": "https://www.jumia.com.ng/syinix-8.5kg-top-load-twin-tub-washing-machine-e8wtmg-2-years-warranty-419893850.html"
-  },
-  {
-   "id": "992e4355ac7f286c",
-   "store": "Jumia",
-   "title": "NIVEA Deep Anti-Perspirant Spray For Men 72h - 200ml (Pack Of 2)",
-   "category": "Beauty & Health",
-   "price": 7610,
-   "old_price": 10820,
-   "discount_percent": 29,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/31/6723401/1.jpg?7071",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/nivea-deep-anti-perspirant-spray-for-men-72h-200ml-pack-of-2-104327613.html"
-  },
-  {
-   "id": "ca3a115682964f13",
-   "store": "Jumia",
-   "title": "NIVEA Dry Impact Anti-Perspirant Spray For Men, 72h - 200ml (Pack Of 2)",
-   "category": "Beauty & Health",
-   "price": 7610,
-   "old_price": 10820,
-   "discount_percent": 29,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/58/5723401/1.jpg?3453",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:15:05+00:00",
-   "link": "https://www.jumia.com.ng/dry-impact-anti-perspirant-spray-for-men-48h-200ml-pack-of-2-nivea-mpg1657653.html"
-  },
-  {
-   "id": "33e703090da5b6ef",
-   "store": "Jumia",
-   "title": "NIVEA Rich Nourishing Body Lotion For Women- 400ml (Pack Of 2)",
-   "category": "Beauty & Health",
-   "price": 7895,
-   "old_price": 11225,
-   "discount_percent": 29,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/52/9523401/1.jpg?0389",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-12T12:58:44+00:00",
-   "link": "https://www.jumia.com.ng/nivea-rich-nourishing-body-lotion-for-women-400ml-pack-of-2-104325925.html"
   },
   {
    "id": "fd24155d57f824e5",
@@ -5505,20 +5351,6 @@
    "link": "https://www.jumia.com.ng/radiance-29cm-enamelled-red-cast-iron-grill-pan-419541048.html"
   },
   {
-   "id": "1d255a0d438c8513",
-   "store": "Jumia",
-   "title": "NIVEA DoShakara Pack - Nourishing Cocoa Body Lotion - 400ml (Pack Of 3)",
-   "category": "Beauty & Health",
-   "price": 10785,
-   "old_price": 15310,
-   "discount_percent": 29,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/9023401/1.jpg?8621",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/doshakara-pack-nourishing-cocoa-body-lotion-400mlpack-of-3-nivea-mpg1657642.html"
-  },
-  {
    "id": "6335d7ef16af3bb4",
    "store": "Jumia",
    "title": "SILVER CREST 8L Extra Large Digital AirFryer",
@@ -5531,20 +5363,6 @@
    "ends_at": null,
    "first_seen": "2026-10-12T00:46:04+00:00",
    "link": "https://www.jumia.com.ng/silver-crest-8l-extra-large-digital-airfryer-418507707.html"
-  },
-  {
-   "id": "e9ee59893b17e41f",
-   "store": "Jumia",
-   "title": "NIVEA MEN Deep Body Lotion  - 400ml (Pack Of 2)",
-   "category": "Beauty & Health",
-   "price": 7910,
-   "old_price": 11225,
-   "discount_percent": 29,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/3790711/1.jpg?0587",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/nivea-men-deep-body-lotion-400ml-pack-of-2-117097334.html"
   },
   {
    "id": "455262bc3cab611f",
@@ -5785,6 +5603,20 @@
    "link": "https://www.jumia.com.ng/skyrun-200l-chest-freezer-bd-200a-grey-400099254.html"
   },
   {
+   "id": "83af588201a20b79",
+   "store": "Jumia",
+   "title": "NIVEA Sun UV Sunscreen Face Shine Control Cream SPF 50 - 50ml (Pack of 2)",
+   "category": "Beauty & Health",
+   "price": 15555,
+   "old_price": 21840,
+   "discount_percent": 28,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/4808404/1.jpg?5630",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:58+00:00",
+   "link": "https://www.jumia.com.ng/nivea-sun-uv-sunscreen-face-shine-control-cream-spf-50-50ml-pack-of-2-404808434.html"
+  },
+  {
    "id": "a59869f7f5cb6ce2",
    "store": "Jumia",
    "title": "Zealot S67 Portable 60W Wireless Bluetooth Speaker",
@@ -5911,20 +5743,6 @@
    "link": "https://www.jumia.com.ng/singleton-12yrs-scotch-whisky-70cl-pack-of-12-with-free-instax-camera-419662875.html"
   },
   {
-   "id": "98fcc9755fc73b5e",
-   "store": "Jumia",
-   "title": "NIVEA Sun UV Sunscreen Face Shine Control Cream SPF 50 - 50ml",
-   "category": "Beauty & Health",
-   "price": 7850,
-   "old_price": 10920,
-   "discount_percent": 28,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/04/3634404/1.jpg?2636",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/nivea-sun-uv-sunscreen-face-shine-control-cream-spf-50-50ml-404436340.html"
-  },
-  {
    "id": "aa4c6154dae8efdb",
    "store": "Jumia",
    "title": "Dou-color Men's Casual Plaid Shirt – Black",
@@ -5939,46 +5757,60 @@
    "link": "https://www.jumia.com.ng/dou-color-mens-casual-plaid-shirt-black-271164302.html"
   },
   {
-   "id": "f69b7524c1dc926d",
+   "id": "992e4355ac7f286c",
    "store": "Jumia",
-   "title": "NIVEA MEN Deep Anti-Perspirant Roll-on For Men, 72h - 50ml (Pack of 3)",
+   "title": "NIVEA Deep Anti-Perspirant Spray For Men 72h - 200ml (Pack Of 2)",
    "category": "Beauty & Health",
-   "price": 4405,
-   "old_price": 6125,
+   "price": 7790,
+   "old_price": 10820,
    "discount_percent": 28,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/9523401/1.jpg?2616",
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/31/6723401/1.jpg?7071",
    "promo_code": null,
    "ends_at": null,
    "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/men-deep-anti-perspirant-roll-on-for-men-72h-50ml-pack-of-3-nivea-mpg11490502.html"
+   "link": "https://www.jumia.com.ng/nivea-deep-anti-perspirant-spray-for-men-72h-200ml-pack-of-2-104327613.html"
   },
   {
-   "id": "159a60b59f5fb8b3",
+   "id": "3b64537481b897dd",
    "store": "Jumia",
-   "title": "NIVEA Cool Kick Anti-Perspirant Roll-on For Men, 48h - 50ml (Pack Of 3)",
+   "title": "NIVEA Dry Comfort Anti-Perspirant Spray For Women, 72h - 200ml (Pack Of 2)",
    "category": "Beauty & Health",
-   "price": 4405,
-   "old_price": 6125,
+   "price": 7790,
+   "old_price": 10820,
    "discount_percent": 28,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/9523401/1.jpg?3991",
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/19/5723401/1.jpg?2931",
    "promo_code": null,
    "ends_at": null,
    "first_seen": "2026-10-11T21:15:05+00:00",
-   "link": "https://www.jumia.com.ng/cool-kick-anti-perspirant-roll-on-for-men-48h-50ml-pack-of-3-nivea-mpg1657647.html"
+   "link": "https://www.jumia.com.ng/dry-comfort-anti-perspirant-spray-for-women-48h-200ml-pack-of-2-nivea-mpg1657654.html"
   },
   {
-   "id": "40008087958b6ab8",
+   "id": "3df7c225d15afe6b",
    "store": "Jumia",
-   "title": "NIVEA Perfect & Radiant Anti-Perspirant Roll-on For Women, 72h- 50ml (Pack Of 3)",
+   "title": "NIVEA Deep Anti-Perspirant Spray For Men, 48h - 200ml (Pack Of 2)",
    "category": "Beauty & Health",
-   "price": 4405,
-   "old_price": 6125,
+   "price": 7790,
+   "old_price": 10820,
    "discount_percent": 28,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/17/9523401/1.jpg?5982",
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/3213401/1.jpg?1349",
    "promo_code": null,
    "ends_at": null,
    "first_seen": "2026-10-11T21:15:05+00:00",
-   "link": "https://www.jumia.com.ng/natural-fairness-anti-perspirant-roll-on-for-women-48h-50ml-pack-of-3-nivea-mpg1657648.html"
+   "link": "https://www.jumia.com.ng/flash-sales-deep-anti-perspirant-spray-for-men-48h-200ml-pack-of-2-nivea-mpg1657672.html"
+  },
+  {
+   "id": "ca3a115682964f13",
+   "store": "Jumia",
+   "title": "NIVEA Dry Impact Anti-Perspirant Spray For Men, 72h - 200ml (Pack Of 2)",
+   "category": "Beauty & Health",
+   "price": 7790,
+   "old_price": 10820,
+   "discount_percent": 28,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/58/5723401/1.jpg?3453",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:15:05+00:00",
+   "link": "https://www.jumia.com.ng/dry-impact-anti-perspirant-spray-for-men-48h-200ml-pack-of-2-nivea-mpg1657653.html"
   },
   {
    "id": "ae7c7281c48be8c2",
@@ -6049,20 +5881,6 @@
    "ends_at": null,
    "first_seen": "2026-10-12T12:57:20+00:00",
    "link": "https://www.jumia.com.ng/cworth-energy-2.56kwh-12v-lithium-battery-lifepo4-2.5kwh-12volts-200ah-419195058.html"
-  },
-  {
-   "id": "ad43dc541548dabc",
-   "store": "Jumia",
-   "title": "NIVEA Pearl & Beauty Black Pearl Fine Fragrance Anti-Perspirant Roll-On, 48h - 50ml (Pack Of 2)",
-   "category": "Beauty & Health",
-   "price": 2970,
-   "old_price": 4085,
-   "discount_percent": 27,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/8637362/1.jpg?3458",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:15:05+00:00",
-   "link": "https://www.jumia.com.ng/pearl-beauty-black-pearl-fine-fragrance-anti-perspirant-roll-on-48h-50ml-pack-of-2-nivea-mpg4310681.html"
   },
   {
    "id": "d6bc036f6b5eae00",
@@ -6317,6 +6135,104 @@
    "link": "https://www.jumia.com.ng/hisense-5kg-top-load-twin-tub-washing-machine-wm503-wspa-with-one-year-warranty-77919362.html"
   },
   {
+   "id": "4710cc4a4f2518d7",
+   "store": "Jumia",
+   "title": "NIVEA MEN Black & White Invisible Original Anti-Perspirant Roll-on For Men, 72h - 50ml (Pack Of 3)",
+   "category": "Beauty & Health",
+   "price": 4555,
+   "old_price": 6125,
+   "discount_percent": 25,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/15/9523401/1.jpg?2827",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:58+00:00",
+   "link": "https://www.jumia.com.ng/nivea-men-black-white-invisible-original-anti-perspirant-roll-on-for-men-72h-50ml-pack-of-3-104325951.html"
+  },
+  {
+   "id": "f69b7524c1dc926d",
+   "store": "Jumia",
+   "title": "NIVEA MEN Deep Anti-Perspirant Roll-on For Men, 72h - 50ml (Pack of 3)",
+   "category": "Beauty & Health",
+   "price": 4555,
+   "old_price": 6125,
+   "discount_percent": 25,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/9523401/1.jpg?2616",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:58+00:00",
+   "link": "https://www.jumia.com.ng/men-deep-anti-perspirant-roll-on-for-men-72h-50ml-pack-of-3-nivea-mpg11490502.html"
+  },
+  {
+   "id": "d080655cd19d868e",
+   "store": "Jumia",
+   "title": "NIVEA Pearl & Beauty Anti-Perspirant Roll-on For Women 72h - 50ml (Pack Of 3)",
+   "category": "Beauty & Health",
+   "price": 4555,
+   "old_price": 6125,
+   "discount_percent": 25,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/16/9523401/1.jpg?2904",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:58+00:00",
+   "link": "https://www.jumia.com.ng/nivea-pearl-beauty-anti-perspirant-roll-on-for-women-72h-50ml-pack-of-3-104325961.html"
+  },
+  {
+   "id": "d53737913c41b8ab",
+   "store": "Jumia",
+   "title": "NIVEA Dry Comfort Roll-on For Women, 72h- 50ml (Pack Of 3)",
+   "category": "Beauty & Health",
+   "price": 4555,
+   "old_price": 6125,
+   "discount_percent": 25,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/64/9523401/1.jpg?4502",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:58+00:00",
+   "link": "https://www.jumia.com.ng/dry-comfort-roll-on-for-women-48h-50ml-pack-of-3-nivea-mpg1657646.html"
+  },
+  {
+   "id": "159a60b59f5fb8b3",
+   "store": "Jumia",
+   "title": "NIVEA Cool Kick Anti-Perspirant Roll-on For Men, 48h - 50ml (Pack Of 3)",
+   "category": "Beauty & Health",
+   "price": 4555,
+   "old_price": 6125,
+   "discount_percent": 25,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/9523401/1.jpg?3991",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:15:05+00:00",
+   "link": "https://www.jumia.com.ng/cool-kick-anti-perspirant-roll-on-for-men-48h-50ml-pack-of-3-nivea-mpg1657647.html"
+  },
+  {
+   "id": "14a52921eaff64e6",
+   "store": "Jumia",
+   "title": "NIVEA Black & White Invisible Clear Anti-Perspirant Roll-on For Women 72h - 50ml (Pack Of 3)",
+   "category": "Beauty & Health",
+   "price": 4555,
+   "old_price": 6125,
+   "discount_percent": 25,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/94/9523401/1.jpg?2982",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:15:05+00:00",
+   "link": "https://www.jumia.com.ng/nivea-black-white-invisible-clear-anti-perspirant-roll-on-for-women-72h-50ml-pack-of-3-104325949.html"
+  },
+  {
+   "id": "40008087958b6ab8",
+   "store": "Jumia",
+   "title": "NIVEA Perfect & Radiant Anti-Perspirant Roll-on For Women, 72h- 50ml (Pack Of 3)",
+   "category": "Beauty & Health",
+   "price": 4555,
+   "old_price": 6125,
+   "discount_percent": 25,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/17/9523401/1.jpg?5982",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:15:05+00:00",
+   "link": "https://www.jumia.com.ng/natural-fairness-anti-perspirant-roll-on-for-women-48h-50ml-pack-of-3-nivea-mpg1657648.html"
+  },
+  {
    "id": "e2301d95383a850f",
    "store": "Jumia",
    "title": "Skyrun 4 Burners (4+0) 50x50 Gas Cooker with 60L Oven -  GCS-4GL - Black",
@@ -6443,6 +6359,104 @@
    "link": "https://www.jumia.com.ng/nexus-18-inch-standing-fan-nx-sf5400b-103628505.html"
   },
   {
+   "id": "851f371c7064f94c",
+   "store": "Jumia",
+   "title": "NIVEA Radiant & Beauty Advanced Care Body Lotion For Women - 400ml - Pack Of 2",
+   "category": "Beauty & Health",
+   "price": 9970,
+   "old_price": 13270,
+   "discount_percent": 24,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/1433401/1.jpg?9948",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-12T12:58:39+00:00",
+   "link": "https://www.jumia.com.ng/nivea-radiant-beauty-advanced-care-body-lotion-for-women-400ml-pack-of-2-104334102.html"
+  },
+  {
+   "id": "e9ee59893b17e41f",
+   "store": "Jumia",
+   "title": "NIVEA MEN Deep Body Lotion  - 400ml (Pack Of 2)",
+   "category": "Beauty & Health",
+   "price": 8435,
+   "old_price": 11225,
+   "discount_percent": 24,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/3790711/1.jpg?0587",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:58+00:00",
+   "link": "https://www.jumia.com.ng/nivea-men-deep-body-lotion-400ml-pack-of-2-117097334.html"
+  },
+  {
+   "id": "33e703090da5b6ef",
+   "store": "Jumia",
+   "title": "NIVEA Rich Nourishing Body Lotion For Women- 400ml (Pack Of 2)",
+   "category": "Beauty & Health",
+   "price": 8435,
+   "old_price": 11225,
+   "discount_percent": 24,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/52/9523401/1.jpg?0389",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-12T12:58:44+00:00",
+   "link": "https://www.jumia.com.ng/nivea-rich-nourishing-body-lotion-for-women-400ml-pack-of-2-104325925.html"
+  },
+  {
+   "id": "1d255a0d438c8513",
+   "store": "Jumia",
+   "title": "NIVEA DoShakara Pack - Nourishing Cocoa Body Lotion - 400ml (Pack Of 3)",
+   "category": "Beauty & Health",
+   "price": 11505,
+   "old_price": 15310,
+   "discount_percent": 24,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/85/9023401/1.jpg?8621",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:58+00:00",
+   "link": "https://www.jumia.com.ng/doshakara-pack-nourishing-cocoa-body-lotion-400mlpack-of-3-nivea-mpg1657642.html"
+  },
+  {
+   "id": "c41cdb042540aa31",
+   "store": "Jumia",
+   "title": "NIVEA Watimagbo Pack- Perfect & Radiant Body Lotion - 400ml (Pack of 3)",
+   "category": "Beauty & Health",
+   "price": 12655,
+   "old_price": 16840,
+   "discount_percent": 24,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/47/9023401/1.jpg?9720",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-12T12:58:39+00:00",
+   "link": "https://www.jumia.com.ng/watimagbo-pack-natural-fairness-clarifiant-lotion-400mlpack-of-3-nivea-mpg1657720.html"
+  },
+  {
+   "id": "c81eb2ee297a81db",
+   "store": "Jumia",
+   "title": "NIVEA Nourishing Cocoa Body Lotion For Women - 400ml (Pack Of 2)",
+   "category": "Beauty & Health",
+   "price": 7670,
+   "old_price": 10205,
+   "discount_percent": 24,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/63/9523401/1.jpg?8376",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:58+00:00",
+   "link": "https://www.jumia.com.ng/nivea-nourishing-cocoa-body-lotion-for-women-400ml-pack-of-2-104325936.html"
+  },
+  {
+   "id": "f300272aacf5ce67",
+   "store": "Jumia",
+   "title": "NIVEA Dry Impact Roll-on For Men, 72h- 50ml (Pack Of 3)",
+   "category": "Beauty & Health",
+   "price": 4605,
+   "old_price": 6125,
+   "discount_percent": 24,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/24/9523401/1.jpg?6508",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:58+00:00",
+   "link": "https://www.jumia.com.ng/nivea-dry-impact-roll-on-for-men-72h-50ml-pack-of-3-104325942.html"
+  },
+  {
    "id": "9bb134475431b503",
    "store": "Jumia",
    "title": "Binatone 16 Inch Duo Power Series Standing Fan (A1692) + 2 Years Warranty",
@@ -6539,20 +6553,6 @@
    "ends_at": null,
    "first_seen": "2026-10-12T12:57:20+00:00",
    "link": "https://www.jumia.com.ng/nexus-16-inches-standing-fan-nxsf-4400b-black-82939109.html"
-  },
-  {
-   "id": "19fdf32bfe9a4d56",
-   "store": "Jumia",
-   "title": "NIVEA Soft Cream 200ml (48 hours hydration and quick absorbtion)",
-   "category": "Beauty & Health",
-   "price": 6820,
-   "old_price": 8980,
-   "discount_percent": 24,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/1249383/1.jpg?2674",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/nivea-soft-cream-200ml-48-hours-hydration-and-quick-absorbtion-383942170.html"
   },
   {
    "id": "feb87d2da9a402da",
@@ -6667,6 +6667,20 @@
    "link": "https://www.jumia.com.ng/binatone-dry-iron-di1255-2-years-warranty-102988845.html"
   },
   {
+   "id": "98fcc9755fc73b5e",
+   "store": "Jumia",
+   "title": "NIVEA Sun UV Sunscreen Face Shine Control Cream SPF 50 - 50ml",
+   "category": "Beauty & Health",
+   "price": 8375,
+   "old_price": 10920,
+   "discount_percent": 23,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/04/3634404/1.jpg?2636",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:58+00:00",
+   "link": "https://www.jumia.com.ng/nivea-sun-uv-sunscreen-face-shine-control-cream-spf-50-50ml-404436340.html"
+  },
+  {
    "id": "4788d36836fdb03b",
    "store": "Jumia",
    "title": "Aeon 5Kg Twin Tub Washing Machine (ATT05J) + 1 Year Warranty",
@@ -6679,6 +6693,34 @@
    "ends_at": null,
    "first_seen": "2026-10-12T00:46:04+00:00",
    "link": "https://www.jumia.com.ng/aeon-5kg-twin-tub-washing-machine-att05j-1-year-warranty-401319091.html"
+  },
+  {
+   "id": "0475a78e31e40055",
+   "store": "Jumia",
+   "title": "NIVEA Dry Impact Roll-on For Men 72h- 50ml (Pack Of 2)",
+   "category": "Beauty & Health",
+   "price": 3135,
+   "old_price": 4085,
+   "discount_percent": 23,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/1713401/1.jpg?3147",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:58+00:00",
+   "link": "https://www.jumia.com.ng/dry-impact-roll-on-for-men-48h-50ml-pack-of-2-nivea-mpg1657708.html"
+  },
+  {
+   "id": "ad43dc541548dabc",
+   "store": "Jumia",
+   "title": "NIVEA Pearl & Beauty Black Pearl Fine Fragrance Anti-Perspirant Roll-On, 48h - 50ml (Pack Of 2)",
+   "category": "Beauty & Health",
+   "price": 3135,
+   "old_price": 4085,
+   "discount_percent": 23,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/8637362/1.jpg?3458",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:15:05+00:00",
+   "link": "https://www.jumia.com.ng/pearl-beauty-black-pearl-fine-fragrance-anti-perspirant-roll-on-48h-50ml-pack-of-2-nivea-mpg4310681.html"
   },
   {
    "id": "b6f112903348df72",
@@ -6975,20 +7017,6 @@
    "link": "https://www.jumia.com.ng/nestle-maggi-signature-jollof-30-10x8g-87162575.html"
   },
   {
-   "id": "89ba397c621c5aae",
-   "store": "Jumia",
-   "title": "NIVEA Cool Kick Shower Gel For Men - 500ml",
-   "category": "Beauty & Health",
-   "price": 5395,
-   "old_price": 6940,
-   "discount_percent": 22,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/54/0433401/1.jpg?4189",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:15:05+00:00",
-   "link": "https://www.jumia.com.ng/cool-kick-shower-gel-for-men-500ml-nivea-mpg1657660.html"
-  },
-  {
    "id": "515401920c59f0d9",
    "store": "Jumia",
    "title": "Oraimo Smart Clipper 2 Professional Hair Clipper Rechargeable Gold 365-day Warranty",
@@ -7085,20 +7113,6 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:13:46+00:00",
    "link": "https://www.jumia.com.ng/lesia-l176-1.77-inches-dual-sim-black-419764442.html"
-  },
-  {
-   "id": "63825e54ba666780",
-   "store": "Jumia",
-   "title": "NIVEA Orange & Avocado Oil Shower Gel for Women 500ml",
-   "category": "Beauty & Health",
-   "price": 5450,
-   "old_price": 6940,
-   "discount_percent": 21,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/08/1137973/1.jpg?7888",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:15:05+00:00",
-   "link": "https://www.jumia.com.ng/nivea-orange-avocado-oil-shower-gel-for-women-500ml-379731180.html"
   },
   {
    "id": "344b064a691ec337",
@@ -7367,18 +7381,18 @@
    "link": "https://www.jumia.com.ng/bedding-sets-quality-bedsheets-with-pillowcases-368483710.html"
   },
   {
-   "id": "ee7d2bd2080e0bbb",
+   "id": "49e346efb15c9f73",
    "store": "Jumia",
-   "title": "NIVEA Crème Soft Shower Gel - 500ml",
+   "title": "NIVEA MEN Deep Body Lotion 400ml + Deep Roll-on 50ml",
    "category": "Beauty & Health",
-   "price": 5555,
-   "old_price": 6940,
+   "price": 6130,
+   "old_price": 7655,
    "discount_percent": 19,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/0433401/1.jpg?7784",
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/31/2713401/1.jpg?4516",
    "promo_code": null,
    "ends_at": null,
-   "first_seen": "2026-10-11T21:15:05+00:00",
-   "link": "https://www.jumia.com.ng/nivea-creme-soft-shower-gel-500ml-104334052.html"
+   "first_seen": "2026-10-11T21:14:58+00:00",
+   "link": "https://www.jumia.com.ng/nourishing-cocoa-body-lotion-400ml-free-dry-fresh-roll-on-for-men-50ml-nivea-mpg1657713.html"
   },
   {
    "id": "5800abf99a2d34b5",
@@ -7463,20 +7477,6 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:14:58+00:00",
    "link": "https://www.jumia.com.ng/rexona-men-xtracool-roll-on-deodorant-46ml-292349212.html"
-  },
-  {
-   "id": "a4681cf3afdd7886",
-   "store": "Jumia",
-   "title": "Vaseline Petroleum Jelly Blueseal Original To Prevent Dry Skin 225ml",
-   "category": "Beauty & Health",
-   "price": 1970,
-   "old_price": 2435,
-   "discount_percent": 19,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/852389/1.jpg?7196",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:15:05+00:00",
-   "link": "https://www.jumia.com.ng/vaseline-petroleum-jelly-blueseal-original-to-prevent-dry-skin-225ml-98325873.html"
   },
   {
    "id": "782fd88dcf3727d5",
@@ -7591,6 +7591,20 @@
    "link": "https://www.jumia.com.ng/gordons-pink-berry-carton-free-10000-spar-voucher.-419837514.html"
   },
   {
+   "id": "2e57a5a3b605ff7d",
+   "store": "Jumia",
+   "title": "NIVEA Pearl & Beauty Anti-Perspirant Roll-on For Women 72h - 50ml (Pack Of 2)",
+   "category": "Beauty & Health",
+   "price": 3335,
+   "old_price": 4085,
+   "discount_percent": 18,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/1713401/1.jpg?8572",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:15:05+00:00",
+   "link": "https://www.jumia.com.ng/pearl-beauty-anti-perspirant-roll-on-for-women-48h-50ml-pack-of-2-nivea-mpg1657641.html"
+  },
+  {
    "id": "486c8f40181d8423",
    "store": "Jumia",
    "title": "itel 3 Sim Wireless Fm Big Screen 2500mAh Phone 5626- it5626",
@@ -7661,20 +7675,6 @@
    "link": "https://www.jumia.com.ng/generic-high-quality-leather-director-executive-office-chair-high-back-white-420379811.html"
   },
   {
-   "id": "702ef5120578f11d",
-   "store": "Jumia",
-   "title": "NIVEA MEN Deep Body Lotion  - 400ml",
-   "category": "Beauty & Health",
-   "price": 4625,
-   "old_price": 5615,
-   "discount_percent": 17,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/23/3790711/1.jpg?3185",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:15:05+00:00",
-   "link": "https://www.jumia.com.ng/nivea-men-deep-body-lotion-400ml-117097332.html"
-  },
-  {
    "id": "d8a41f420285f0b8",
    "store": "Jumia",
    "title": "COLASOLAR  -1000KW SOLAR GENERATOR WITH 200W SOLAR PANEL",
@@ -7687,6 +7687,48 @@
    "ends_at": null,
    "first_seen": "2026-10-12T12:57:16+00:00",
    "link": "https://www.jumia.com.ng/1000kw-solar-generator-with-200w-solar-panel-colasolar-mpg11957080.html"
+  },
+  {
+   "id": "63825e54ba666780",
+   "store": "Jumia",
+   "title": "NIVEA Orange & Avocado Oil Shower Gel for Women 500ml",
+   "category": "Beauty & Health",
+   "price": 5720,
+   "old_price": 6940,
+   "discount_percent": 17,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/08/1137973/1.jpg?7888",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:15:05+00:00",
+   "link": "https://www.jumia.com.ng/nivea-orange-avocado-oil-shower-gel-for-women-500ml-379731180.html"
+  },
+  {
+   "id": "89ba397c621c5aae",
+   "store": "Jumia",
+   "title": "NIVEA Cool Kick Shower Gel For Men - 500ml",
+   "category": "Beauty & Health",
+   "price": 5720,
+   "old_price": 6940,
+   "discount_percent": 17,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/54/0433401/1.jpg?4189",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:15:05+00:00",
+   "link": "https://www.jumia.com.ng/cool-kick-shower-gel-for-men-500ml-nivea-mpg1657660.html"
+  },
+  {
+   "id": "ee7d2bd2080e0bbb",
+   "store": "Jumia",
+   "title": "NIVEA Crème Soft Shower Gel - 500ml",
+   "category": "Beauty & Health",
+   "price": 5720,
+   "old_price": 6940,
+   "discount_percent": 17,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/0433401/1.jpg?7784",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:15:05+00:00",
+   "link": "https://www.jumia.com.ng/nivea-creme-soft-shower-gel-500ml-104334052.html"
   },
   {
    "id": "3275cb48f4be8b68",
@@ -7815,6 +7857,20 @@
    "link": "https://www.jumia.com.ng/electric-iron-pressing-clothes-1000w-hansen-mpg11131816.html"
   },
   {
+   "id": "702ef5120578f11d",
+   "store": "Jumia",
+   "title": "NIVEA MEN Deep Body Lotion  - 400ml",
+   "category": "Beauty & Health",
+   "price": 4715,
+   "old_price": 5615,
+   "discount_percent": 16,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/23/3790711/1.jpg?3185",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:15:05+00:00",
+   "link": "https://www.jumia.com.ng/nivea-men-deep-body-lotion-400ml-117097332.html"
+  },
+  {
    "id": "6aaed886e60e5a4e",
    "store": "Jumia",
    "title": "Guinness Foreign Extra Stout Can 44cl x24",
@@ -7885,20 +7941,6 @@
    "link": "https://www.jumia.com.ng/generic-dvddecoder-wall-shelf-cabinet-suspended-wall-decor-shelf-403795465.html"
   },
   {
-   "id": "302eadd9c36ac08d",
-   "store": "Jumia",
-   "title": "Sunelan S15 1.8\" QQVGA Screen, Dual SIM, Game, Camera BL 5C_Battery, 1000MAH -Black",
-   "category": "Phones",
-   "price": 6317,
-   "old_price": 7500,
-   "discount_percent": 15,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/11/3174914/1.jpg?3213",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:13:48+00:00",
-   "link": "https://www.jumia.com.ng/sunelan-s15-1.8-qqvga-screen-dual-sim-game-camera-bl-5cbattery-1000mah-black-419471311.html"
-  },
-  {
    "id": "59df55f338f1a85c",
    "store": "Jumia",
    "title": "Felicity Solar 100A MPPT Solar Charge Controller 48v",
@@ -7927,18 +7969,18 @@
    "link": "https://www.jumia.com.ng/standing-fan-18-inches-solitec-mpg10055692.html"
   },
   {
-   "id": "b2bc5dfceb5c0671",
+   "id": "19fdf32bfe9a4d56",
    "store": "Jumia",
-   "title": "NIVEA Nourishing Cocoa Body Lotion For Women - 400ml",
+   "title": "NIVEA Soft Cream 200ml (48 hours hydration and quick absorbtion)",
    "category": "Beauty & Health",
-   "price": 4315,
-   "old_price": 5105,
+   "price": 7590,
+   "old_price": 8980,
    "discount_percent": 15,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/78/4878941/1.jpg?1116",
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/1249383/1.jpg?2674",
    "promo_code": null,
    "ends_at": null,
-   "first_seen": "2026-10-11T21:15:05+00:00",
-   "link": "https://www.jumia.com.ng/nivea-nourishing-cocoa-body-lotion-for-women-400ml-149878487.html"
+   "first_seen": "2026-10-11T21:14:58+00:00",
+   "link": "https://www.jumia.com.ng/nivea-soft-cream-200ml-48-hours-hydration-and-quick-absorbtion-383942170.html"
   },
   {
    "id": "26e0837565ce9d2c",
@@ -7967,20 +8009,6 @@
    "ends_at": null,
    "first_seen": "2026-10-12T00:46:13+00:00",
    "link": "https://www.jumia.com.ng/knorr-chicken-bouillon-seasoning-cubes-50x8g-98326296.html"
-  },
-  {
-   "id": "6f75046213f299b2",
-   "store": "Jumia",
-   "title": "NIVEA Radiant & Beauty Even Glow Body Lotion For Women - 400ml",
-   "category": "Beauty & Health",
-   "price": 5610,
-   "old_price": 6635,
-   "discount_percent": 15,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/21/4213401/1.jpg?2089",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/revitalizing-400ml-lotion-harmattan-pack-promo-nivea-mpg1657680.html"
   },
   {
    "id": "bc71fb274431cf48",
