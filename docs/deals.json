@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-13T20:50:30+00:00",
- "count": 614,
+ "updated_at": "2026-10-14T00:59:37+00:00",
+ "count": 613,
  "deals": [
   {
    "id": "bd0f5f06ff89247c",
@@ -1179,34 +1179,6 @@
    "link": "https://www.jumia.com.ng/mktel-m106-feature-phone-1.77-big-button-dual-sim-fm-torch-800mah-black-420006809.html"
   },
   {
-   "id": "f2a90c2c465027c9",
-   "store": "Jumia",
-   "title": "Mini HD Wireless Camera, Night Vision Security Cam, Motion Detection, Two-Way Audio, TF Card Loop Recording, Magnetic Mount, Android and iOS Compatible",
-   "category": "Electronics",
-   "price": 6696,
-   "old_price": 17280,
-   "discount_percent": 61,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/17/2835814/1.jpg?4395",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:02+00:00",
-   "link": "https://www.jumia.com.ng/generic-mini-hd-wireless-camera-night-vision-security-cam-motion-detection-two-way-audio-tf-card-loop-recording-magnetic-mount-android-and-ios-compatible-418538271.html"
-  },
-  {
-   "id": "c5b711bdc20b2251",
-   "store": "Jumia",
-   "title": "DIY Wall Clock 3D Mirror Stickers Large Wall Clock",
-   "category": "Home & Kitchen",
-   "price": 2799,
-   "old_price": 7186,
-   "discount_percent": 61,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/8764852/1.jpg?6997",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-12T00:46:04+00:00",
-   "link": "https://www.jumia.com.ng/generic-diy-wall-clock-3d-mirror-stickers-large-wall-clock-258467890.html"
-  },
-  {
    "id": "ea984cc54d46cfc3",
    "store": "Jumia",
    "title": "MKTEL OYE3 Black with Green Small Phone,Button Phone,1.77 inch, Dual SIM,2500mAh Big Battery,Torch Light,FM Radio GSM Mobile Phone",
@@ -2143,6 +2115,20 @@
    "ends_at": null,
    "first_seen": "2026-10-12T12:58:01+00:00",
    "link": "https://www.jumia.com.ng/mythco-wireless-body-induction-lampled-motion-sensor-night-light-375807590.html"
+  },
+  {
+   "id": "1eb76c385d58887d",
+   "store": "Jumia",
+   "title": "TOUPHY Hair Clippers for Men Professional - Cordless&Corded Barber Clippers for Hair Cutting & Grooming",
+   "category": "Beauty & Health",
+   "price": 12500,
+   "old_price": 25920,
+   "discount_percent": 51,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/84/2730914/1.jpg?0769",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-14T00:59:23+00:00",
+   "link": "https://www.jumia.com.ng/touphy-hair-clippers-for-men-professional-cordlesscorded-barber-clippers-for-hair-cutting-grooming-419037248.html"
   },
   {
    "id": "7ba65f20c4bde3ab",
@@ -3921,6 +3907,20 @@
    "ends_at": null,
    "first_seen": "2026-10-12T00:46:13+00:00",
    "link": "https://www.jumia.com.ng/don-royale-dry-gin-75cl-337696145.html"
+  },
+  {
+   "id": "2413e2f14317e555",
+   "store": "Jumia",
+   "title": "Oraimo PowerNova QF1 Power Bank 27000mAh 22.5W Fast Charging Smart Digital Display",
+   "category": "Phones",
+   "price": 30600,
+   "old_price": 49000,
+   "discount_percent": 37,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/64/2532814/1.jpg?0519",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-14T00:58:34+00:00",
+   "link": "https://www.jumia.com.ng/oraimo-powernova-qf1-power-bank-27000mah-22.5w-fast-charging-smart-digital-display-418235246.html"
   },
   {
    "id": "f2e2d75207e2d9bd",
@@ -6653,6 +6653,20 @@
    "link": "https://www.jumia.com.ng/fayrouz-pineapple-tray-can-33cl-24-pack-420035156.html"
   },
   {
+   "id": "020880884e133362",
+   "store": "Jumia",
+   "title": "Indomie ONION CHICKEN 70G - 1 Carton",
+   "category": "Groceries",
+   "price": 12260,
+   "old_price": 15938,
+   "discount_percent": 23,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/19/3650024/1.jpg?2849",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-12T16:35:51+00:00",
+   "link": "https://www.jumia.com.ng/indomie-onion-chicken-70g-1-carton-420056391.html"
+  },
+  {
    "id": "a8a617b3241910b6",
    "store": "Jumia",
    "title": "Skyrun 145L Chest Freezer (BD-145A) - Grey",
@@ -7675,20 +7689,6 @@
    "link": "https://www.jumia.com.ng/mewe-mwaud-pts0801-portable-bluetooth-party-speaker-419735210.html"
   },
   {
-   "id": "834ab3f3e4bafaec",
-   "store": "Jumia",
-   "title": "Big Bull  Rice 25Kg",
-   "category": "Groceries",
-   "price": 37293,
-   "old_price": 45000,
-   "discount_percent": 17,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/77/3810993/1.jpg?4140",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-12T20:36:08+00:00",
-   "link": "https://www.jumia.com.ng/big-bull-rice-25kg-399018377.html"
-  },
-  {
    "id": "02f4e83ea7dbf0df",
    "store": "Jumia",
    "title": "Male Slip-on Sneakers - Black",
@@ -8345,20 +8345,6 @@
    "ends_at": null,
    "first_seen": "2026-10-12T00:46:13+00:00",
    "link": "https://www.jumia.com.ng/morpheus-aged-brandy-75cl-418733253.html"
-  },
-  {
-   "id": "39817800a6960c71",
-   "store": "Jumia",
-   "title": "Jameson Irish Whiskey 70cl",
-   "category": "Groceries",
-   "price": 23851,
-   "old_price": 27165,
-   "discount_percent": 12,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/460869/1.jpg?7609",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-12T00:46:13+00:00",
-   "link": "https://www.jumia.com.ng/jameson-irish-whiskey-70cl-96806464.html"
   },
   {
    "id": "56891d1b053da0ea",
