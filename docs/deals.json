@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-14T20:47:33+00:00",
- "count": 575,
+ "updated_at": "2026-10-15T04:48:23+00:00",
+ "count": 574,
  "deals": [
   {
    "id": "49d2a5ee9d5fe894",
@@ -269,20 +269,6 @@
    "link": "https://www.jumia.com.ng/zealot-s32-bluetooth-speaker-portable-3d-stereo-soundwoofer-257573490.html"
   },
   {
-   "id": "a028ed780d70e94e",
-   "store": "Jumia",
-   "title": "V380 TRIPLE LENS PTZ SOLAR CAMERA",
-   "category": "Electronics",
-   "price": 56112,
-   "old_price": 200000,
-   "discount_percent": 71,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/31/0223814/1.jpg?8842",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-13T20:49:33+00:00",
-   "link": "https://www.jumia.com.ng/v380-triple-lens-ptz-solar-camera-generic-mpg11492708.html"
-  },
-  {
    "id": "e70b2d40c1f33308",
    "store": "Jumia",
    "title": "4pcs Men Underwear Boxer Panties Comfortable Soft",
@@ -379,6 +365,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:13:39+00:00",
    "link": "https://www.jumia.com.ng/bolizma-hair-clipperrechargeable-hair-trimmershaving-machine-419486732.html"
+  },
+  {
+   "id": "9724c8d7211a249d",
+   "store": "Jumia",
+   "title": "LVYMB Men's Professional Football Boots - High-Top Soccer Cleats - Lightweight Anti-Slip Training Shoes - Neon Orange",
+   "category": "Fashion",
+   "price": 13019,
+   "old_price": 43200,
+   "discount_percent": 69,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/18/1929814/1.jpg?9145",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-15T04:47:55+00:00",
+   "link": "https://www.jumia.com.ng/lvymb-mens-professional-football-boots-high-top-soccer-cleats-lightweight-anti-slip-training-shoes-neon-orange-418929181.html"
   },
   {
    "id": "4343eaef7ebac625",
@@ -941,6 +941,20 @@
    "link": "https://www.jumia.com.ng/skyrun-7kg-twin-tub-semi-automatic-washing-machine-spb80-e05s-418247208.html"
   },
   {
+   "id": "4fb6ea2b228afe4f",
+   "store": "Jumia",
+   "title": "MKTEL M106  Feature Phone 1.77\" Big Button Dual SIM FM Torch 800mAh Black",
+   "category": "Phones",
+   "price": 8397,
+   "old_price": 22320,
+   "discount_percent": 62,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/8600024/1.jpg?3543",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:13:48+00:00",
+   "link": "https://www.jumia.com.ng/mktel-m106-feature-phone-1.77-big-button-dual-sim-fm-torch-800mah-black-420006809.html"
+  },
+  {
    "id": "9e87ecacb94ea43b",
    "store": "Jumia",
    "title": "Mythco 46 Pieces 1/4 Inch Drive Socket Ratchet Wrench Set Black",
@@ -967,20 +981,6 @@
    "ends_at": null,
    "first_seen": "2026-10-13T20:49:00+00:00",
    "link": "https://www.jumia.com.ng/vtoman-flashspeed-300-portable-power-station-solar-generator-230wh300w-with-100w-pd-for-home-blackout-backup-tv-fan-418620545.html"
-  },
-  {
-   "id": "4fb6ea2b228afe4f",
-   "store": "Jumia",
-   "title": "MKTEL M106  Feature Phone 1.77\" Big Button Dual SIM FM Torch 800mAh Black",
-   "category": "Phones",
-   "price": 8568,
-   "old_price": 22320,
-   "discount_percent": 61,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/8600024/1.jpg?3543",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:13:48+00:00",
-   "link": "https://www.jumia.com.ng/mktel-m106-feature-phone-1.77-big-button-dual-sim-fm-torch-800mah-black-420006809.html"
   },
   {
    "id": "f2a90c2c465027c9",
@@ -1795,20 +1795,6 @@
    "link": "https://www.jumia.com.ng/mythco-16-piece-tool-set-general-household-hand-kit-with-plastic-toolbox-storage-case-396009303.html"
   },
   {
-   "id": "efebedc366491eec",
-   "store": "Jumia",
-   "title": "TOUPHY Hair Clippers for Men Professional - Cordless&Corded Barber Clippers for Hair Cutting & Grooming",
-   "category": "Beauty & Health",
-   "price": 11997,
-   "old_price": 25740,
-   "discount_percent": 53,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/6770814/1.jpg?2764",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:58+00:00",
-   "link": "https://www.jumia.com.ng/touphy-hair-clippers-for-men-professional-cordlesscorded-barber-clippers-for-hair-cutting-grooming-418077673.html"
-  },
-  {
    "id": "cd598f8396c110bf",
    "store": "Jumia",
    "title": "Miratec Power Strip with Surge Protection, 4 Power Socket Outlets & 4 USB Ports(3 USB + 1 Type-C) ,Overload Protection, LED Indicator, Child-Proof Safety Covers, 2M All-in-One Power Extension Cord for Home Office Use",
@@ -2037,9 +2023,9 @@
    "store": "Jumia",
    "title": "LP LP Smart TV 32 , Android 14.0 , 1+8G, Frameless , HD, WiFi, 2 HDMI 2 USB Ports + 1 year warranty - Black",
    "category": "Electronics",
-   "price": 113000,
+   "price": 112700,
    "old_price": 230400,
-   "discount_percent": 50,
+   "discount_percent": 51,
    "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/55/1729814/1.jpg?5407",
    "promo_code": null,
    "ends_at": null,
@@ -2064,7 +2050,7 @@
    "id": "56715c45c192b045",
    "store": "Jumia",
    "title": "Saisho Sandwich Maker - S-609",
-   "category": "Home & Kitchen",
+   "category": "Other",
    "price": 8680,
    "old_price": 17635,
    "discount_percent": 50,
@@ -3069,20 +3055,6 @@
    "link": "https://www.jumia.com.ng/touphy-mens-classic-running-sneakers-mens-shoes-90369901.html"
   },
   {
-   "id": "0dd932a34e37975e",
-   "store": "Jumia",
-   "title": "OIPETLUCK Mini Hidden Cameras,1080P HD WiFi Security Camera for Baby Pet Nanny Surveillance, Cam for Home Indoor Outdoor Monitoring Remote Viewing with APP(Video Only)",
-   "category": "Electronics",
-   "price": 5789,
-   "old_price": 10080,
-   "discount_percent": 42,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/81/4250914/1.jpg?6257",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-11T21:14:02+00:00",
-   "link": "https://www.jumia.com.ng/oipetluck-mini-hidden-cameras1080p-hd-wifi-security-camera-for-baby-pet-nanny-surveillance-cam-for-home-indoor-outdoor-monitoring-remote-viewing-with-appvideo-only-419052418.html"
-  },
-  {
    "id": "e6b4df48a1a0a4a9",
    "store": "Jumia",
    "title": "B39 Foldable BT 5.0 Headset With Breathing Light Support TF Card",
@@ -3293,6 +3265,20 @@
    "link": "https://www.jumia.com.ng/philly-20000mah-2.1a-fast-power-banks-for-all-phones-black-418210502.html"
   },
   {
+   "id": "0dd932a34e37975e",
+   "store": "Jumia",
+   "title": "OIPETLUCK Mini Hidden Cameras,1080P HD WiFi Security Camera for Baby Pet Nanny Surveillance, Cam for Home Indoor Outdoor Monitoring Remote Viewing with APP(Video Only)",
+   "category": "Electronics",
+   "price": 5990,
+   "old_price": 10080,
+   "discount_percent": 40,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/81/4250914/1.jpg?6257",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:02+00:00",
+   "link": "https://www.jumia.com.ng/oipetluck-mini-hidden-cameras1080p-hd-wifi-security-camera-for-baby-pet-nanny-surveillance-cam-for-home-indoor-outdoor-monitoring-remote-viewing-with-appvideo-only-419052418.html"
+  },
+  {
    "id": "19b87636a6eea462",
    "store": "Jumia",
    "title": "LP LP 32 Digital TV,Frameless , 1366*768 Resolution, 2 HDMI + 2 USB Ports+ 12 MONTHS WARRANTY",
@@ -3347,20 +3333,6 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:14:58+00:00",
    "link": "https://www.jumia.com.ng/roushun-vitamin-c-serum-anti-aging-serum-30ml-237729207.html"
-  },
-  {
-   "id": "2106faf41c43d7d3",
-   "store": "Jumia",
-   "title": "MingDe era Wireless Earbuds Bluetooth 5.3 earpods In Ear Transparent Earphones ear phone Bluetooth 5.3 Earbuds, 25H Long Battery Life with Case, Sweat-Resistant Sports Earphones, HD Calls & Smart Touch, Ergonomic In-Ear",
-   "category": "Phones",
-   "price": 4470,
-   "old_price": 7450,
-   "discount_percent": 40,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/69/1602914/1.jpg?0454",
-   "promo_code": null,
-   "ends_at": null,
-   "first_seen": "2026-10-13T20:49:19+00:00",
-   "link": "https://www.jumia.com.ng/mingde-era-wireless-earbuds-bluetooth-5.3-earpods-in-ear-transparent-earphones-ear-phone-bluetooth-5.3-earbuds-25h-long-battery-life-with-case-sweat-resistant-sports-earphones-hd-calls-smart-touch-ergonomic-in-ear-419206196.html"
   },
   {
    "id": "8694adf27ff42c2a",
@@ -3671,18 +3643,18 @@
    "link": "https://www.jumia.com.ng/djack-2.1-tall-speakers-bluetooth-home-theater-system-with-remote-control-dj-3802-419437478.html"
   },
   {
-   "id": "3d2527c56b052177",
+   "id": "38b8446c59f2019b",
    "store": "Jumia",
-   "title": "Women Shoes Sneakers Ladies Shoes Breathable Sports Shoes",
-   "category": "Fashion",
-   "price": 5490,
-   "old_price": 8640,
+   "title": "Peaks 3000W DC12V-AC220V Modified Sine Wave Inverter with Dual USB Ports",
+   "category": "Electronics",
+   "price": 27890,
+   "old_price": 43877,
    "discount_percent": 36,
-   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/39/0249183/1.jpg?9981",
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/67/2451122/1.jpg?6118",
    "promo_code": null,
    "ends_at": null,
-   "first_seen": "2026-10-11T21:14:51+00:00",
-   "link": "https://www.jumia.com.ng/fashion-women-shoes-sneakers-ladies-shoes-breathable-sports-shoes-381942093.html"
+   "first_seen": "2026-10-11T21:14:02+00:00",
+   "link": "https://www.jumia.com.ng/peaks-3000w-dc12v-ac220v-modified-sine-wave-inverter-generic-mpg4682572.html"
   },
   {
    "id": "015910c82501204b",
@@ -3702,7 +3674,7 @@
    "id": "ed54a252502f0090",
    "store": "Jumia",
    "title": "SILVER CREST 8L Extra Large AirFryer-White",
-   "category": "Home & Kitchen",
+   "category": "Other",
    "price": 27990,
    "old_price": 44000,
    "discount_percent": 36,
@@ -3921,6 +3893,20 @@
    "ends_at": null,
    "first_seen": "2026-10-11T21:14:25+00:00",
    "link": "https://www.jumia.com.ng/nestle-golden-morn-grainsmart-900g-extra-50g-218108418.html"
+  },
+  {
+   "id": "3d2527c56b052177",
+   "store": "Jumia",
+   "title": "Women Shoes Sneakers Ladies Shoes Breathable Sports Shoes",
+   "category": "Fashion",
+   "price": 5600,
+   "old_price": 8640,
+   "discount_percent": 35,
+   "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/39/0249183/1.jpg?9981",
+   "promo_code": null,
+   "ends_at": null,
+   "first_seen": "2026-10-11T21:14:51+00:00",
+   "link": "https://www.jumia.com.ng/fashion-women-shoes-sneakers-ladies-shoes-breathable-sports-shoes-381942093.html"
   },
   {
    "id": "146b0c58f59025d4",
@@ -4304,7 +4290,7 @@
    "id": "f274f8e37e3ffaba",
    "store": "Jumia",
    "title": "Nexus 5.5kg Twin Tub Washing Machine (NX-WM-5SAK)",
-   "category": "Home & Kitchen",
+   "category": "Other",
    "price": 123150,
    "old_price": 181130,
    "discount_percent": 32,
@@ -4724,7 +4710,7 @@
    "id": "6335d7ef16af3bb4",
    "store": "Jumia",
    "title": "SILVER CREST 8L Extra Large Digital AirFryer",
-   "category": "Home & Kitchen",
+   "category": "Other",
    "price": 30990,
    "old_price": 44000,
    "discount_percent": 29,
@@ -5746,7 +5732,7 @@
    "id": "649f40f100ec41d0",
    "store": "Jumia",
    "title": "Skyrun 7kg Twin Tub Semi-automatic Washing Machine (SPB80-E05S/WMS-70PHC).",
-   "category": "Home & Kitchen",
+   "category": "Other",
    "price": 155999,
    "old_price": 208000,
    "discount_percent": 25,
@@ -5928,7 +5914,7 @@
    "id": "d7d92088be6400d6",
    "store": "Jumia",
    "title": "Sun King Pico Plus 50 Lumens Solar Portable Emergency Lamp - Yellow",
-   "category": "Home & Kitchen",
+   "category": "Other",
    "price": 8028,
    "old_price": 10660,
    "discount_percent": 24,
@@ -6166,7 +6152,7 @@
    "id": "22054db77b711565",
    "store": "Jumia",
    "title": "Binatone 3 Litres Electric Jug (CEJ-3000G)- Black + 2 Years Warranty",
-   "category": "Home & Kitchen",
+   "category": "Other",
    "price": 29940,
    "old_price": 39080,
    "discount_percent": 23,
@@ -6194,7 +6180,7 @@
    "id": "4788d36836fdb03b",
    "store": "Jumia",
    "title": "Aeon 5Kg Twin Tub Washing Machine (ATT05J) + 1 Year Warranty",
-   "category": "Home & Kitchen",
+   "category": "Other",
    "price": 126800,
    "old_price": 165325,
    "discount_percent": 23,
