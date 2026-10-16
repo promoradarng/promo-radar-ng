@@ -351,6 +351,21 @@ function render(){
   // Sponsored first, then your pins in the order you listed them, then everything else by the chosen sort.
   const rank=d=>d.sponsored?0:d.pin!=null?1:2;
   list.sort((a,b)=>rank(a)-rank(b)||(a.pin??0)-(b.pin??0)||by(a,b));
+  // On the "All" view, mix flights in with shopping deals: shopping on the left,
+  // flights on the right (on phones). When one kind runs out, the other fills both columns.
+  if(state.cat==="All"){
+    const top=list.filter(d=>rank(d)<2);
+    const rest=list.filter(d=>rank(d)===2);
+    const fly=rest.filter(d=>d.cat==="Travel"), shop=rest.filter(d=>d.cat!=="Travel");
+    if(fly.length&&shop.length){
+      const out=[...top];
+      while(fly.length||shop.length){
+        const wantFly=out.length%2===1;
+        out.push((wantFly&&fly.length)||!shop.length?fly.shift():shop.shift());
+      }
+      list=out;
+    }
+  }
   const total=list.length+($("#dotd").hidden?0:1);
   $("#count").textContent=`${total} deal${total===1?"":"s"}`+(updated?` · updated ${ago(updated)}`:"");
   $("#grid").innerHTML=list.length?list.map(d=>`
