@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T22:22:40+00:00",
-  "count": 552,
+  "updated_at": "2026-10-16T22:32:14+00:00",
+  "count": 555,
   "deals": [
     {
       "id": "bd0f5f06ff89247c",
@@ -183,6 +183,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:13:46+00:00",
       "link": "https://www.jumia.com.ng/generic-bluetooth-selfie-stick-tripod-fill-light-shutter-remote-106334121.html"
+    },
+    {
+      "id": "9f72518b1668f3a4",
+      "store": "Jumia",
+      "title": "MK ® Top 40000mAh Power Bank+ 78W Super Output+ 100% Screen+ LED Light+ 8 USB Ports Battery Type-C.",
+      "category": "Phones",
+      "price": 16110,
+      "old_price": 72000,
+      "discount_percent": 77,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/3889914/1.jpg?8501",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-15T16:49:23+00:00",
+      "link": "https://www.jumia.com.ng/mk-r-top-40000mah-power-bank-78w-super-output-100-screen-led-light-8-usb-ports-battery-type-c.-419988359.html"
     },
     {
       "id": "dcedc878a78a9856",
@@ -1238,7 +1252,7 @@
       "id": "5d8ea8785659e7dc",
       "store": "Jumia",
       "title": "Oraimo SpaceBuds Neo True Wireless Spatial Earbuds Sound360 Audio - Black",
-      "category": "Electronics",
+      "category": "Phones",
       "price": 17400,
       "old_price": 43200,
       "discount_percent": 59,
@@ -1490,7 +1504,7 @@
       "id": "d811669545029783",
       "store": "Jumia",
       "title": "Philly 20000mAh Power Charging Bank Portable Charger Ultra Slim",
-      "category": "Other",
+      "category": "Phones",
       "price": 7197,
       "old_price": 16560,
       "discount_percent": 56,
@@ -2120,7 +2134,7 @@
       "id": "56715c45c192b045",
       "store": "Jumia",
       "title": "Saisho Sandwich Maker - S-609",
-      "category": "Other",
+      "category": "Home & Kitchen",
       "price": 8680,
       "old_price": 17635,
       "discount_percent": 50,
@@ -3744,7 +3758,7 @@
       "id": "ed54a252502f0090",
       "store": "Jumia",
       "title": "SILVER CREST 8L Extra Large AirFryer-White",
-      "category": "Other",
+      "category": "Home & Kitchen",
       "price": 27990,
       "old_price": 44000,
       "discount_percent": 36,
@@ -4948,7 +4962,7 @@
       "id": "6335d7ef16af3bb4",
       "store": "Jumia",
       "title": "SILVER CREST 8L Extra Large Digital AirFryer",
-      "category": "Other",
+      "category": "Home & Kitchen",
       "price": 30990,
       "old_price": 44000,
       "discount_percent": 29,
@@ -5279,6 +5293,20 @@
       "ends_at": null,
       "first_seen": "2026-10-16T20:52:53+00:00",
       "link": "https://www.jumia.com.ng/generic-2000va-2kva-dual-digital-display-automatic-voltage-regulator-avr-red-220v-automatic-overheat-protection-suitable-for-home-and-office-appliances-419256496.html"
+    },
+    {
+      "id": "ae7c7281c48be8c2",
+      "store": "Jumia",
+      "title": "C Idea 30000mAh Cheap Long Standby Portable Powerbank",
+      "category": "Phones",
+      "price": 12960,
+      "old_price": 18000,
+      "discount_percent": 28,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/57/6452804/1.jpg?5610",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-12T20:35:31+00:00",
+      "link": "https://www.jumia.com.ng/c-idea-30000mah-cheap-long-standby-portable-powerbank-408254675.html"
     },
     {
       "id": "1f60001e1e0f6d3f",
@@ -7045,6 +7073,20 @@
       "link": "https://www.jumia.com.ng/hypo-1000ml-lime-bottle-hypo-419575480.html"
     },
     {
+      "id": "08fce2c0266f6187",
+      "store": "Jumia",
+      "title": "RichRipple RichRipple 50000mah 22.5W PowerBank Built-in 4 Cables Lightning Type-C Micro USB USB Portable Charger",
+      "category": "Phones",
+      "price": 22498,
+      "old_price": 26899,
+      "discount_percent": 16,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/6578404/1.jpg?0394",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-13T20:49:19+00:00",
+      "link": "https://www.jumia.com.ng/richripple-richripple-50000mah-22.5w-powerbank-built-in-4-cables-lightning-type-c-micro-usb-usb-portable-charger-404875629.html"
+    },
+    {
       "id": "6aaed886e60e5a4e",
       "store": "Jumia",
       "title": "Guinness Foreign Extra Stout Can 44cl x24",
@@ -7739,7 +7781,7 @@
       "old_price": 485734,
       "promo_code": null,
       "link": "https://www.aviasales.com/search/LOS1411LON1?t=AT17946831001794723600000735LOSCMNSTN_ca3af1cc036f961d1fca5a86d478f140_30520&search_date=15102026&expected_price_uuid=01a13d4a-196d-8040-2179-59a86d6027c5&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=0T5CWNlNWTnrWepne53TJQ&expected_price_source=share&expected_price_currency=ngn&expected_price=485734&marker=585767",
-      "image": "",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNDAwIj4KPGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMmY1ZDhhIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjOGZiNGQ5Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIiBmaWxsPSJ1cmwoI2cpIi8+CjxjaXJjbGUgY3g9IjMzNSIgY3k9IjE2NSIgcj0iMzAiIGZpbGw9IiNmZmYiIG9wYWNpdHk9Ii4yNSIvPgo8cGF0aCBkPSJNNDAgMjUwIFEyMDAgMTIwIDM2MCAyMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtZGFzaGFycmF5PSIyIDEwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIG9wYWNpdHk9Ii44Ii8+CjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1MCAxNTApIHJvdGF0ZSgxNSkiIGZpbGw9IiNmZmYiPgo8cGF0aCBkPSJNLTM4IC00IEwyMiAtNCBRMzggLTQgNDIgMCBRMzggNCAyMiA0IEwtMzggNCBRLTQyIDAgLTM4IC00WiIvPgo8cGF0aCBkPSJNLTIgLTMgTC0yMCAtMzQgTC0xMCAtMzQgTDE2IC0zWiIvPjxwYXRoIGQ9Ik0tMiAzIEwtMjAgMzQgTC0xMCAzNCBMMTYgM1oiLz4KPHBhdGggZD0iTS0zNCAtMyBMLTQyIC0xNiBMLTM2IC0xNiBMLTI2IC0zWiIvPjxwYXRoIGQ9Ik0tMzQgMyBMLTQyIDE2IEwtMzYgMTYgTC0yNiAzWiIvPgo8L2c+CjxnIGZpbGw9IiMwMDAiIG9wYWNpdHk9Ii4yMiI+PHJlY3QgeD0iMCIgeT0iMzMwIiB3aWR0aD0iMjYiIGhlaWdodD0iNzAiIHJ4PSIyIi8+PHJlY3QgeD0iMzAiIHk9IjI5MCIgd2lkdGg9IjMzIiBoZWlnaHQ9IjExMCIgcng9IjIiLz48cmVjdCB4PSI2NyIgeT0iMzE1IiB3aWR0aD0iMjgiIGhlaWdodD0iODUiIHJ4PSIyIi8+PHJlY3QgeD0iOTkiIHk9IjI2MCIgd2lkdGg9IjM1IiBoZWlnaHQ9IjE0MCIgcng9IjIiLz48cmVjdCB4PSIxMzgiIHk9IjM0MCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjYwIiByeD0iMiIvPjxyZWN0IHg9IjE3MiIgeT0iMjgwIiB3aWR0aD0iMzciIGhlaWdodD0iMTIwIiByeD0iMiIvPjxyZWN0IHg9IjIxMyIgeT0iMzA1IiB3aWR0aD0iMzIiIGhlaWdodD0iOTUiIHJ4PSIyIi8+PHJlY3QgeD0iMjQ5IiB5PSIyNTAiIHdpZHRoPSIyNyIgaGVpZ2h0PSIxNTAiIHJ4PSIyIi8+PHJlY3QgeD0iMjgwIiB5PSIzMjUiIHdpZHRoPSIzNCIgaGVpZ2h0PSI3NSIgcng9IjIiLz48cmVjdCB4PSIzMTgiIHk9IjI5NSIgd2lkdGg9IjI5IiBoZWlnaHQ9IjEwNSIgcng9IjIiLz48cmVjdCB4PSIzNTEiIHk9IjMzNSIgd2lkdGg9IjM2IiBoZWlnaHQ9IjY1IiByeD0iMiIvPjxyZWN0IHg9IjM5MSIgeT0iMjc1IiB3aWR0aD0iMzEiIGhlaWdodD0iMTI1IiByeD0iMiIvPjxyZWN0IHg9IjQyNiIgeT0iMzEwIiB3aWR0aD0iMjYiIGhlaWdodD0iOTAiIHJ4PSIyIi8+PC9nPgo8dGV4dCB4PSIzMiIgeT0iNzAiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSI1MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZiI+TE9TIOKGkiBMT048L3RleHQ+Cjx0ZXh0IHg9IjMyIiB5PSIxMDgiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNCIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iLjkiPkxhZ29zIHRvIExvbmRvbjwvdGV4dD4KPHRleHQgeD0iMzIiIHk9IjM3MiIgZm9udC1mYW1pbHk9IkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjZmZmIj7inIggRkxJR0hUIERFQUw8L3RleHQ+Cjwvc3ZnPg==",
       "ends_at": null
     },
     {
@@ -7751,7 +7793,7 @@
       "old_price": 471279,
       "promo_code": null,
       "link": "https://www.aviasales.com/search/ABV1811LON1?t=P417950053001795066800001085ABVLOSLGW_653def13f770513959b86e3d343f7ca0_29705&search_date=13102026&expected_price_uuid=01a13505-065e-8030-6cd9-2db72303c3e3&static_fare_key=TY%7CP1%7CH0%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=5EUOnPnwQ8Kdry_hnqWKlw&expected_price_source=share&expected_price_currency=ngn&expected_price=471279&marker=585767",
-      "image": "",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNDAwIj4KPGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMmY1ZDhhIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjOGZiNGQ5Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIiBmaWxsPSJ1cmwoI2cpIi8+CjxjaXJjbGUgY3g9IjMzNSIgY3k9IjE2NSIgcj0iMzAiIGZpbGw9IiNmZmYiIG9wYWNpdHk9Ii4yNSIvPgo8cGF0aCBkPSJNNDAgMjUwIFEyMDAgMTIwIDM2MCAyMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtZGFzaGFycmF5PSIyIDEwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIG9wYWNpdHk9Ii44Ii8+CjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1MCAxNTApIHJvdGF0ZSgxNSkiIGZpbGw9IiNmZmYiPgo8cGF0aCBkPSJNLTM4IC00IEwyMiAtNCBRMzggLTQgNDIgMCBRMzggNCAyMiA0IEwtMzggNCBRLTQyIDAgLTM4IC00WiIvPgo8cGF0aCBkPSJNLTIgLTMgTC0yMCAtMzQgTC0xMCAtMzQgTDE2IC0zWiIvPjxwYXRoIGQ9Ik0tMiAzIEwtMjAgMzQgTC0xMCAzNCBMMTYgM1oiLz4KPHBhdGggZD0iTS0zNCAtMyBMLTQyIC0xNiBMLTM2IC0xNiBMLTI2IC0zWiIvPjxwYXRoIGQ9Ik0tMzQgMyBMLTQyIDE2IEwtMzYgMTYgTC0yNiAzWiIvPgo8L2c+CjxnIGZpbGw9IiMwMDAiIG9wYWNpdHk9Ii4yMiI+PHJlY3QgeD0iMCIgeT0iMzMwIiB3aWR0aD0iMjYiIGhlaWdodD0iNzAiIHJ4PSIyIi8+PHJlY3QgeD0iMzAiIHk9IjI5MCIgd2lkdGg9IjMzIiBoZWlnaHQ9IjExMCIgcng9IjIiLz48cmVjdCB4PSI2NyIgeT0iMzE1IiB3aWR0aD0iMjgiIGhlaWdodD0iODUiIHJ4PSIyIi8+PHJlY3QgeD0iOTkiIHk9IjI2MCIgd2lkdGg9IjM1IiBoZWlnaHQ9IjE0MCIgcng9IjIiLz48cmVjdCB4PSIxMzgiIHk9IjM0MCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjYwIiByeD0iMiIvPjxyZWN0IHg9IjE3MiIgeT0iMjgwIiB3aWR0aD0iMzciIGhlaWdodD0iMTIwIiByeD0iMiIvPjxyZWN0IHg9IjIxMyIgeT0iMzA1IiB3aWR0aD0iMzIiIGhlaWdodD0iOTUiIHJ4PSIyIi8+PHJlY3QgeD0iMjQ5IiB5PSIyNTAiIHdpZHRoPSIyNyIgaGVpZ2h0PSIxNTAiIHJ4PSIyIi8+PHJlY3QgeD0iMjgwIiB5PSIzMjUiIHdpZHRoPSIzNCIgaGVpZ2h0PSI3NSIgcng9IjIiLz48cmVjdCB4PSIzMTgiIHk9IjI5NSIgd2lkdGg9IjI5IiBoZWlnaHQ9IjEwNSIgcng9IjIiLz48cmVjdCB4PSIzNTEiIHk9IjMzNSIgd2lkdGg9IjM2IiBoZWlnaHQ9IjY1IiByeD0iMiIvPjxyZWN0IHg9IjM5MSIgeT0iMjc1IiB3aWR0aD0iMzEiIGhlaWdodD0iMTI1IiByeD0iMiIvPjxyZWN0IHg9IjQyNiIgeT0iMzEwIiB3aWR0aD0iMjYiIGhlaWdodD0iOTAiIHJ4PSIyIi8+PC9nPgo8dGV4dCB4PSIzMiIgeT0iNzAiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSI1MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZiI+QUJWIOKGkiBMT048L3RleHQ+Cjx0ZXh0IHg9IjMyIiB5PSIxMDgiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNCIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iLjkiPkFidWphIHRvIExvbmRvbjwvdGV4dD4KPHRleHQgeD0iMzIiIHk9IjM3MiIgZm9udC1mYW1pbHk9IkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjZmZmIj7inIggRkxJR0hUIERFQUw8L3RleHQ+Cjwvc3ZnPg==",
       "ends_at": null
     },
     {
@@ -7763,7 +7805,7 @@
       "old_price": 494107,
       "promo_code": null,
       "link": "https://www.aviasales.com/search/LON1111LOS1?t=AT17943939001794462300001080STNVRNCMNLOS_17063c62a63a0e387de84bd064011e64_31180&search_date=13102026&expected_price_uuid=01a13379-7389-8040-2f3d-08730891bfd1&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=bcz1sXPXNmOeVmUHirZzUw&expected_price_source=share&expected_price_currency=ngn&expected_price=494107&marker=585767",
-      "image": "",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNDAwIj4KPGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMGY3YTRhIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjN2ZkMWE2Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIiBmaWxsPSJ1cmwoI2cpIi8+CjxjaXJjbGUgY3g9IjMzNSIgY3k9IjE2NSIgcj0iMzAiIGZpbGw9IiNmZmYiIG9wYWNpdHk9Ii4yNSIvPgo8cGF0aCBkPSJNNDAgMjUwIFEyMDAgMTIwIDM2MCAyMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtZGFzaGFycmF5PSIyIDEwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIG9wYWNpdHk9Ii44Ii8+CjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1MCAxNTApIHJvdGF0ZSgxNSkiIGZpbGw9IiNmZmYiPgo8cGF0aCBkPSJNLTM4IC00IEwyMiAtNCBRMzggLTQgNDIgMCBRMzggNCAyMiA0IEwtMzggNCBRLTQyIDAgLTM4IC00WiIvPgo8cGF0aCBkPSJNLTIgLTMgTC0yMCAtMzQgTC0xMCAtMzQgTDE2IC0zWiIvPjxwYXRoIGQ9Ik0tMiAzIEwtMjAgMzQgTC0xMCAzNCBMMTYgM1oiLz4KPHBhdGggZD0iTS0zNCAtMyBMLTQyIC0xNiBMLTM2IC0xNiBMLTI2IC0zWiIvPjxwYXRoIGQ9Ik0tMzQgMyBMLTQyIDE2IEwtMzYgMTYgTC0yNiAzWiIvPgo8L2c+CjxnIGZpbGw9IiMwMDAiIG9wYWNpdHk9Ii4yMiI+PHJlY3QgeD0iMCIgeT0iMzMwIiB3aWR0aD0iMjYiIGhlaWdodD0iNzAiIHJ4PSIyIi8+PHJlY3QgeD0iMzAiIHk9IjI5MCIgd2lkdGg9IjMzIiBoZWlnaHQ9IjExMCIgcng9IjIiLz48cmVjdCB4PSI2NyIgeT0iMzE1IiB3aWR0aD0iMjgiIGhlaWdodD0iODUiIHJ4PSIyIi8+PHJlY3QgeD0iOTkiIHk9IjI2MCIgd2lkdGg9IjM1IiBoZWlnaHQ9IjE0MCIgcng9IjIiLz48cmVjdCB4PSIxMzgiIHk9IjM0MCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjYwIiByeD0iMiIvPjxyZWN0IHg9IjE3MiIgeT0iMjgwIiB3aWR0aD0iMzciIGhlaWdodD0iMTIwIiByeD0iMiIvPjxyZWN0IHg9IjIxMyIgeT0iMzA1IiB3aWR0aD0iMzIiIGhlaWdodD0iOTUiIHJ4PSIyIi8+PHJlY3QgeD0iMjQ5IiB5PSIyNTAiIHdpZHRoPSIyNyIgaGVpZ2h0PSIxNTAiIHJ4PSIyIi8+PHJlY3QgeD0iMjgwIiB5PSIzMjUiIHdpZHRoPSIzNCIgaGVpZ2h0PSI3NSIgcng9IjIiLz48cmVjdCB4PSIzMTgiIHk9IjI5NSIgd2lkdGg9IjI5IiBoZWlnaHQ9IjEwNSIgcng9IjIiLz48cmVjdCB4PSIzNTEiIHk9IjMzNSIgd2lkdGg9IjM2IiBoZWlnaHQ9IjY1IiByeD0iMiIvPjxyZWN0IHg9IjM5MSIgeT0iMjc1IiB3aWR0aD0iMzEiIGhlaWdodD0iMTI1IiByeD0iMiIvPjxyZWN0IHg9IjQyNiIgeT0iMzEwIiB3aWR0aD0iMjYiIGhlaWdodD0iOTAiIHJ4PSIyIi8+PC9nPgo8dGV4dCB4PSIzMiIgeT0iNzAiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSI1MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZiI+TE9OIOKGkiBMT1M8L3RleHQ+Cjx0ZXh0IHg9IjMyIiB5PSIxMDgiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNCIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iLjkiPkxvbmRvbiB0byBMYWdvczwvdGV4dD4KPHRleHQgeD0iMzIiIHk9IjM3MiIgZm9udC1mYW1pbHk9IkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjZmZmIj7inIggRkxJR0hUIERFQUw8L3RleHQ+Cjwvc3ZnPg==",
       "ends_at": null
     },
     {
@@ -7775,7 +7817,7 @@
       "old_price": 511671,
       "promo_code": null,
       "link": "https://www.aviasales.com/search/LON2001ABV1?t=P418004794001800505200000370LGWABV_e8ae38571a42d7708ba0f2553bc53640_32787&search_date=10102026&expected_price_uuid=01a12695-c7c8-8040-af04-f28528163d24&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH0%7CR0%7CTBC1&itinerary_key=4dQ0aANne_5bKqNWD07jiA&expected_price_source=share&expected_price_currency=ngn&expected_price=511671&marker=585767",
-      "image": "",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNDAwIj4KPGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMWQ2YjVhIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjOWZkM2I4Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIiBmaWxsPSJ1cmwoI2cpIi8+CjxjaXJjbGUgY3g9IjMzNSIgY3k9IjE2NSIgcj0iMzAiIGZpbGw9IiNmZmYiIG9wYWNpdHk9Ii4yNSIvPgo8cGF0aCBkPSJNNDAgMjUwIFEyMDAgMTIwIDM2MCAyMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtZGFzaGFycmF5PSIyIDEwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIG9wYWNpdHk9Ii44Ii8+CjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1MCAxNTApIHJvdGF0ZSgxNSkiIGZpbGw9IiNmZmYiPgo8cGF0aCBkPSJNLTM4IC00IEwyMiAtNCBRMzggLTQgNDIgMCBRMzggNCAyMiA0IEwtMzggNCBRLTQyIDAgLTM4IC00WiIvPgo8cGF0aCBkPSJNLTIgLTMgTC0yMCAtMzQgTC0xMCAtMzQgTDE2IC0zWiIvPjxwYXRoIGQ9Ik0tMiAzIEwtMjAgMzQgTC0xMCAzNCBMMTYgM1oiLz4KPHBhdGggZD0iTS0zNCAtMyBMLTQyIC0xNiBMLTM2IC0xNiBMLTI2IC0zWiIvPjxwYXRoIGQ9Ik0tMzQgMyBMLTQyIDE2IEwtMzYgMTYgTC0yNiAzWiIvPgo8L2c+CjxnIGZpbGw9IiMwMDAiIG9wYWNpdHk9Ii4yMiI+PHJlY3QgeD0iMCIgeT0iMzMwIiB3aWR0aD0iMjYiIGhlaWdodD0iNzAiIHJ4PSIyIi8+PHJlY3QgeD0iMzAiIHk9IjI5MCIgd2lkdGg9IjMzIiBoZWlnaHQ9IjExMCIgcng9IjIiLz48cmVjdCB4PSI2NyIgeT0iMzE1IiB3aWR0aD0iMjgiIGhlaWdodD0iODUiIHJ4PSIyIi8+PHJlY3QgeD0iOTkiIHk9IjI2MCIgd2lkdGg9IjM1IiBoZWlnaHQ9IjE0MCIgcng9IjIiLz48cmVjdCB4PSIxMzgiIHk9IjM0MCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjYwIiByeD0iMiIvPjxyZWN0IHg9IjE3MiIgeT0iMjgwIiB3aWR0aD0iMzciIGhlaWdodD0iMTIwIiByeD0iMiIvPjxyZWN0IHg9IjIxMyIgeT0iMzA1IiB3aWR0aD0iMzIiIGhlaWdodD0iOTUiIHJ4PSIyIi8+PHJlY3QgeD0iMjQ5IiB5PSIyNTAiIHdpZHRoPSIyNyIgaGVpZ2h0PSIxNTAiIHJ4PSIyIi8+PHJlY3QgeD0iMjgwIiB5PSIzMjUiIHdpZHRoPSIzNCIgaGVpZ2h0PSI3NSIgcng9IjIiLz48cmVjdCB4PSIzMTgiIHk9IjI5NSIgd2lkdGg9IjI5IiBoZWlnaHQ9IjEwNSIgcng9IjIiLz48cmVjdCB4PSIzNTEiIHk9IjMzNSIgd2lkdGg9IjM2IiBoZWlnaHQ9IjY1IiByeD0iMiIvPjxyZWN0IHg9IjM5MSIgeT0iMjc1IiB3aWR0aD0iMzEiIGhlaWdodD0iMTI1IiByeD0iMiIvPjxyZWN0IHg9IjQyNiIgeT0iMzEwIiB3aWR0aD0iMjYiIGhlaWdodD0iOTAiIHJ4PSIyIi8+PC9nPgo8dGV4dCB4PSIzMiIgeT0iNzAiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSI1MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZiI+TE9OIOKGkiBBQlY8L3RleHQ+Cjx0ZXh0IHg9IjMyIiB5PSIxMDgiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNCIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iLjkiPkxvbmRvbiB0byBBYnVqYTwvdGV4dD4KPHRleHQgeD0iMzIiIHk9IjM3MiIgZm9udC1mYW1pbHk9IkFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjZmZmIj7inIggRkxJR0hUIERFQUw8L3RleHQ+Cjwvc3ZnPg==",
       "ends_at": null
     },
     {
@@ -7787,7 +7829,7 @@
       "old_price": 580611,
       "promo_code": null,
       "link": "https://www.aviasales.com/search/LOS1211DXB1?t=AT17944659001794575700001650LOSCMNDXB_b53aaee944cc5858473f29df2f93a30f_36588&search_date=15102026&expected_price_uuid=01a13f7c-674a-8030-6917-21d5c2499e44&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=Z2HgEDFi8dr6NEj7VZPXhQ&expected_price_source=share&expected_price_currency=ngn&expected_price=580611&marker=585767",
-      "image": "",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNDAwIj4KPGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjYjg2NDFkIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZjNjMDZiIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIiBmaWxsPSJ1cmwoI2cpIi8+CjxjaXJjbGUgY3g9IjMzNSIgY3k9IjE2NSIgcj0iMzAiIGZpbGw9IiNmZmYiIG9wYWNpdHk9Ii4yNSIvPgo8cGF0aCBkPSJNNDAgMjUwIFEyMDAgMTIwIDM2MCAyMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtZGFzaGFycmF5PSIyIDEwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIG9wYWNpdHk9Ii44Ii8+CjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1MCAxNTApIHJvdGF0ZSgxNSkiIGZpbGw9IiNmZmYiPgo8cGF0aCBkPSJNLTM4IC00IEwyMiAtNCBRMzggLTQgNDIgMCBRMzggNCAyMiA0IEwtMzggNCBRLTQyIDAgLTM4IC00WiIvPgo8cGF0aCBkPSJNLTIgLTMgTC0yMCAtMzQgTC0xMCAtMzQgTDE2IC0zWiIvPjxwYXRoIGQ9Ik0tMiAzIEwtMjAgMzQgTC0xMCAzNCBMMTYgM1oiLz4KPHBhdGggZD0iTS0zNCAtMyBMLTQyIC0xNiBMLTM2IC0xNiBMLTI2IC0zWiIvPjxwYXRoIGQ9Ik0tMzQgMyBMLTQyIDE2IEwtMzYgMTYgTC0yNiAzWiIvPgo8L2c+CjxnIGZpbGw9IiMwMDAiIG9wYWNpdHk9Ii4yMiI+PHJlY3QgeD0iMCIgeT0iMzMwIiB3aWR0aD0iMjYiIGhlaWdodD0iNzAiIHJ4PSIyIi8+PHJlY3QgeD0iMzAiIHk9IjI5MCIgd2lkdGg9IjMzIiBoZWlnaHQ9IjExMCIgcng9IjIiLz48cmVjdCB4PSI2NyIgeT0iMzE1IiB3aWR0aD0iMjgiIGhlaWdodD0iODUiIHJ4PSIyIi8+PHJlY3QgeD0iOTkiIHk9IjI2MCIgd2lkdGg9IjM1IiBoZWlnaHQ9IjE0MCIgcng9IjIiLz48cmVjdCB4PSIxMzgiIHk9IjM0MCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjYwIiByeD0iMiIvPjxyZWN0IHg9IjE3MiIgeT0iMjgwIiB3aWR0aD0iMzciIGhlaWdodD0iMTIwIiByeD0iMiIvPjxyZWN0IHg9IjIxMyIgeT0iMzA1IiB3aWR0aD0iMzIiIGhlaWdodD0iOTUiIHJ4PSIyIi8+PHJlY3QgeD0iMjQ5IiB5PSIyNTAiIHdpZHRoPSIyNyIgaGVpZ2h0PSIxNTAiIHJ4PSIyIi8+PHJlY3QgeD0iMjgwIiB5PSIzMjUiIHdpZHRoPSIzNCIgaGVpZ2h0PSI3NSIgcng9IjIiLz48cmVjdCB4PSIzMTgiIHk9IjI5NSIgd2lkdGg9IjI5IiBoZWlnaHQ9IjEwNSIgcng9IjIiLz48cmVjdCB4PSIzNTEiIHk9IjMzNSIgd2lkdGg9IjM2IiBoZWlnaHQ9IjY1IiByeD0iMiIvPjxyZWN0IHg9IjM5MSIgeT0iMjc1IiB3aWR0aD0iMzEiIGhlaWdodD0iMTI1IiByeD0iMiIvPjxyZWN0IHg9IjQyNiIgeT0iMzEwIiB3aWR0aD0iMjYiIGhlaWdodD0iOTAiIHJ4PSIyIi8+PC9nPgo8dGV4dCB4PSIzMiIgeT0iNzAiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSI1MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZiI+TE9TIOKGkiBEWEI8L3RleHQ+Cjx0ZXh0IHg9IjMyIiB5PSIxMDgiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNCIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iLjkiPkxhZ29zIHRvIER1YmFpPC90ZXh0Pgo8dGV4dCB4PSIzMiIgeT0iMzcyIiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNmZmYiPuKciCBGTElHSFQgREVBTDwvdGV4dD4KPC9zdmc+",
       "ends_at": null
     },
     {
@@ -7799,7 +7841,7 @@
       "old_price": 263443,
       "promo_code": null,
       "link": "https://www.aviasales.com/search/LOS2010ACC1?t=UN17924877001792487700000060LOSACC_0075301e9016755bb7f60d44928a0cc8_16881&search_date=10102026&expected_price_uuid=01a1256a-0d94-8030-6ff9-42533d98343e&static_fare_key=TY%7CP0%7CH1%7CL1_1_30%7CCH0%7CR0%7CTBC1&itinerary_key=50dmaUGueko5IQD5OOytqQ&expected_price_source=share&expected_price_currency=ngn&expected_price=263443&marker=585767",
-      "image": "",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNDAwIj4KPGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjYTk0MTJjIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZjBhMDdhIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIiBmaWxsPSJ1cmwoI2cpIi8+CjxjaXJjbGUgY3g9IjMzNSIgY3k9IjE2NSIgcj0iMzAiIGZpbGw9IiNmZmYiIG9wYWNpdHk9Ii4yNSIvPgo8cGF0aCBkPSJNNDAgMjUwIFEyMDAgMTIwIDM2MCAyMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtZGFzaGFycmF5PSIyIDEwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIG9wYWNpdHk9Ii44Ii8+CjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1MCAxNTApIHJvdGF0ZSgxNSkiIGZpbGw9IiNmZmYiPgo8cGF0aCBkPSJNLTM4IC00IEwyMiAtNCBRMzggLTQgNDIgMCBRMzggNCAyMiA0IEwtMzggNCBRLTQyIDAgLTM4IC00WiIvPgo8cGF0aCBkPSJNLTIgLTMgTC0yMCAtMzQgTC0xMCAtMzQgTDE2IC0zWiIvPjxwYXRoIGQ9Ik0tMiAzIEwtMjAgMzQgTC0xMCAzNCBMMTYgM1oiLz4KPHBhdGggZD0iTS0zNCAtMyBMLTQyIC0xNiBMLTM2IC0xNiBMLTI2IC0zWiIvPjxwYXRoIGQ9Ik0tMzQgMyBMLTQyIDE2IEwtMzYgMTYgTC0yNiAzWiIvPgo8L2c+CjxnIGZpbGw9IiMwMDAiIG9wYWNpdHk9Ii4yMiI+PHJlY3QgeD0iMCIgeT0iMzMwIiB3aWR0aD0iMjYiIGhlaWdodD0iNzAiIHJ4PSIyIi8+PHJlY3QgeD0iMzAiIHk9IjI5MCIgd2lkdGg9IjMzIiBoZWlnaHQ9IjExMCIgcng9IjIiLz48cmVjdCB4PSI2NyIgeT0iMzE1IiB3aWR0aD0iMjgiIGhlaWdodD0iODUiIHJ4PSIyIi8+PHJlY3QgeD0iOTkiIHk9IjI2MCIgd2lkdGg9IjM1IiBoZWlnaHQ9IjE0MCIgcng9IjIiLz48cmVjdCB4PSIxMzgiIHk9IjM0MCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjYwIiByeD0iMiIvPjxyZWN0IHg9IjE3MiIgeT0iMjgwIiB3aWR0aD0iMzciIGhlaWdodD0iMTIwIiByeD0iMiIvPjxyZWN0IHg9IjIxMyIgeT0iMzA1IiB3aWR0aD0iMzIiIGhlaWdodD0iOTUiIHJ4PSIyIi8+PHJlY3QgeD0iMjQ5IiB5PSIyNTAiIHdpZHRoPSIyNyIgaGVpZ2h0PSIxNTAiIHJ4PSIyIi8+PHJlY3QgeD0iMjgwIiB5PSIzMjUiIHdpZHRoPSIzNCIgaGVpZ2h0PSI3NSIgcng9IjIiLz48cmVjdCB4PSIzMTgiIHk9IjI5NSIgd2lkdGg9IjI5IiBoZWlnaHQ9IjEwNSIgcng9IjIiLz48cmVjdCB4PSIzNTEiIHk9IjMzNSIgd2lkdGg9IjM2IiBoZWlnaHQ9IjY1IiByeD0iMiIvPjxyZWN0IHg9IjM5MSIgeT0iMjc1IiB3aWR0aD0iMzEiIGhlaWdodD0iMTI1IiByeD0iMiIvPjxyZWN0IHg9IjQyNiIgeT0iMzEwIiB3aWR0aD0iMjYiIGhlaWdodD0iOTAiIHJ4PSIyIi8+PC9nPgo8dGV4dCB4PSIzMiIgeT0iNzAiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSI1MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZiI+TE9TIOKGkiBBQ0M8L3RleHQ+Cjx0ZXh0IHg9IjMyIiB5PSIxMDgiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNCIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iLjkiPkxhZ29zIHRvIEFjY3JhPC90ZXh0Pgo8dGV4dCB4PSIzMiIgeT0iMzcyIiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNmZmYiPuKciCBGTElHSFQgREVBTDwvdGV4dD4KPC9zdmc+",
       "ends_at": null
     },
     {
@@ -7811,7 +7853,7 @@
       "old_price": 94405,
       "promo_code": null,
       "link": "https://www.aviasales.com/search/LOS2110ABV1?t=UN17925660001792570500000075LOSABV_65943b682c0e958ba06508fca8354b18_5973&search_date=14102026&expected_price_uuid=01a13a6f-6301-8031-653b-ea50e7c57dea&static_fare_key=TY%7CP0%7CH1%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=OMF3OccoLTt_JMo_23dXAQ&expected_price_source=share&expected_price_currency=ngn&expected_price=94405&marker=585767",
-      "image": "",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNDAwIj4KPGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMWQ2YjVhIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjOWZkM2I4Ii8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIiBmaWxsPSJ1cmwoI2cpIi8+CjxjaXJjbGUgY3g9IjMzNSIgY3k9IjE2NSIgcj0iMzAiIGZpbGw9IiNmZmYiIG9wYWNpdHk9Ii4yNSIvPgo8cGF0aCBkPSJNNDAgMjUwIFEyMDAgMTIwIDM2MCAyMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtZGFzaGFycmF5PSIyIDEwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIG9wYWNpdHk9Ii44Ii8+CjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1MCAxNTApIHJvdGF0ZSgxNSkiIGZpbGw9IiNmZmYiPgo8cGF0aCBkPSJNLTM4IC00IEwyMiAtNCBRMzggLTQgNDIgMCBRMzggNCAyMiA0IEwtMzggNCBRLTQyIDAgLTM4IC00WiIvPgo8cGF0aCBkPSJNLTIgLTMgTC0yMCAtMzQgTC0xMCAtMzQgTDE2IC0zWiIvPjxwYXRoIGQ9Ik0tMiAzIEwtMjAgMzQgTC0xMCAzNCBMMTYgM1oiLz4KPHBhdGggZD0iTS0zNCAtMyBMLTQyIC0xNiBMLTM2IC0xNiBMLTI2IC0zWiIvPjxwYXRoIGQ9Ik0tMzQgMyBMLTQyIDE2IEwtMzYgMTYgTC0yNiAzWiIvPgo8L2c+CjxnIGZpbGw9IiMwMDAiIG9wYWNpdHk9Ii4yMiI+PHJlY3QgeD0iMCIgeT0iMzMwIiB3aWR0aD0iMjYiIGhlaWdodD0iNzAiIHJ4PSIyIi8+PHJlY3QgeD0iMzAiIHk9IjI5MCIgd2lkdGg9IjMzIiBoZWlnaHQ9IjExMCIgcng9IjIiLz48cmVjdCB4PSI2NyIgeT0iMzE1IiB3aWR0aD0iMjgiIGhlaWdodD0iODUiIHJ4PSIyIi8+PHJlY3QgeD0iOTkiIHk9IjI2MCIgd2lkdGg9IjM1IiBoZWlnaHQ9IjE0MCIgcng9IjIiLz48cmVjdCB4PSIxMzgiIHk9IjM0MCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjYwIiByeD0iMiIvPjxyZWN0IHg9IjE3MiIgeT0iMjgwIiB3aWR0aD0iMzciIGhlaWdodD0iMTIwIiByeD0iMiIvPjxyZWN0IHg9IjIxMyIgeT0iMzA1IiB3aWR0aD0iMzIiIGhlaWdodD0iOTUiIHJ4PSIyIi8+PHJlY3QgeD0iMjQ5IiB5PSIyNTAiIHdpZHRoPSIyNyIgaGVpZ2h0PSIxNTAiIHJ4PSIyIi8+PHJlY3QgeD0iMjgwIiB5PSIzMjUiIHdpZHRoPSIzNCIgaGVpZ2h0PSI3NSIgcng9IjIiLz48cmVjdCB4PSIzMTgiIHk9IjI5NSIgd2lkdGg9IjI5IiBoZWlnaHQ9IjEwNSIgcng9IjIiLz48cmVjdCB4PSIzNTEiIHk9IjMzNSIgd2lkdGg9IjM2IiBoZWlnaHQ9IjY1IiByeD0iMiIvPjxyZWN0IHg9IjM5MSIgeT0iMjc1IiB3aWR0aD0iMzEiIGhlaWdodD0iMTI1IiByeD0iMiIvPjxyZWN0IHg9IjQyNiIgeT0iMzEwIiB3aWR0aD0iMjYiIGhlaWdodD0iOTAiIHJ4PSIyIi8+PC9nPgo8dGV4dCB4PSIzMiIgeT0iNzAiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSI1MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZiI+TE9TIOKGkiBBQlY8L3RleHQ+Cjx0ZXh0IHg9IjMyIiB5PSIxMDgiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNCIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iLjkiPkxhZ29zIHRvIEFidWphPC90ZXh0Pgo8dGV4dCB4PSIzMiIgeT0iMzcyIiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNmZmYiPuKciCBGTElHSFQgREVBTDwvdGV4dD4KPC9zdmc+",
       "ends_at": null
     },
     {
@@ -7823,7 +7865,7 @@
       "old_price": 85384,
       "promo_code": null,
       "link": "https://www.aviasales.com/search/LOS2810PHC1?t=P417931708001793175000000070LOSPHC_4889287522a69fd11fd8872314078fea_5474&search_date=12102026&expected_price_uuid=01a12eeb-d58d-8040-a9d4-2826543a6f8e&static_fare_key=TY%7CP0%7CH1%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=-7fECAeSEBpQ_GqfJsZQHw&expected_price_source=share&expected_price_currency=ngn&expected_price=85384&marker=585767",
-      "image": "",
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNDAwIj4KPGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMmQ2YzhmIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjOGNjYmUwIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIiBmaWxsPSJ1cmwoI2cpIi8+CjxjaXJjbGUgY3g9IjMzNSIgY3k9IjE2NSIgcj0iMzAiIGZpbGw9IiNmZmYiIG9wYWNpdHk9Ii4yNSIvPgo8cGF0aCBkPSJNNDAgMjUwIFEyMDAgMTIwIDM2MCAyMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtZGFzaGFycmF5PSIyIDEwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIG9wYWNpdHk9Ii44Ii8+CjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1MCAxNTApIHJvdGF0ZSgxNSkiIGZpbGw9IiNmZmYiPgo8cGF0aCBkPSJNLTM4IC00IEwyMiAtNCBRMzggLTQgNDIgMCBRMzggNCAyMiA0IEwtMzggNCBRLTQyIDAgLTM4IC00WiIvPgo8cGF0aCBkPSJNLTIgLTMgTC0yMCAtMzQgTC0xMCAtMzQgTDE2IC0zWiIvPjxwYXRoIGQ9Ik0tMiAzIEwtMjAgMzQgTC0xMCAzNCBMMTYgM1oiLz4KPHBhdGggZD0iTS0zNCAtMyBMLTQyIC0xNiBMLTM2IC0xNiBMLTI2IC0zWiIvPjxwYXRoIGQ9Ik0tMzQgMyBMLTQyIDE2IEwtMzYgMTYgTC0yNiAzWiIvPgo8L2c+CjxnIGZpbGw9IiMwMDAiIG9wYWNpdHk9Ii4yMiI+PHJlY3QgeD0iMCIgeT0iMzMwIiB3aWR0aD0iMjYiIGhlaWdodD0iNzAiIHJ4PSIyIi8+PHJlY3QgeD0iMzAiIHk9IjI5MCIgd2lkdGg9IjMzIiBoZWlnaHQ9IjExMCIgcng9IjIiLz48cmVjdCB4PSI2NyIgeT0iMzE1IiB3aWR0aD0iMjgiIGhlaWdodD0iODUiIHJ4PSIyIi8+PHJlY3QgeD0iOTkiIHk9IjI2MCIgd2lkdGg9IjM1IiBoZWlnaHQ9IjE0MCIgcng9IjIiLz48cmVjdCB4PSIxMzgiIHk9IjM0MCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjYwIiByeD0iMiIvPjxyZWN0IHg9IjE3MiIgeT0iMjgwIiB3aWR0aD0iMzciIGhlaWdodD0iMTIwIiByeD0iMiIvPjxyZWN0IHg9IjIxMyIgeT0iMzA1IiB3aWR0aD0iMzIiIGhlaWdodD0iOTUiIHJ4PSIyIi8+PHJlY3QgeD0iMjQ5IiB5PSIyNTAiIHdpZHRoPSIyNyIgaGVpZ2h0PSIxNTAiIHJ4PSIyIi8+PHJlY3QgeD0iMjgwIiB5PSIzMjUiIHdpZHRoPSIzNCIgaGVpZ2h0PSI3NSIgcng9IjIiLz48cmVjdCB4PSIzMTgiIHk9IjI5NSIgd2lkdGg9IjI5IiBoZWlnaHQ9IjEwNSIgcng9IjIiLz48cmVjdCB4PSIzNTEiIHk9IjMzNSIgd2lkdGg9IjM2IiBoZWlnaHQ9IjY1IiByeD0iMiIvPjxyZWN0IHg9IjM5MSIgeT0iMjc1IiB3aWR0aD0iMzEiIGhlaWdodD0iMTI1IiByeD0iMiIvPjxyZWN0IHg9IjQyNiIgeT0iMzEwIiB3aWR0aD0iMjYiIGhlaWdodD0iOTAiIHJ4PSIyIi8+PC9nPgo8dGV4dCB4PSIzMiIgeT0iNzAiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSI1MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZiI+TE9TIOKGkiBQSEM8L3RleHQ+Cjx0ZXh0IHg9IjMyIiB5PSIxMDgiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNCIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iLjkiPkxhZ29zIHRvIFBvcnQgSGFyY291cnQ8L3RleHQ+Cjx0ZXh0IHg9IjMyIiB5PSIzNzIiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZiI+4pyIIEZMSUdIVCBERUFMPC90ZXh0Pgo8L3N2Zz4=",
       "ends_at": null
     }
   ]
