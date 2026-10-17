@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T21:43:10+00:00",
+  "updated_at": "2026-10-17T23:07:30+00:00",
   "count": 616,
   "deals": [
     {
@@ -997,20 +997,6 @@
       "link": "https://www.jumia.com.ng/mk-ultra-66w-50000max40000mah-power-bank-66w-super-output-100-screen-led-light-8-usb-ports-battery-type-c-419135100.html"
     },
     {
-      "id": "f858382d2cf8e4ae",
-      "store": "Jumia",
-      "title": "USB Charging Two-in-one Automatic Retractable Rose Vibrator Sex toy",
-      "category": "Beauty & Health",
-      "price": 10950,
-      "old_price": 30000,
-      "discount_percent": 63,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/1976272/1.jpg?9924",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:15:05+00:00",
-      "link": "https://www.jumia.com.ng/generic-usb-charging-two-in-one-automatic-retractable-rose-vibrator-sex-toy-272679159.html"
-    },
-    {
       "id": "6d0fb186cab2affc",
       "store": "Jumia",
       "title": "Automatic Movement Watch Men's Waterproof",
@@ -1107,20 +1093,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:55+00:00",
       "link": "https://www.jumia.com.ng/touphy-2-piece-mens-cotton-t-shirt-setmens-short-sleeve-419033328.html"
-    },
-    {
-      "id": "180212803b410844",
-      "store": "Jumia",
-      "title": "USB Multi Charging Cable with 3 in 1 USB C Fast Charging Cable, Universal Multiple Charger Cord with Type-C, Micro USB, 8Pin Port",
-      "category": "Electronics",
-      "price": 3365,
-      "old_price": 9029,
-      "discount_percent": 62,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/8821622/1.jpg?8441",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:14:02+00:00",
-      "link": "https://www.jumia.com.ng/generic-usb-multi-charging-cable-with-3-in-1-usb-c-fast-charging-cable-universal-multiple-charger-cord-with-type-c-micro-usb-8pin-port-226128889.html"
     },
     {
       "id": "16d1a016b763f477",
@@ -3349,6 +3321,20 @@
       "link": "https://www.jumia.com.ng/power-pod-earbuds-ne105-earphones-wireless-bluetooth-5.4-earbuds-earphones-headset-for-android-iphone-wireless-earphone-headphones-earbuds-with-bass-418787007.html"
     },
     {
+      "id": "96b5b1e3353a6593",
+      "store": "Jumia",
+      "title": "Men Casual Quartz Watch With Stainless Steel Strap",
+      "category": "Fashion",
+      "price": 2981,
+      "old_price": 5314,
+      "discount_percent": 43,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/56/1402323/1.jpg?1827",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:14:55+00:00",
+      "link": "https://www.jumia.com.ng/fashion-men-casual-quartz-watch-with-stainless-steel-strap-323204165.html"
+    },
+    {
       "id": "9eb955387ad7f6d7",
       "store": "Jumia",
       "title": "Portable Tripod Stand For Smartphones Phone Digital Camera",
@@ -3520,7 +3506,7 @@
       "id": "bcba7c57f18b6a99",
       "store": "Jumia",
       "title": "addigoes Power Strip, extension socket with usb - 4 AC Outlets, 4 USB Ports, Type-C, Arctic White",
-      "category": "Electronics",
+      "category": "Home & Kitchen",
       "price": 6799,
       "old_price": 11693,
       "discount_percent": 41,
@@ -3783,6 +3769,20 @@
       "link": "https://www.jumia.com.ng/mi-mijd4330v-43-inch-qled-frameless-smart-tv-vidaa-os-netflix-youtube-hdmi-1-years-warranty-black-420230159.html"
     },
     {
+      "id": "04d9dbed0ef467d0",
+      "store": "Jumia",
+      "title": "C Idea 6.7 Inches Smartphone,with android10 snapdragon processor,720*1600incell dual Sim 8+64GB",
+      "category": "Phones",
+      "price": 85800,
+      "old_price": 143000,
+      "discount_percent": 40,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/6261914/1.jpg?6080",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-16T04:48:13+00:00",
+      "link": "https://www.jumia.com.ng/c-idea-6.7-inches-smartphonewith-android10-snapdragon-processor7201600incell-dual-sim-864gb-419162604.html"
+    },
+    {
       "id": "d64ff8cae9ee5558",
       "store": "Jumia",
       "title": "Geneva Couple Watches Women Casual Silicone Band Quartz Watch Jewelry Set",
@@ -3865,6 +3865,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:02+00:00",
       "link": "https://www.jumia.com.ng/djack-super-bass-3-in-1-bluetooth-home-theater-dj-d3l-401074786.html"
+    },
+    {
+      "id": "55f12d3c987581e2",
+      "store": "Jumia",
+      "title": "Dou-color  Men's 2-in-1 Short Sleeved T-shirt And Pants Set - Black",
+      "category": "Fashion",
+      "price": 8800,
+      "old_price": 14400,
+      "discount_percent": 38,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/5258382/1.jpg?8614",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-12T00:46:30+00:00",
+      "link": "https://www.jumia.com.ng/dou-color-mens-2-in-1-short-sleeved-t-shirt-and-pants-set-black-283852557.html"
     },
     {
       "id": "ec54a328b213e445",
@@ -4565,20 +4579,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:13:56+00:00",
       "link": "https://www.jumia.com.ng/lp-43-tv-wall-mount-bracket-419368236.html"
-    },
-    {
-      "id": "55f12d3c987581e2",
-      "store": "Jumia",
-      "title": "Dou-color  Men's 2-in-1 Short Sleeved T-shirt And Pants Set - Black",
-      "category": "Fashion",
-      "price": 9600,
-      "old_price": 14400,
-      "discount_percent": 33,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/5258382/1.jpg?8614",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-12T00:46:30+00:00",
-      "link": "https://www.jumia.com.ng/dou-color-mens-2-in-1-short-sleeved-t-shirt-and-pants-set-black-283852557.html"
     },
     {
       "id": "226175e1e6858e81",
@@ -5536,7 +5536,7 @@
       "id": "81010ffc58190f76",
       "store": "Jumia",
       "title": "ORIGINAL Condom Boxers For Men- 3pcs",
-      "category": "Other",
+      "category": "Fashion",
       "price": 5050,
       "old_price": 7150,
       "discount_percent": 29,
@@ -5620,7 +5620,7 @@
       "id": "6d80a5b16a985c2e",
       "store": "Jumia",
       "title": "All Black Covered Slip-on Pam Slippers - With Centre Openings",
-      "category": "Other",
+      "category": "Fashion",
       "price": 6660,
       "old_price": 9425,
       "discount_percent": 29,
@@ -8535,7 +8535,7 @@
       "old_price": 434700,
       "promo_code": null,
       "link": "https://slot.ng/products/hisense-washing-machine-front-loader-8kg",
-      "image": "",
+      "image": "https://api-prod.slot.ng/uploads/products/laRP0Q1p1vQiDPfcRHoI9dm0TXi02iBG4JMNclnj.webp",
       "ends_at": null
     },
     {
@@ -8547,7 +8547,7 @@
       "old_price": 298300,
       "promo_code": null,
       "link": "https://slot.ng/products/haier-thermocool-double-door-refrigerator-direct-cool-hrf-95bex-r6-slv",
-      "image": "",
+      "image": "https://api-prod.slot.ng/uploads/products/uU6ktUGMUCCCn1LYOgIJcG68DJ2jyaQan4fH0u6Z.jpg",
       "ends_at": null
     },
     {
@@ -8559,7 +8559,7 @@
       "old_price": 454800,
       "promo_code": null,
       "link": "https://slot.ng/products/hisense-50-inch-uhd-4k-smart-tv-50a6n",
-      "image": "",
+      "image": "https://api-prod.slot.ng/uploads/products/XZuEunz4TwQPX0iiJzoxlOndpCqtTlM6FrUPMaKT.webp",
       "ends_at": null
     },
     {
@@ -8571,7 +8571,7 @@
       "old_price": 469800,
       "promo_code": null,
       "link": "https://slot.ng/products/royal-split-15hp-inverter-ac-with-kit-qk12rsa",
-      "image": "",
+      "image": "https://api-prod.slot.ng/uploads/products/l7uqdxGlfHeXsC2Dcp2o760dfMPSMYR6KxjJpZWu.webp",
       "ends_at": null
     },
     {
@@ -8583,7 +8583,7 @@
       "old_price": 71300,
       "promo_code": null,
       "link": "https://slot.ng/products/black-decker-ts2130-b5-3-in-1-sandwich-grill-and-waffle-maker",
-      "image": "",
+      "image": "https://api-prod.slot.ng/uploads/products/w2hX1aK60XQX9BgwEkJEAqPBVNe51MDbf68MhacV.jpg",
       "ends_at": null
     },
     {
@@ -8595,7 +8595,7 @@
       "old_price": 62300,
       "promo_code": null,
       "link": "https://slot.ng/products/midea-blender-15l-with-glass-jar-mj-bl6006w",
-      "image": "",
+      "image": "https://api-prod.slot.ng/uploads/products/NQG7Ug8s0rYwV0P9g2CGUcGBnQpi2vWgEwGwRMk3.jpg",
       "ends_at": null
     }
   ]
