@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T22:32:14+00:00",
+  "updated_at": "2026-10-17T01:01:29+00:00",
   "count": 555,
   "deals": [
     {
@@ -185,6 +185,20 @@
       "link": "https://www.jumia.com.ng/generic-bluetooth-selfie-stick-tripod-fill-light-shutter-remote-106334121.html"
     },
     {
+      "id": "af5523013be635d5",
+      "store": "Jumia",
+      "title": "Rose Tongue Licking Vibrator Nipples Dildo Sex Toy",
+      "category": "Beauty & Health",
+      "price": 6700,
+      "old_price": 30000,
+      "discount_percent": 77,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/4086272/1.jpg?0413",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-12T08:41:20+00:00",
+      "link": "https://www.jumia.com.ng/generic-rose-tongue-licking-vibrator-nipples-dildo-sex-toy-272680404.html"
+    },
+    {
       "id": "9f72518b1668f3a4",
       "store": "Jumia",
       "title": "MK ® Top 40000mAh Power Bank+ 78W Super Output+ 100% Screen+ LED Light+ 8 USB Ports Battery Type-C.",
@@ -325,34 +339,6 @@
       "link": "https://www.jumia.com.ng/zealot-s32-bluetooth-speaker-portable-3d-stereo-soundwoofer-257573490.html"
     },
     {
-      "id": "2b0ac7d49dde9368",
-      "store": "Jumia",
-      "title": "TYNIX G01 Wireless Neckband Bluetooth Earphones, Bluetooth 5.3, Hi-Fi Stereo Sound, Long Battery Life, Magnetic Earbuds, Built-in Microphone for Home, Office, Travel & Sports",
-      "category": "Phones",
-      "price": 2046,
-      "old_price": 7200,
-      "discount_percent": 71,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/71/4670493/1.jpg?3814",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:48+00:00",
-      "link": "https://www.jumia.com.ng/tynix-g01-wireless-neckband-bluetooth-earphones-bluetooth-5.3-hi-fi-stereo-sound-long-battery-life-magnetic-earbuds-built-in-microphone-for-home-office-travel-sports-394076417.html"
-    },
-    {
-      "id": "e70b2d40c1f33308",
-      "store": "Jumia",
-      "title": "4pcs Men Underwear Boxer Panties Comfortable Soft",
-      "category": "Fashion",
-      "price": 5760,
-      "old_price": 20002,
-      "discount_percent": 71,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/8587491/1.jpg?3987",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-13T20:50:04+00:00",
-      "link": "https://www.jumia.com.ng/fashion-4pcs-men-underwear-boxer-panties-comfortable-soft-194785857.html"
-    },
-    {
       "id": "8f3dabaac78bd8e1",
       "store": "Jumia",
       "title": "Luxury Women's Gold Watch and Jewelry Set for Ladies - 6-Piece  Fashion Bling Rhinestone Quartz Wrist Watch with Matching Bracelet, Necklace, Ring, and Earrings, Elegant Gift for Her",
@@ -463,6 +449,20 @@
       "ends_at": null,
       "first_seen": "2026-10-15T20:47:11+00:00",
       "link": "https://www.jumia.com.ng/pc20000-ultra-slim-20000mah-power-bank-4-in-1-built-cables-dual-usb-led-digital-display-henin-mpg12066370.html"
+    },
+    {
+      "id": "2b0ac7d49dde9368",
+      "store": "Jumia",
+      "title": "TYNIX G01 Wireless Neckband Bluetooth Earphones, Bluetooth 5.3, Hi-Fi Stereo Sound, Long Battery Life, Magnetic Earbuds, Built-in Microphone for Home, Office, Travel & Sports",
+      "category": "Phones",
+      "price": 2200,
+      "old_price": 7200,
+      "discount_percent": 69,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/71/4670493/1.jpg?3814",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:48+00:00",
+      "link": "https://www.jumia.com.ng/tynix-g01-wireless-neckband-bluetooth-earphones-bluetooth-5.3-hi-fi-stereo-sound-long-battery-life-magnetic-earbuds-built-in-microphone-for-home-office-travel-sports-394076417.html"
     },
     {
       "id": "6e749fd8848c4416",
@@ -799,20 +799,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:13:56+00:00",
       "link": "https://www.jumia.com.ng/generic-head-mounted-camera-holder-with-adjustable-nylon-strap-for-most-head-sizeswith-remote-mobile-phone-pov-mount-for-cycling-fishing-motorcycling-and-other-outdoor-sports-419322956.html"
-    },
-    {
-      "id": "d29eef98539ab32c",
-      "store": "Jumia",
-      "title": "FUXING FASHION women shoes ladies shoes sneakers women",
-      "category": "Fashion",
-      "price": 5040,
-      "old_price": 14400,
-      "discount_percent": 65,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/22/3843904/1.jpg?5546",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-12T00:46:17+00:00",
-      "link": "https://www.jumia.com.ng/fuxing-fashion-women-shoes-ladies-shoes-sneakers-women-409348322.html"
     },
     {
       "id": "3bc8ca848e0f9b56",
@@ -3503,6 +3489,20 @@
       "link": "https://www.jumia.com.ng/djack-super-bass-3-in-1-bluetooth-home-theater-dj-d3l-401074786.html"
     },
     {
+      "id": "55f12d3c987581e2",
+      "store": "Jumia",
+      "title": "Dou-color  Men's 2-in-1 Short Sleeved T-shirt And Pants Set - Black",
+      "category": "Fashion",
+      "price": 8800,
+      "old_price": 14400,
+      "discount_percent": 38,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/5258382/1.jpg?8614",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-12T00:46:30+00:00",
+      "link": "https://www.jumia.com.ng/dou-color-mens-2-in-1-short-sleeved-t-shirt-and-pants-set-black-283852557.html"
+    },
+    {
       "id": "ec54a328b213e445",
       "store": "Jumia",
       "title": "Curren Exotic Leather Strap Military Sports Men Watch-Coffee Brown",
@@ -3599,20 +3599,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:51+00:00",
       "link": "https://www.jumia.com.ng/fashion-2-in-1-photochromic-color-changing-anti-blue-light-photochromic-glass-all-day-computer-reading-glasses-with-uv400-anti-glare-protection-388971580.html"
-    },
-    {
-      "id": "55f12d3c987581e2",
-      "store": "Jumia",
-      "title": "Dou-color  Men's 2-in-1 Short Sleeved T-shirt And Pants Set - Black",
-      "category": "Fashion",
-      "price": 8928,
-      "old_price": 14400,
-      "discount_percent": 38,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/5258382/1.jpg?8614",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-12T00:46:30+00:00",
-      "link": "https://www.jumia.com.ng/dou-color-mens-2-in-1-short-sleeved-t-shirt-and-pants-set-black-283852557.html"
     },
     {
       "id": "926368c0a93062f1",
@@ -7127,6 +7113,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:13:56+00:00",
       "link": "https://www.jumia.com.ng/generic-dvddecoder-wall-shelf-cabinet-suspended-wall-decor-shelf-403795465.html"
+    },
+    {
+      "id": "302eadd9c36ac08d",
+      "store": "Jumia",
+      "title": "Sunelan S15 1.8\" QQVGA Screen, Dual SIM, Game, Camera BL 5C_Battery, 1000MAH -Black",
+      "category": "Phones",
+      "price": 6317,
+      "old_price": 7500,
+      "discount_percent": 15,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/11/3174914/1.jpg?3213",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:48+00:00",
+      "link": "https://www.jumia.com.ng/sunelan-s15-1.8-qqvga-screen-dual-sim-game-camera-bl-5cbattery-1000mah-black-419471311.html"
     },
     {
       "id": "5d26888396a00dcc",
