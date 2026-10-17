@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T19:13:22+00:00",
-  "count": 594,
+  "updated_at": "2026-10-17T20:45:55+00:00",
+  "count": 616,
   "deals": [
     {
       "id": "49d2a5ee9d5fe894",
@@ -15,6 +15,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:13:46+00:00",
       "link": "https://www.jumia.com.ng/supdevice-authentic-20000mah-high-capacity-portable-charger-3-output-usb1usb2type-c-quick-charge-3.0-5v9v12v-universal-battery-bank-for-android-ios-hty-121315black-420008877.html"
+    },
+    {
+      "id": "2dea13b714590414",
+      "store": "Jumia",
+      "title": "TOUPHY Blood Pressure Monitor Digital Blood Pressure Monitor for Home Use Digital BP Machine – Gift With Finger Pulse Function",
+      "category": "Beauty & Health",
+      "price": 4320,
+      "old_price": 28800,
+      "discount_percent": 85,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/07/2316814/1.jpg?5149",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:15:05+00:00",
+      "link": "https://www.jumia.com.ng/blood-pressure-monitor-digital-blood-pressure-monitor-for-home-use-digital-bp-machine-gift-with-finger-pulse-function-touphy-mpg12060082.html"
     },
     {
       "id": "2999da3b39ad66be",
@@ -311,6 +325,20 @@
       "link": "https://www.jumia.com.ng/naot-naot-plush-love-handbag-shoulder-bag-crossbody-bag-wallet-white-405115554.html"
     },
     {
+      "id": "cc6382b08dea59c8",
+      "store": "Jumia",
+      "title": "QCWOLVES 20W Rechargeable LED Light Bulb, Super Bright Touch Light, Energy Saving Camping Light, LED Rechargeable Camping Lantern, Outdoor Tent Lamp with Hanging Hook, Dimmable 3 Modes, Portable Light Bulb for Emergency, Indoor, Outdoor",
+      "category": "Home & Kitchen",
+      "price": 2879,
+      "old_price": 10498,
+      "discount_percent": 72,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/38/0059914/1.jpg?0646",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-17T20:45:16+00:00",
+      "link": "https://www.jumia.com.ng/qcwolves-20w-rechargeable-led-light-bulb-super-bright-touch-light-energy-saving-camping-light-led-rechargeable-camping-lantern-outdoor-tent-lamp-with-hanging-hook-dimmable-3-modes-portable-light-bulb-for-emergency-indoor-outdoor-419950083.html"
+    },
+    {
       "id": "6721f05b6536892c",
       "store": "Jumia",
       "title": "TOUPHY LCD Display Monitor Measurement Machine (Arm Band Type) – Gift With Finger Pulse Function",
@@ -421,6 +449,20 @@
       "ends_at": null,
       "first_seen": "2026-10-13T12:45:26+00:00",
       "link": "https://www.jumia.com.ng/generic-wireless-headphones-not-in-ear-concept-business-hanging-ear-single-ear-sports-music-running-takeout-driving-419573034.html"
+    },
+    {
+      "id": "c3d2f93bc57ce3ec",
+      "store": "Jumia",
+      "title": "HENIN  PC20000 Ultra Slim 20000mAh Power Bank 4-In-1 Built Cables Dual USB LED Digital Display",
+      "category": "Phones",
+      "price": 8792,
+      "old_price": 28800,
+      "discount_percent": 69,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/23/3377914/1.jpg?7483",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-15T20:47:11+00:00",
+      "link": "https://www.jumia.com.ng/pc20000-ultra-slim-20000mah-power-bank-4-in-1-built-cables-dual-usb-led-digital-display-henin-mpg12066370.html"
     },
     {
       "id": "2b0ac7d49dde9368",
@@ -535,6 +577,20 @@
       "link": "https://www.jumia.com.ng/2nlf-2nlfr-8mp-double-screen-full-hd-security-camera-with-alarm-407453943.html"
     },
     {
+      "id": "26d12bfbd25defc1",
+      "store": "Jumia",
+      "title": "OSMILE SL288 A4 Laminating Machine 9 Inch Thermal Laminator Machine-EU Plug",
+      "category": "Electronics",
+      "price": 27000,
+      "old_price": 86400,
+      "discount_percent": 68,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/42/7153914/1.jpg?6025",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-17T20:45:01+00:00",
+      "link": "https://www.jumia.com.ng/osmile-sl288-a4-laminating-machine-9-inch-thermal-laminator-machine-eu-plug-419351724.html"
+    },
+    {
       "id": "c274aec39df3e6d1",
       "store": "Jumia",
       "title": "USB Rose Vibrator Vagina Clitoris Sucker sex toys",
@@ -605,20 +661,6 @@
       "link": "https://www.jumia.com.ng/henin-pf20000-ultra-slim-20000mah-power-bank-4-built-cables-dual-usb-led-digital-display-black-420178574.html"
     },
     {
-      "id": "c3d2f93bc57ce3ec",
-      "store": "Jumia",
-      "title": "HENIN  PC20000 Ultra Slim 20000mAh Power Bank 4-In-1 Built Cables Dual USB LED Digital Display",
-      "category": "Electronics",
-      "price": 9454,
-      "old_price": 28800,
-      "discount_percent": 67,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/58/6432024/1.jpg?7690",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-15T20:47:11+00:00",
-      "link": "https://www.jumia.com.ng/pc20000-ultra-slim-20000mah-power-bank-4-in-1-built-cables-dual-usb-led-digital-display-henin-mpg12066370.html"
-    },
-    {
       "id": "120eb6ef7bb4b0c5",
       "store": "Jumia",
       "title": "TOUPHY Men's Sweatshirt Casual Long Sleeve T-Shirt -White",
@@ -631,6 +673,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:55+00:00",
       "link": "https://www.jumia.com.ng/touphy-mens-sweatshirt-casual-long-sleeve-t-shirt-white-419145783.html"
+    },
+    {
+      "id": "fb806ff62255fe1c",
+      "store": "Jumia",
+      "title": "P9 Wireless Bluetooth Headset Noise Reduction Earphone Black",
+      "category": "Phones",
+      "price": 3840,
+      "old_price": 11621,
+      "discount_percent": 66,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/8159203/1.jpg?3815",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:48+00:00",
+      "link": "https://www.jumia.com.ng/generic-p9-wireless-bluetooth-headset-noise-reduction-earphone-black-302951808.html"
     },
     {
       "id": "05d0e1b8cbac50db",
@@ -2509,6 +2565,20 @@
       "link": "https://www.jumia.com.ng/ashion-big-size-39-46-men-retro-pattern-lowtop-skate-shoes-laceup-breathable-canvas-upper-wearresistant-daily-casual-sneakers-365780346.html"
     },
     {
+      "id": "cfaf02dd783f7ede",
+      "store": "Jumia",
+      "title": "ASHION Big Size 39-48 Men's Leather Low‑Top Casual Skate Sneakers, Lace‑Up Non‑Slip White Rubber Sole Lightweight Daily Walking Board Shoes",
+      "category": "Fashion",
+      "price": 12960,
+      "old_price": 25920,
+      "discount_percent": 50,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/30/3582314/1.jpg?3125",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-17T20:45:37+00:00",
+      "link": "https://www.jumia.com.ng/ashion-big-size-39-48-mens-leather-lowtop-casual-skate-sneakers-laceup-nonslip-white-rubber-sole-lightweight-daily-walking-board-shoes-413285303.html"
+    },
+    {
       "id": "44c1a0ee42a62985",
       "store": "Jumia",
       "title": "Mi+ (MIJ-D4320A) 43'' Inches Smart Digital Satellite Frameless (Built-in digital tuner, No Decoder Needed) FHD LED TV - HDMI - Black + 12 MONTHS WARRANTY",
@@ -3797,20 +3867,6 @@
       "link": "https://www.jumia.com.ng/djack-super-bass-3-in-1-bluetooth-home-theater-dj-d3l-401074786.html"
     },
     {
-      "id": "55f12d3c987581e2",
-      "store": "Jumia",
-      "title": "Dou-color  Men's 2-in-1 Short Sleeved T-shirt And Pants Set - Black",
-      "category": "Fashion",
-      "price": 8800,
-      "old_price": 14400,
-      "discount_percent": 38,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/5258382/1.jpg?8614",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-12T00:46:30+00:00",
-      "link": "https://www.jumia.com.ng/dou-color-mens-2-in-1-short-sleeved-t-shirt-and-pants-set-black-283852557.html"
-    },
-    {
       "id": "ec54a328b213e445",
       "store": "Jumia",
       "title": "Curren Exotic Leather Strap Military Sports Men Watch-Coffee Brown",
@@ -4511,6 +4567,20 @@
       "link": "https://www.jumia.com.ng/lp-43-tv-wall-mount-bracket-419368236.html"
     },
     {
+      "id": "55f12d3c987581e2",
+      "store": "Jumia",
+      "title": "Dou-color  Men's 2-in-1 Short Sleeved T-shirt And Pants Set - Black",
+      "category": "Fashion",
+      "price": 9600,
+      "old_price": 14400,
+      "discount_percent": 33,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/5258382/1.jpg?8614",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-12T00:46:30+00:00",
+      "link": "https://www.jumia.com.ng/dou-color-mens-2-in-1-short-sleeved-t-shirt-and-pants-set-black-283852557.html"
+    },
+    {
       "id": "226175e1e6858e81",
       "store": "Jumia",
       "title": "itel Energy Power Tank 500W Inverter + 1kWh LiFePO4 Battery All-in-One Solar Power Station",
@@ -5127,6 +5197,20 @@
       "link": "https://www.jumia.com.ng/nexus-210-litres-chest-freezer-nx-265-hce-silver-292341396.html"
     },
     {
+      "id": "5a694e808d007e47",
+      "store": "Jumia",
+      "title": "Royal Circle Whisky 1L x1",
+      "category": "Groceries",
+      "price": 7184,
+      "old_price": 10290,
+      "discount_percent": 30,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/24/1002362/1.jpg?6520",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-12T00:46:13+00:00",
+      "link": "https://www.jumia.com.ng/royal-circle-whisky-1l-x1-263200142.html"
+    },
+    {
       "id": "a59869f7f5cb6ce2",
       "store": "Jumia",
       "title": "Zealot S67 Portable 60W Wireless Bluetooth Speaker",
@@ -5617,6 +5701,20 @@
       "link": "https://www.jumia.com.ng/fashion-elegant-ladies-latest-flat-slippers-133134354.html"
     },
     {
+      "id": "8ce4f6a76a972d38",
+      "store": "Jumia",
+      "title": "Mens/Guys Quality Black Leather Pam Slippers - Black Palm",
+      "category": "Other",
+      "price": 6660,
+      "old_price": 9425,
+      "discount_percent": 29,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/27/5976253/1.jpg?8648",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-17T20:44:42+00:00",
+      "link": "https://www.jumia.com.ng/fashion-mensguys-quality-black-leather-pam-slippers-black-palm-352679572.html"
+    },
+    {
       "id": "1232a1c20288858e",
       "store": "Jumia",
       "title": "Singleton Multicoloured 3-in-1 Men's Singlets",
@@ -5713,6 +5811,20 @@
       "ends_at": null,
       "first_seen": "2026-10-13T20:49:33+00:00",
       "link": "https://www.jumia.com.ng/zealot-s67-portable-high-power-bluetooth-boombox-speaker-75w-419662137.html"
+    },
+    {
+      "id": "db48693989ca481b",
+      "store": "Jumia",
+      "title": "2000VA / 2KVA Dual Digital Display Automatic Voltage Regulator (AVR) - Red, 220V, Automatic Overheat Protection, Suitable for Home and Office Appliances",
+      "category": "Electronics",
+      "price": 41067,
+      "old_price": 57600,
+      "discount_percent": 28,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/69/4652914/1.jpg?8109",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-16T20:52:53+00:00",
+      "link": "https://www.jumia.com.ng/generic-2000va-2kva-dual-digital-display-automatic-voltage-regulator-avr-red-220v-automatic-overheat-protection-suitable-for-home-and-office-appliances-419256496.html"
     },
     {
       "id": "e7d56c14c936e4b4",
@@ -5839,20 +5951,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:55+00:00",
       "link": "https://www.jumia.com.ng/dou-color-mens-casual-plaid-shirt-black-271164302.html"
-    },
-    {
-      "id": "db48693989ca481b",
-      "store": "Jumia",
-      "title": "2000VA / 2KVA Dual Digital Display Automatic Voltage Regulator (AVR) - Red, 220V, Automatic Overheat Protection, Suitable for Home and Office Appliances",
-      "category": "Electronics",
-      "price": 41459,
-      "old_price": 57600,
-      "discount_percent": 28,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/69/4652914/1.jpg?8109",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-16T20:52:53+00:00",
-      "link": "https://www.jumia.com.ng/generic-2000va-2kva-dual-digital-display-automatic-voltage-regulator-avr-red-220v-automatic-overheat-protection-suitable-for-home-and-office-appliances-419256496.html"
     },
     {
       "id": "ae7c7281c48be8c2",
@@ -8193,6 +8291,20 @@
       "link": "https://www.jumia.com.ng/samsung-galaxy-a06-6.7-4gb-ram-128gb-rom-android-14-black-384423199.html"
     },
     {
+      "id": "13c381a99d61b46e",
+      "store": "Jumia",
+      "title": "Havit GAMENOTE MA004 Gas Spring Monitor Arm, Ergonomic Desk Mount, 17-32\" Compatible, VESA 75/100mm, 360° Rotation & Tilt, Cable Management, For PC & Office Setups",
+      "category": "Electronics",
+      "price": 40000,
+      "old_price": 45000,
+      "discount_percent": 11,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/4334024/1.jpg?9168",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-17T20:44:35+00:00",
+      "link": "https://www.jumia.com.ng/havit-gamenote-ma004-gas-spring-monitor-arm-ergonomic-desk-mount-17-32-compatible-vesa-75100mm-360-rotation-tilt-cable-management-for-pc-office-setups-420433452.html"
+    },
+    {
       "id": "a39d3d05d37c17b6",
       "store": "Jumia",
       "title": "XIAOMI Redmi 15C 6.9'' 4GB RAM/128GB ROM Android 15 - Midnight Black",
@@ -8412,6 +8524,78 @@
       "promo_code": null,
       "link": "https://www.aviasales.com/search/LOS0111PHC1?t=P417935413001793545500000070LOSPHC_819c514935f274ae89d6624b18213b9f_5227&search_date=17102026&expected_price_uuid=01a14b20-9dfa-8040-2ed6-3ad919574970&static_fare_key=TY%7CP0%7CH1%7CL1_1_20%7CCH0%7CR0%7CTBC1&itinerary_key=CA2d9UiJ_uI9p9mZ9oLaYg&expected_price_source=share&expected_price_currency=ngn&expected_price=84208&marker=585767",
       "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNDAwIj4KPGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMmQ2YzhmIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjOGNjYmUwIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+CjxyZWN0IHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIiBmaWxsPSJ1cmwoI2cpIi8+CjxjaXJjbGUgY3g9IjMzNSIgY3k9IjE2NSIgcj0iMzAiIGZpbGw9IiNmZmYiIG9wYWNpdHk9Ii4yNSIvPgo8cGF0aCBkPSJNNDAgMjUwIFEyMDAgMTIwIDM2MCAyMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtZGFzaGFycmF5PSIyIDEwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIG9wYWNpdHk9Ii44Ii8+CjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDI1MCAxNTApIHJvdGF0ZSgxNSkiIGZpbGw9IiNmZmYiPgo8cGF0aCBkPSJNLTM4IC00IEwyMiAtNCBRMzggLTQgNDIgMCBRMzggNCAyMiA0IEwtMzggNCBRLTQyIDAgLTM4IC00WiIvPgo8cGF0aCBkPSJNLTIgLTMgTC0yMCAtMzQgTC0xMCAtMzQgTDE2IC0zWiIvPjxwYXRoIGQ9Ik0tMiAzIEwtMjAgMzQgTC0xMCAzNCBMMTYgM1oiLz4KPHBhdGggZD0iTS0zNCAtMyBMLTQyIC0xNiBMLTM2IC0xNiBMLTI2IC0zWiIvPjxwYXRoIGQ9Ik0tMzQgMyBMLTQyIDE2IEwtMzYgMTYgTC0yNiAzWiIvPgo8L2c+CjxnIGZpbGw9IiMwMDAiIG9wYWNpdHk9Ii4yMiI+PHJlY3QgeD0iMCIgeT0iMzMwIiB3aWR0aD0iMjYiIGhlaWdodD0iNzAiIHJ4PSIyIi8+PHJlY3QgeD0iMzAiIHk9IjI5MCIgd2lkdGg9IjMzIiBoZWlnaHQ9IjExMCIgcng9IjIiLz48cmVjdCB4PSI2NyIgeT0iMzE1IiB3aWR0aD0iMjgiIGhlaWdodD0iODUiIHJ4PSIyIi8+PHJlY3QgeD0iOTkiIHk9IjI2MCIgd2lkdGg9IjM1IiBoZWlnaHQ9IjE0MCIgcng9IjIiLz48cmVjdCB4PSIxMzgiIHk9IjM0MCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjYwIiByeD0iMiIvPjxyZWN0IHg9IjE3MiIgeT0iMjgwIiB3aWR0aD0iMzciIGhlaWdodD0iMTIwIiByeD0iMiIvPjxyZWN0IHg9IjIxMyIgeT0iMzA1IiB3aWR0aD0iMzIiIGhlaWdodD0iOTUiIHJ4PSIyIi8+PHJlY3QgeD0iMjQ5IiB5PSIyNTAiIHdpZHRoPSIyNyIgaGVpZ2h0PSIxNTAiIHJ4PSIyIi8+PHJlY3QgeD0iMjgwIiB5PSIzMjUiIHdpZHRoPSIzNCIgaGVpZ2h0PSI3NSIgcng9IjIiLz48cmVjdCB4PSIzMTgiIHk9IjI5NSIgd2lkdGg9IjI5IiBoZWlnaHQ9IjEwNSIgcng9IjIiLz48cmVjdCB4PSIzNTEiIHk9IjMzNSIgd2lkdGg9IjM2IiBoZWlnaHQ9IjY1IiByeD0iMiIvPjxyZWN0IHg9IjM5MSIgeT0iMjc1IiB3aWR0aD0iMzEiIGhlaWdodD0iMTI1IiByeD0iMiIvPjxyZWN0IHg9IjQyNiIgeT0iMzEwIiB3aWR0aD0iMjYiIGhlaWdodD0iOTAiIHJ4PSIyIi8+PC9nPgo8dGV4dCB4PSIzMiIgeT0iNzAiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSI1MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZiI+TE9TIOKGkiBQSEM8L3RleHQ+Cjx0ZXh0IHg9IjMyIiB5PSIxMDgiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNCIgZmlsbD0iI2ZmZiIgb3BhY2l0eT0iLjkiPkxhZ29zIHRvIFBvcnQgSGFyY291cnQ8L3RleHQ+Cjx0ZXh0IHg9IjMyIiB5PSIzNzIiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZiI+4pyIIEZMSUdIVCBERUFMPC90ZXh0Pgo8L3N2Zz4=",
+      "ends_at": null
+    },
+    {
+      "id": "slot-hisense-washing-machine-front-loader-8kg",
+      "title": "HISENSE WASHING MACHINE FRONT LOADER 8KG WM 8014T-WFQP",
+      "category": "Home & Kitchen",
+      "store": "Slot",
+      "price": 379000,
+      "old_price": 434700,
+      "promo_code": null,
+      "link": "https://slot.ng/products/hisense-washing-machine-front-loader-8kg",
+      "image": "",
+      "ends_at": null
+    },
+    {
+      "id": "slot-haier-thermocool-double-door-refrigerator-direct-cool-hrf-95bex-r6-slv",
+      "title": "HAIER THERMOCOOL DOUBLE DOOR REFRIGERATOR DIRECT COOL HRF 95BEX R6 SLV",
+      "category": "Home & Kitchen",
+      "store": "Slot",
+      "price": 269300,
+      "old_price": 298300,
+      "promo_code": null,
+      "link": "https://slot.ng/products/haier-thermocool-double-door-refrigerator-direct-cool-hrf-95bex-r6-slv",
+      "image": "",
+      "ends_at": null
+    },
+    {
+      "id": "slot-hisense-50-inch-uhd-4k-smart-tv-50a6n",
+      "title": "HISENSE 50 INCH UHD 4K SMART TV 50A6N",
+      "category": "Home & Kitchen",
+      "store": "Slot",
+      "price": 410800,
+      "old_price": 454800,
+      "promo_code": null,
+      "link": "https://slot.ng/products/hisense-50-inch-uhd-4k-smart-tv-50a6n",
+      "image": "",
+      "ends_at": null
+    },
+    {
+      "id": "slot-royal-split-15hp-inverter-ac-with-kit-qk12rsa",
+      "title": "ROYAL SPLIT 1.5HP INVERTER AC WITH KIT (QK12RSA)",
+      "category": "Home & Kitchen",
+      "store": "Slot",
+      "price": 429800,
+      "old_price": 469800,
+      "promo_code": null,
+      "link": "https://slot.ng/products/royal-split-15hp-inverter-ac-with-kit-qk12rsa",
+      "image": "",
+      "ends_at": null
+    },
+    {
+      "id": "slot-black-decker-ts2130-b5-3-in-1-sandwich-grill-and-waffle-maker",
+      "title": "BLACK & DECKER TS2130-B5 3 in 1 Sandwich Grill and Waffle Maker",
+      "category": "Home & Kitchen",
+      "store": "Slot",
+      "price": 61300,
+      "old_price": 71300,
+      "promo_code": null,
+      "link": "https://slot.ng/products/black-decker-ts2130-b5-3-in-1-sandwich-grill-and-waffle-maker",
+      "image": "",
+      "ends_at": null
+    },
+    {
+      "id": "slot-midea-blender-15l-with-glass-jar-mj-bl6006w",
+      "title": "MIDEA BLENDER 1.5L WITH GLASS JAR MJ-BL6006W",
+      "category": "Home & Kitchen",
+      "store": "Slot",
+      "price": 52300,
+      "old_price": 62300,
+      "promo_code": null,
+      "link": "https://slot.ng/products/midea-blender-15l-with-glass-jar-mj-bl6006w",
+      "image": "",
       "ends_at": null
     }
   ]
