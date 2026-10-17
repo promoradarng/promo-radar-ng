@@ -25,7 +25,7 @@ def walk(o, out):
         p = [num(o[k]) for k in PK if k in o and not isinstance(o[k], (dict, list))]
         p = [x for x in p if x > 100]
         n = o.get("name") or o.get("title")
-        if isinstance(n, str) and o.get("slug") and len(set(p)) > 1:
+        if isinstance(n, str) and o.get("slug") and "shop all" not in n.lower() and len(set(p)) > 1:
             out.append((n, min(p), max(p), str(o["slug"]), img(o)))
         for v in o.values(): walk(v, out)
     elif isinstance(o, list):
