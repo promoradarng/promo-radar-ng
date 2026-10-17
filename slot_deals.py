@@ -16,7 +16,7 @@ def num(v):
 def img(d, depth=0):
     for v in (d.values() if isinstance(d, dict) else d):
         if isinstance(v, str) and re.search(r"\.(webp|jpe?g|png)(\?|$)", v, re.I):
-            return v if v.startswith("http") else "https://api-prod.slot.ng/" + v.lstrip("/")
+            return v if v.startswith("http") else "https://api-prod.slot.ng/storage/" + v.lstrip("/").removeprefix("storage/")
         if isinstance(v, (dict, list)) and depth < 2:
             f = img(v, depth + 1)
             if f: return f
