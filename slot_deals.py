@@ -13,12 +13,14 @@ def num(v):
     try: return float(re.sub(r"[^\d.]", "", str(v)) or 0)
     except ValueError: return 0
 
-def img(d):
-    v = d.get("image") or d.get("thumbnail") or d.get("images") or ""
-    if isinstance(v, list): v = v[0] if v else ""
-    if isinstance(v, dict): v = v.get("url") or v.get("path") or ""
-    v = str(v)
-    return v if v.startswith("http") or not v else "https://api-prod.slot.ng/" + v.lstrip("/")
+def img(d, depth=0):
+    for v in (d.values() if isinstance(d, dict) else d):
+        if isinstance(v, str) and re.search(r"\.(webp|jpe?g|png)(\?|$)", v, re.I):
+            return v if v.startswith("http") else "https://api-prod.slot.ng/" + v.lstrip("/")
+        if isinstance(v, (dict, list)) and depth < 2:
+            f = img(v, depth + 1)
+            if f: return f
+    return ""
 
 def walk(o, out):
     if isinstance(o, dict):
@@ -69,8 +71,7 @@ def scrape():
             items = []
             for d in data: walk(d, items)
             if not items: items = cards(cs)
-            n = 0; [log(f"  sample: {x[0][:40]} now={x[1]:.0f} was={x[2]:.0f}") for x in items[:3]]
-
+            n = 0
             for name, now, was, s, im in items:
                 off = (was - now) * 100 / was
                 if 5 <= off <= 70 and "slot-" + s not in found and n < 40:
