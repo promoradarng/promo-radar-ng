@@ -29,6 +29,15 @@ jobs:
         env:
           TRAVELPAYOUTS_TOKEN: ${{ secrets.TRAVELPAYOUTS_TOKEN }}
           TRAVELPAYOUTS_MARKER: ${{ secrets.TRAVELPAYOUTS_MARKER }}
+      - name: Set up browser for Slot
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+        continue-on-error: true
+      - name: Add Slot deals
+        run: python slot_deals.py
+        continue-on-error: true
+        timeout-minutes: 8
       - name: Save results
         run: |
           git config user.name "promo-radar-bot"
