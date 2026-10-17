@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T04:49:58+00:00",
-  "count": 544,
+  "updated_at": "2026-10-17T08:49:10+00:00",
+  "count": 546,
   "deals": [
     {
       "id": "bd0f5f06ff89247c",
@@ -521,20 +521,6 @@
       "link": "https://www.jumia.com.ng/generic-universal-power-adapter-converter-travel-socket-charger-plug-100970329.html"
     },
     {
-      "id": "16d1a016b763f477",
-      "store": "Jumia",
-      "title": "Wireless Bluetooth RGB Headphones Over Ear – Gaming Headset with LED Lights, Deep Bass Stereo Headphones with Mic for Phone, Laptop, PC",
-      "category": "Electronics",
-      "price": 8064,
-      "old_price": 25920,
-      "discount_percent": 68,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/9101914/1.jpg?2186",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:56+00:00",
-      "link": "https://www.jumia.com.ng/generic-wireless-bluetooth-rgb-headphones-over-ear-gaming-headset-with-led-lights-deep-bass-stereo-headphones-with-mic-for-phone-laptop-pc-419101957.html"
-    },
-    {
       "id": "fdf9cc13860c6b80",
       "store": "Jumia",
       "title": "P47 5.0 Super Wireless Bluetooth Stereo Foldable Headphone-black",
@@ -981,6 +967,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:02+00:00",
       "link": "https://www.jumia.com.ng/generic-usb-multi-charging-cable-with-3-in-1-usb-c-fast-charging-cable-universal-multiple-charger-cord-with-type-c-micro-usb-8pin-port-226128889.html"
+    },
+    {
+      "id": "16d1a016b763f477",
+      "store": "Jumia",
+      "title": "Wireless Bluetooth RGB Headphones Over Ear – Gaming Headset with LED Lights, Deep Bass Stereo Headphones with Mic for Phone, Laptop, PC",
+      "category": "Electronics",
+      "price": 9672,
+      "old_price": 25920,
+      "discount_percent": 62,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/9101914/1.jpg?2186",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:56+00:00",
+      "link": "https://www.jumia.com.ng/generic-wireless-bluetooth-rgb-headphones-over-ear-gaming-headset-with-led-lights-deep-bass-stereo-headphones-with-mic-for-phone-laptop-pc-419101957.html"
     },
     {
       "id": "93087aa758bee9a5",
@@ -1907,6 +1907,20 @@
       "link": "https://www.jumia.com.ng/fashion-2-in1-watch-fashion-rhinestone-wrist-watch-for-ladies-bracelet-273803879.html"
     },
     {
+      "id": "8d19f54c02267655",
+      "store": "Jumia",
+      "title": "LP LP Smart TV 32 , Android 14.0 , 1+8G, Frameless , HD, WiFi, 2 HDMI 2 USB Ports + 1 year warranty - Black",
+      "category": "Electronics",
+      "price": 109000,
+      "old_price": 230400,
+      "discount_percent": 52,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/55/1729814/1.jpg?5407",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:56+00:00",
+      "link": "https://www.jumia.com.ng/lp-lp-smart-tv-32-android-14.0-18g-frameless-hd-wifi-2-hdmi-2-usb-ports-1-year-warranty-black-418927155.html"
+    },
+    {
       "id": "db13367e39f82c05",
       "store": "Jumia",
       "title": "Oraimo EasyCut Hair Clipper Super Powerful Motor Adjustable Lever 365-day Warranty",
@@ -1933,20 +1947,6 @@
       "ends_at": null,
       "first_seen": "2026-10-14T08:50:24+00:00",
       "link": "https://www.jumia.com.ng/hiena-professional-hair-trimmer-for-men-rechargeable-beard-trimmer-hair-clippers-for-men-419432082.html"
-    },
-    {
-      "id": "8d19f54c02267655",
-      "store": "Jumia",
-      "title": "LP LP Smart TV 32 , Android 14.0 , 1+8G, Frameless , HD, WiFi, 2 HDMI 2 USB Ports + 1 year warranty - Black",
-      "category": "Electronics",
-      "price": 109500,
-      "old_price": 230400,
-      "discount_percent": 52,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/55/1729814/1.jpg?5407",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:56+00:00",
-      "link": "https://www.jumia.com.ng/lp-lp-smart-tv-32-android-14.0-18g-frameless-hd-wifi-2-hdmi-2-usb-ports-1-year-warranty-black-418927155.html"
     },
     {
       "id": "87133a07f5bf7268",
@@ -3459,6 +3459,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:13:56+00:00",
       "link": "https://www.jumia.com.ng/mi-mij-retro-bluetooth-speaker-dual-2.5-portable-wireless-speaker-with-tws-usb-tf-card-aux-rechargeable-battery-1-year-warranty-419526668.html"
+    },
+    {
+      "id": "d27b2bcdae2dc7c3",
+      "store": "Jumia",
+      "title": "Djack 2.1 Tall Speakers Bluetooth Home Theater System With  Remote Control - DJ 3802",
+      "category": "Electronics",
+      "price": 55134,
+      "old_price": 90000,
+      "discount_percent": 38,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/4734914/1.jpg?9632",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:56+00:00",
+      "link": "https://www.jumia.com.ng/djack-2.1-tall-speakers-bluetooth-home-theater-system-with-remote-control-dj-3802-419437478.html"
     },
     {
       "id": "dcbd3af6762b233a",
@@ -6105,6 +6119,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:25+00:00",
       "link": "https://www.jumia.com.ng/generic-3-rolls-heavy-duty-trash-refusewaste-bin-nylon-404343312.html"
+    },
+    {
+      "id": "b7830a5e26af326e",
+      "store": "Jumia",
+      "title": "Mi+ 2.1 Channel Bluetooth Soundbar with Wooden Subwoofer, USB, MP3, AUX, Coaxial Input, Dual Speakers, Home Theater Audio System MILS508",
+      "category": "Electronics",
+      "price": 49853,
+      "old_price": 64800,
+      "discount_percent": 23,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/7175814/1.jpg?1784",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-12T12:57:47+00:00",
+      "link": "https://www.jumia.com.ng/mi-2.1-channel-bluetooth-soundbar-with-wooden-subwoofer-usb-mp3-aux-coaxial-input-dual-speakers-home-theater-audio-system-mils508-418571789.html"
     },
     {
       "id": "243083121704f3ff",
