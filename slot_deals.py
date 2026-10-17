@@ -69,7 +69,8 @@ def scrape():
             items = []
             for d in data: walk(d, items)
             if not items: items = cards(cs)
-            n = 0
+            n = 0; [log(f"  sample: {x[0][:40]} now={x[1]:.0f} was={x[2]:.0f}") for x in items[:3]]
+
             for name, now, was, s, im in items:
                 off = (was - now) * 100 / was
                 if 5 <= off <= 70 and "slot-" + s not in found and n < 40:
