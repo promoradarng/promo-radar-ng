@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18T01:02:17+00:00",
-  "count": 616,
+  "updated_at": "2026-10-18T04:50:13+00:00",
+  "count": 615,
   "deals": [
     {
       "id": "49d2a5ee9d5fe894",
@@ -995,6 +995,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:13:48+00:00",
       "link": "https://www.jumia.com.ng/mk-ultra-66w-50000max40000mah-power-bank-66w-super-output-100-screen-led-light-8-usb-ports-battery-type-c-419135100.html"
+    },
+    {
+      "id": "f858382d2cf8e4ae",
+      "store": "Jumia",
+      "title": "USB Charging Two-in-one Automatic Retractable Rose Vibrator Sex toy",
+      "category": "Beauty & Health",
+      "price": 10950,
+      "old_price": 30000,
+      "discount_percent": 63,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/1976272/1.jpg?9924",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:15:05+00:00",
+      "link": "https://www.jumia.com.ng/generic-usb-charging-two-in-one-automatic-retractable-rose-vibrator-sex-toy-272679159.html"
     },
     {
       "id": "6d0fb186cab2affc",
@@ -3741,20 +3755,6 @@
       "link": "https://www.jumia.com.ng/roushun-vitamin-c-serum-anti-aging-serum-30ml-237729207.html"
     },
     {
-      "id": "2106faf41c43d7d3",
-      "store": "Jumia",
-      "title": "MingDe era Wireless Earbuds Bluetooth 5.3 earpods In Ear Transparent Earphones ear phone Bluetooth 5.3 Earbuds, 25H Long Battery Life with Case, Sweat-Resistant Sports Earphones, HD Calls & Smart Touch, Ergonomic In-Ear",
-      "category": "Phones",
-      "price": 4470,
-      "old_price": 7450,
-      "discount_percent": 40,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/69/1602914/1.jpg?0454",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-13T20:49:19+00:00",
-      "link": "https://www.jumia.com.ng/mingde-era-wireless-earbuds-bluetooth-5.3-earpods-in-ear-transparent-earphones-ear-phone-bluetooth-5.3-earbuds-25h-long-battery-life-with-case-sweat-resistant-sports-earphones-hd-calls-smart-touch-ergonomic-in-ear-419206196.html"
-    },
-    {
       "id": "8694adf27ff42c2a",
       "store": "Jumia",
       "title": "Mi+ MIJD4330V 43 Inch QLED Frameless Smart TV – VIDAA OS, Netflix, YouTube, HDMI, 1 Years Warranty, Black",
@@ -5550,7 +5550,7 @@
       "id": "81010ffc58190f76",
       "store": "Jumia",
       "title": "ORIGINAL Condom Boxers For Men- 3pcs",
-      "category": "Fashion",
+      "category": "Other",
       "price": 5050,
       "old_price": 7150,
       "discount_percent": 29,
@@ -5634,7 +5634,7 @@
       "id": "6d80a5b16a985c2e",
       "store": "Jumia",
       "title": "All Black Covered Slip-on Pam Slippers - With Centre Openings",
-      "category": "Fashion",
+      "category": "Other",
       "price": 6660,
       "old_price": 9425,
       "discount_percent": 29,
@@ -7169,20 +7169,6 @@
       "ends_at": null,
       "first_seen": "2026-10-12T00:46:04+00:00",
       "link": "https://www.jumia.com.ng/maxi-20-litres-manual-microwave-oven-maximwo202lw-12-months-warranty-418587878.html"
-    },
-    {
-      "id": "126acd05081e6d67",
-      "store": "Jumia",
-      "title": "CYFAZA Digital Food Scale 10kg/1g Kitchen Scale For Cooking Baking with Accurate LCD Display",
-      "category": "Home & Kitchen",
-      "price": 5946,
-      "old_price": 7589,
-      "discount_percent": 21,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/8970704/1.jpg?4561",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-13T20:49:40+00:00",
-      "link": "https://www.jumia.com.ng/cyfaza-digital-food-scale-10kg1g-kitchen-scale-for-cooking-baking-with-accurate-lcd-display-407079808.html"
     },
     {
       "id": "5d7aae4aced4c512",
