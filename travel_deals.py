@@ -6,7 +6,9 @@ MARKER = os.environ.get("TRAVELPAYOUTS_MARKER", "").strip() or "585767"
 ROUTES = [("LOS", "LON", "Lagos", "London"), ("ABV", "LON", "Abuja", "London"),
           ("LON", "LOS", "London", "Lagos"), ("LON", "ABV", "London", "Abuja"),
           ("LOS", "DXB", "Lagos", "Dubai"), ("LOS", "ACC", "Lagos", "Accra"),
-          ("LOS", "ABV", "Lagos", "Abuja"), ("LOS", "PHC", "Lagos", "Port Harcourt")]
+          ("LOS", "ABV", "Lagos", "Abuja"), ("LOS", "PHC", "Lagos", "Port Harcourt"),
+          ("NYC", "LOS", "New York", "Lagos"), ("WAS", "LOS", "Washington DC", "Lagos"),
+          ("HOU", "LOS", "Houston", "Lagos"), ("ATL", "LOS", "Atlanta", "Lagos")]
 SKY = {"LON": ("#2f5d8a", "#8fb4d9"), "LOS": ("#0f7a4a", "#7fd1a6"), "ABV": ("#1d6b5a", "#9fd3b8"),
        "DXB": ("#b8641d", "#f3c06b"), "ACC": ("#a9412c", "#f0a07a"), "PHC": ("#2d6c8f", "#8ccbe0")}
 
