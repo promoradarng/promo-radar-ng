@@ -126,6 +126,11 @@ footer{margin-top:32px;color:var(--muted);font-size:13px;display:grid;gap:6px}
 .thumb img{width:100%;height:100%;object-fit:contain;display:block}
 .dotd .thumb{margin:0;border-radius:12px;max-width:260px;width:100%;justify-self:center;border:1px solid var(--line)}
 @media (max-width:600px){.card .thumb{margin:-10px -10px 0;border-radius:11px 11px 0 0}}
+.abroad{margin:14px 0 0;padding:10px 12px;border-radius:12px;background:var(--surface);border:1px solid var(--line);display:flex;flex-wrap:wrap;gap:6px 8px;align-items:center;font-size:12.5px}
+.abroad b{font-family:var(--display);font-weight:800;font-size:13.5px;flex-basis:100%}
+.abroad a{color:var(--fg);font-weight:600;text-decoration:none;background:var(--chip);padding:5px 9px;border-radius:999px;white-space:nowrap}
+.abroad a:hover{text-decoration:underline}
+.fx{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
 </style>
 
 <header>
@@ -142,6 +147,11 @@ footer{margin-top:32px;color:var(--muted);font-size:13px;display:grid;gap:6px}
 
 <main class="wrap">
   <p class="notice" id="notice" hidden><b>Example deals.</b> Live deals appear here after the deal finder's first run. Prices and promo codes below are samples. Buttons open each shop's real website.</p>
+  <nav class="abroad" aria-label="For Nigerians abroad"><b>🌍 Living abroad?</b>
+    <a href="/guides/buy-for-family-in-nigeria-from-abroad.html">🎁 Buy for family</a>
+    <a href="/travel.html">✈️ Flights home</a>
+    <a href="/guides/flight-delayed-what-you-can-claim.html">💷 Delay claims</a>
+  </nav>
   <section class="dotd" id="dotd" hidden aria-label="Deal of the day"></section>
   <div class="bar">
     <p class="count" id="count"></p>
@@ -208,6 +218,24 @@ const SAMPLE=[
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const naira=n=>"₦"+Number(n).toLocaleString("en-NG");
+// Visitors abroad also see an approximate price in their own currency (from their time zone).
+const FX={cur:null,sym:"",rate:0};
+(function(){
+  let tz="";try{tz=Intl.DateTimeFormat().resolvedOptions().timeZone||""}catch(e){}
+  if(/^Europe\/(London|Belfast|Guernsey|Jersey|Isle_of_Man)$/.test(tz)){FX.cur="GBP";FX.sym="£"}
+  else if(/^Europe\/(Dublin|Paris|Berlin|Amsterdam|Brussels|Madrid|Rome|Vienna|Lisbon|Helsinki|Athens|Luxembourg)$/.test(tz)){FX.cur="EUR";FX.sym="€"}
+  else if(/^America\/(New_York|Chicago|Denver|Los_Angeles|Phoenix|Anchorage|Detroit|Indiana|Kentucky|Boise)/.test(tz)||tz==="Pacific/Honolulu"){FX.cur="USD";FX.sym="$"}
+  else if(/^America\/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|Regina)$/.test(tz)){FX.cur="CAD";FX.sym="C$"}
+})();
+async function loadFx(){
+  if(!FX.cur) return;
+  try{const c=JSON.parse(localStorage.getItem("promoradar-fx")||"null");
+    if(c&&c.cur===FX.cur&&Date.now()-c.t<6*3600e3){FX.rate=c.rate;return}}catch(e){}
+  try{const r=await fetch("https://open.er-api.com/v6/latest/NGN");const j=await r.json();
+    const rate=j&&j.rates&&j.rates[FX.cur];if(rate>0){FX.rate=rate;
+      try{localStorage.setItem("promoradar-fx",JSON.stringify({cur:FX.cur,rate,t:Date.now()}))}catch(e){}}}catch(e){}
+}
+const abroad=n=>FX.rate?` <span class="fx">≈ ${FX.sym}${(n*FX.rate).toLocaleString(undefined,{maximumFractionDigits:n*FX.rate<100?2:0})}</span>`:"";
 const pct=d=>d.was>d.now?Math.floor((d.was-d.now)*100/d.was):0;
 const ends=h=>h<24?`Ends in ${h}h`:`Ends in ${Math.round(h/24)}d`;
 const ago=iso=>{const m=Math.max(1,Math.round((Date.now()-new Date(iso))/60000));
@@ -300,7 +328,7 @@ async function load(){
     const r=await fetch("control.txt",{cache:"no-store"});
     if(r.ok) applyControl(parseControl(await r.text()));
   }catch(e){}
-  buildFilters(); render();
+  await fxReady; buildFilters(); render();
 }
 
 $("#cats").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;state.cat=b.dataset.cat;
@@ -320,7 +348,7 @@ function goLink(d,place,cls="go"){
   return `<a class="${cls}" href="${esc(hrefOf(d))}" target="_blank" rel="noopener sponsored" data-name="${esc(d.name)}" data-store="${esc(d.store)}" data-place="${place}" data-price="${d.now}">Go to ${esc(d.store)} ↗</a>`;
 }
 function priceBlock(d){
-  return `<div class="prices"><span class="now">${naira(d.now)}</span>${d.was>d.now?`<span class="was">${naira(d.was)}</span>`:""}</div>
+  return `<div class="prices"><span class="now">${naira(d.now)}</span>${d.was>d.now?`<span class="was">${naira(d.was)}</span>`:""}${abroad(d.now)}</div>
       ${d.was>d.now?`<div class="save">You save ${naira(d.was-d.now)}</div>`:""}`;
 }
 function badges(d){
@@ -381,5 +409,6 @@ function render(){
       </div>
     </article>`).join(""):`<p class="empty">${state.cat==="Saved"?"No saved deals yet. Tap ♡ on any deal to keep it here.":"No deals match. Try another word or category."}</p>`;
 }
+const fxReady=loadFx();
 load();
 </script>
