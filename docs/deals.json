@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T20:52:34+00:00",
-  "count": 663,
+  "updated_at": "2026-10-20T01:05:33+00:00",
+  "count": 662,
   "deals": [
     {
       "id": "abb20f6b73401f98",
@@ -269,20 +269,6 @@
       "link": "https://www.jumia.com.ng/generic-food-sealer-plastic-bag-sealer-heat-sealer-packaging-machine-mini-usb-heat-sealing-machine-3-in-1-vacuum-sealing-machine-portable-kitchen-packaging-machine-with-pump-419025602.html"
     },
     {
-      "id": "63eaeb85494301b3",
-      "store": "Jumia",
-      "title": "12pcs Mobile Gaming Thumb Sleeve Sets, Wasp Feelers(6 Pair)",
-      "category": "Phones",
-      "price": 1567,
-      "old_price": 7200,
-      "discount_percent": 78,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/81/9769942/1.jpg?8321",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:48+00:00",
-      "link": "https://www.jumia.com.ng/generic-12pcs-mobile-gaming-thumb-sleeve-sets-wasp-feelers6-pair-249967918.html"
-    },
-    {
       "id": "b329226a2758ffcd",
       "store": "Jumia",
       "title": "Kingnote 2.19''inch C90PRO Ultra 3 Smartwatch Native Storm Waterproof  Black",
@@ -311,18 +297,18 @@
       "link": "https://www.jumia.com.ng/fashion-unlimited-baggy-joggers-350468256.html"
     },
     {
-      "id": "af5523013be635d5",
+      "id": "63eaeb85494301b3",
       "store": "Jumia",
-      "title": "Rose Tongue Licking Vibrator Nipples Dildo Sex Toy",
-      "category": "Beauty & Health",
-      "price": 6800,
-      "old_price": 30000,
-      "discount_percent": 77,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/4086272/1.jpg?0413",
+      "title": "12pcs Mobile Gaming Thumb Sleeve Sets, Wasp Feelers(6 Pair)",
+      "category": "Phones",
+      "price": 1685,
+      "old_price": 7200,
+      "discount_percent": 76,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/81/9769942/1.jpg?8321",
       "promo_code": null,
       "ends_at": null,
-      "first_seen": "2026-10-12T08:41:20+00:00",
-      "link": "https://www.jumia.com.ng/generic-rose-tongue-licking-vibrator-nipples-dildo-sex-toy-272680404.html"
+      "first_seen": "2026-10-11T21:13:48+00:00",
+      "link": "https://www.jumia.com.ng/generic-12pcs-mobile-gaming-thumb-sleeve-sets-wasp-feelers6-pair-249967918.html"
     },
     {
       "id": "0ebd077d98e5a12d",
@@ -521,20 +507,6 @@
       "link": "https://www.jumia.com.ng/generic-portable-tripod-stand-1.35m-height-with-phone-clamp-remote-419589665.html"
     },
     {
-      "id": "cc6382b08dea59c8",
-      "store": "Jumia",
-      "title": "QCWOLVES 20W Rechargeable LED Light Bulb, Super Bright Touch Light, Energy Saving Camping Light, LED Rechargeable Camping Lantern, Outdoor Tent Lamp with Hanging Hook, Dimmable 3 Modes, Portable Light Bulb for Emergency, Indoor, Outdoor",
-      "category": "Home & Kitchen",
-      "price": 2879,
-      "old_price": 10498,
-      "discount_percent": 72,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/38/0059914/1.jpg?0646",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-17T20:45:16+00:00",
-      "link": "https://www.jumia.com.ng/qcwolves-20w-rechargeable-led-light-bulb-super-bright-touch-light-energy-saving-camping-light-led-rechargeable-camping-lantern-outdoor-tent-lamp-with-hanging-hook-dimmable-3-modes-portable-light-bulb-for-emergency-indoor-outdoor-419950083.html"
-    },
-    {
       "id": "ef23ffbda3f7c06f",
       "store": "Jumia",
       "title": "NAOT NAOT Plush Love Handbag Shoulder Bag Crossbody Bag Wallet Black",
@@ -617,6 +589,20 @@
       "ends_at": null,
       "first_seen": "2026-10-12T00:46:06+00:00",
       "link": "https://www.jumia.com.ng/orvica-lm-2400w-high-professional-portable-steam-iron-black-and-blue-418969922.html"
+    },
+    {
+      "id": "cc6382b08dea59c8",
+      "store": "Jumia",
+      "title": "QCWOLVES 20W Rechargeable LED Light Bulb, Super Bright Touch Light, Energy Saving Camping Light, LED Rechargeable Camping Lantern, Outdoor Tent Lamp with Hanging Hook, Dimmable 3 Modes, Portable Light Bulb for Emergency, Indoor, Outdoor",
+      "category": "Home & Kitchen",
+      "price": 3096,
+      "old_price": 10498,
+      "discount_percent": 70,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/38/0059914/1.jpg?0646",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-17T20:45:16+00:00",
+      "link": "https://www.jumia.com.ng/qcwolves-20w-rechargeable-led-light-bulb-super-bright-touch-light-energy-saving-camping-light-led-rechargeable-camping-lantern-outdoor-tent-lamp-with-hanging-hook-dimmable-3-modes-portable-light-bulb-for-emergency-indoor-outdoor-419950083.html"
     },
     {
       "id": "7e4faeffe0641e28",
@@ -773,6 +759,20 @@
       "link": "https://www.jumia.com.ng/generic-3-in-1-led-track-light-20w-30w-40w-adjustable-tracklight-focus-energy-saving-super-bright-bending-light-for-shops-studio-and-all-spaces-419344437.html"
     },
     {
+      "id": "c274aec39df3e6d1",
+      "store": "Jumia",
+      "title": "USB Rose Vibrator Vagina Clitoris Sucker sex toys",
+      "category": "Beauty & Health",
+      "price": 5990,
+      "old_price": 19000,
+      "discount_percent": 68,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/88/7976272/1.jpg?2767",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:14:58+00:00",
+      "link": "https://www.jumia.com.ng/generic-usb-rose-vibrator-vagina-clitoris-sucker-sex-toys-272679788.html"
+    },
+    {
       "id": "3eb903b7cbc56543",
       "store": "Jumia",
       "title": "Bolizma Men’s Electric Shaver and smoother, 4D Floating Rotary Shaver, IPX8 Waterproof Wet Dry Shaving Razor, USB-C Fast Charging, Cordless Grooming Tool with Pop-up Trimmer, Travel Lock, Suitable for Sensitive Skin, Home & Travel",
@@ -827,20 +827,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:55+00:00",
       "link": "https://www.jumia.com.ng/touphy-mens-sweatshirt-casual-long-sleeve-t-shirt-white-419145783.html"
-    },
-    {
-      "id": "fb806ff62255fe1c",
-      "store": "Jumia",
-      "title": "P9 Wireless Bluetooth Headset Noise Reduction Earphone Black",
-      "category": "Phones",
-      "price": 3840,
-      "old_price": 11621,
-      "discount_percent": 66,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/8159203/1.jpg?3815",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:48+00:00",
-      "link": "https://www.jumia.com.ng/generic-p9-wireless-bluetooth-headset-noise-reduction-earphone-black-302951808.html"
     },
     {
       "id": "e48a59fc08acd322",
@@ -1403,20 +1389,6 @@
       "link": "https://www.jumia.com.ng/tynix-pro6-wireless-bluetooth-earbuds-tws-stereo-earphones-with-charging-case-for-android-ios-360126848.html"
     },
     {
-      "id": "9e87ecacb94ea43b",
-      "store": "Jumia",
-      "title": "Mythco 46 Pieces 1/4 Inch Drive Socket Ratchet Wrench Set Black",
-      "category": "Home & Kitchen",
-      "price": 6507,
-      "old_price": 17287,
-      "discount_percent": 62,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/73/4050192/1.jpg?0918",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-12T00:46:06+00:00",
-      "link": "https://www.jumia.com.ng/mythco-46-pieces-14-inch-drive-socket-ratchet-wrench-set-black-291050437.html"
-    },
-    {
       "id": "20b688c618a4770c",
       "store": "Jumia",
       "title": "EA Sports PS4 FC27",
@@ -1513,6 +1485,20 @@
       "ends_at": null,
       "first_seen": "2026-10-19T13:03:58+00:00",
       "link": "https://www.jumia.com.ng/generic-16pcs-strong-traceless-hooks-self-adhesive-hooks-418644559.html"
+    },
+    {
+      "id": "9e87ecacb94ea43b",
+      "store": "Jumia",
+      "title": "Mythco 46 Pieces 1/4 Inch Drive Socket Ratchet Wrench Set Black",
+      "category": "Home & Kitchen",
+      "price": 6647,
+      "old_price": 17287,
+      "discount_percent": 61,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/73/4050192/1.jpg?0918",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-12T00:46:06+00:00",
+      "link": "https://www.jumia.com.ng/mythco-46-pieces-14-inch-drive-socket-ratchet-wrench-set-black-291050437.html"
     },
     {
       "id": "9e079d489f1944f7",
@@ -2215,6 +2201,20 @@
       "link": "https://www.jumia.com.ng/generic-4-pack-led-electronic-candle-lights-crystal-night-lights-smokeless-candle-lights-418956357.html"
     },
     {
+      "id": "63ef9c2cb15af08f",
+      "store": "Jumia",
+      "title": "Synzida Sports Earbuds Bluetooth Eeadphones, Wireless Open Ear Sport Earbuds, Sweatproof Ultra Light Running Headset, HD Stereo Sound, Long Battery Life, Non-slip Wearable Earphones for Workout Gym Cycling Outdoor Sports Men Women Daily Use",
+      "category": "Phones",
+      "price": 6299,
+      "old_price": 14400,
+      "discount_percent": 56,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/93/1841914/1.jpg?4462",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:46+00:00",
+      "link": "https://www.jumia.com.ng/synzida-sports-earbuds-bluetooth-eeadphones-wireless-open-ear-sport-earbuds-sweatproof-ultra-light-running-headset-hd-stereo-sound-long-battery-life-non-slip-wearable-earphones-for-workout-gym-cycling-outdoor-sports-men-women-daily-use-419148139.html"
+    },
+    {
       "id": "88a18618890efa7d",
       "store": "Jumia",
       "title": "Smart Watch Bands Tracker Health Sport Tracker Black",
@@ -2705,6 +2705,20 @@
       "link": "https://www.jumia.com.ng/fashion-womens-casual-lace-up-contrast-color-sneakers-comfortable-sporty-419004067.html"
     },
     {
+      "id": "d54e29fec784e733",
+      "store": "Jumia",
+      "title": "USB Type-C To DC Cable WiFi To Router Powerbank Cord DC Power CableType C Converter (20V)",
+      "category": "Electronics",
+      "price": 3950,
+      "old_price": 8438,
+      "discount_percent": 53,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/86/4665814/1.jpg?2164",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:56+00:00",
+      "link": "https://www.jumia.com.ng/generic-usb-type-c-to-dc-cable-wifi-to-router-powerbank-cord-dc-power-cabletype-c-converter-20v-418566468.html"
+    },
+    {
       "id": "af5dddef390d5093",
       "store": "Jumia",
       "title": "36VF Cordless Drill and Electric Screwdriver Tool Set — 2-Speed ​​Adjustable",
@@ -2717,20 +2731,6 @@
       "ends_at": null,
       "first_seen": "2026-10-19T13:03:58+00:00",
       "link": "https://www.jumia.com.ng/generic-36vf-cordless-drill-and-electric-screwdriver-tool-set-2-speed-adjustable-418763179.html"
-    },
-    {
-      "id": "eed8d45bbc613874",
-      "store": "Jumia",
-      "title": "DIY Wall Clock With Number Stickers - Black - 40cm",
-      "category": "Home & Kitchen",
-      "price": 2815,
-      "old_price": 5992,
-      "discount_percent": 53,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/8276072/1.jpg?5886",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-12T00:46:06+00:00",
-      "link": "https://www.jumia.com.ng/generic-diy-wall-clock-with-number-stickers-black-40cm-270672834.html"
     },
     {
       "id": "93da55a95c952bcc",
@@ -2899,20 +2899,6 @@
       "ends_at": null,
       "first_seen": "2026-10-14T00:59:23+00:00",
       "link": "https://www.jumia.com.ng/touphy-hair-clippers-for-men-professional-cordlesscorded-barber-clippers-for-hair-cutting-grooming-419037248.html"
-    },
-    {
-      "id": "6b8befe1ef28afc1",
-      "store": "Jumia",
-      "title": "Mythco Wireless Body Induction Lamp LED Motion Sensor Night Light",
-      "category": "Home & Kitchen",
-      "price": 3109,
-      "old_price": 6448,
-      "discount_percent": 51,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/5708573/1.jpg?0286",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-12T12:58:01+00:00",
-      "link": "https://www.jumia.com.ng/mythco-wireless-body-induction-lampled-motion-sensor-night-light-375807590.html"
     },
     {
       "id": "6721f05b6536892c",
@@ -3237,18 +3223,18 @@
       "link": "https://www.jumia.com.ng/generic-smart-watch-sports-fitness-bluetooth-bt-call-heart-rate-waterproof-smart-watch-254506379.html"
     },
     {
-      "id": "70afb9fa32a894a1",
+      "id": "6b8befe1ef28afc1",
       "store": "Jumia",
-      "title": "Dou-color Unisex 2-Pack Short Sleeve T-Shirts - Black & White, Polyester, Sizes S-XXXL",
-      "category": "Fashion",
-      "price": 6977,
-      "old_price": 13824,
+      "title": "Mythco Wireless Body Induction Lamp LED Motion Sensor Night Light",
+      "category": "Home & Kitchen",
+      "price": 3259,
+      "old_price": 6448,
       "discount_percent": 49,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/3733593/1.jpg?8481",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/5708573/1.jpg?0286",
       "promo_code": null,
       "ends_at": null,
-      "first_seen": "2026-10-11T21:14:55+00:00",
-      "link": "https://www.jumia.com.ng/dou-color-unisex-2-pack-short-sleeve-t-shirts-black-white-polyester-sizes-s-xxxl-395337367.html"
+      "first_seen": "2026-10-12T12:58:01+00:00",
+      "link": "https://www.jumia.com.ng/mythco-wireless-body-induction-lampled-motion-sensor-night-light-375807590.html"
     },
     {
       "id": "6e96174d633682bb",
@@ -3489,6 +3475,20 @@
       "link": "https://www.jumia.com.ng/generic-high-power-5.1-boom-sound-bluetooth-home-theatre-4-long-speakers-419710661.html"
     },
     {
+      "id": "eed8d45bbc613874",
+      "store": "Jumia",
+      "title": "DIY Wall Clock With Number Stickers - Black - 40cm",
+      "category": "Home & Kitchen",
+      "price": 3132,
+      "old_price": 5992,
+      "discount_percent": 47,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/8276072/1.jpg?5886",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-12T00:46:06+00:00",
+      "link": "https://www.jumia.com.ng/generic-diy-wall-clock-with-number-stickers-black-40cm-270672834.html"
+    },
+    {
       "id": "3d1afcd8190236fa",
       "store": "Jumia",
       "title": "Kitchen Knife Sharpener, Repair Restore And Polish Blades",
@@ -3585,6 +3585,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:15:05+00:00",
       "link": "https://www.jumia.com.ng/generic-hot-hair-straightener-comb-270987211.html"
+    },
+    {
+      "id": "6b4e3a789d708991",
+      "store": "Jumia",
+      "title": "Dou-color Riapawel 4 PCS Bohemian Beaded Bracelets-pink",
+      "category": "Fashion",
+      "price": 1948,
+      "old_price": 3672,
+      "discount_percent": 46,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/57/5927643/1.jpg?3829",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:14:51+00:00",
+      "link": "https://www.jumia.com.ng/dou-color-riapawel-4-pcs-bohemian-beaded-bracelets-pink-346729575.html"
     },
     {
       "id": "669cf11c9e713bc5",
@@ -4763,6 +4777,20 @@
       "link": "https://www.jumia.com.ng/don-royale-dry-gin-75cl-337696145.html"
     },
     {
+      "id": "2413e2f14317e555",
+      "store": "Jumia",
+      "title": "Oraimo PowerNova QF1 Power Bank 27000mAh 22.5W Fast Charging Smart Digital Display",
+      "category": "Phones",
+      "price": 30600,
+      "old_price": 49000,
+      "discount_percent": 37,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/64/2532814/1.jpg?0519",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-14T00:58:34+00:00",
+      "link": "https://www.jumia.com.ng/oraimo-powernova-qf1-power-bank-27000mah-22.5w-fast-charging-smart-digital-display-418235246.html"
+    },
+    {
       "id": "3ff72481392ca89b",
       "store": "Jumia",
       "title": "Hisense 20 Litres Microwave (H20MOWS14) - White With 1 Year Warranty",
@@ -4957,20 +4985,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:02+00:00",
       "link": "https://www.jumia.com.ng/ts-r800-soundbar-system-with-subwoofer-200w-peak-power-bluetooth-5.1-adaptive-audio-smart-surround-sound-tedber-mpg11354340.html"
-    },
-    {
-      "id": "648ddb67dafa5de8",
-      "store": "Jumia",
-      "title": "TOUPHY Men's Hair Clipper Electric Trimmer With LCD Display - Gold",
-      "category": "Beauty & Health",
-      "price": 11500,
-      "old_price": 18000,
-      "discount_percent": 36,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/4910204/1.jpg?9013",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:15:05+00:00",
-      "link": "https://www.jumia.com.ng/touphy-mens-hair-clipper-electric-trimmer-with-lcd-display-gold-402019489.html"
     },
     {
       "id": "2794b79d0f2cab6e",
@@ -6838,7 +6852,7 @@
       "id": "6458d47965f464fc",
       "store": "Jumia",
       "title": "Syinix 8.5KG Top Load Twin Tub Washing Machine (E8WTMG) + 2 years Warranty - Grey",
-      "category": "Other",
+      "category": "Home & Kitchen",
       "price": 169996,
       "old_price": 227621,
       "discount_percent": 25,
@@ -6880,7 +6894,7 @@
       "id": "ed54a252502f0090",
       "store": "Jumia",
       "title": "SILVER CREST 8L Extra Large AirFryer-White",
-      "category": "Other",
+      "category": "Home & Kitchen",
       "price": 32941,
       "old_price": 44000,
       "discount_percent": 25,
@@ -8067,20 +8081,6 @@
       "link": "https://www.jumia.com.ng/generic-big-silver-leg-ironing-table-with-iron-stand-418832898.html"
     },
     {
-      "id": "ee7d2bd2080e0bbb",
-      "store": "Jumia",
-      "title": "NIVEA Crème Soft Shower Gel - 500ml",
-      "category": "Beauty & Health",
-      "price": 5555,
-      "old_price": 6940,
-      "discount_percent": 19,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/0433401/1.jpg?7784",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:15:05+00:00",
-      "link": "https://www.jumia.com.ng/nivea-creme-soft-shower-gel-500ml-104334052.html"
-    },
-    {
       "id": "5800abf99a2d34b5",
       "store": "Jumia",
       "title": "Ballantine'S Finest Scotch Whiskey 70cl",
@@ -8989,20 +8989,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:13:48+00:00",
       "link": "https://www.jumia.com.ng/sunelan-s18-1.8-qqvga-screen-dual-sim-game-camera-25blbattery-2000mah-black-red-419477527.html"
-    },
-    {
-      "id": "7c5bb975c964a763",
-      "store": "Jumia",
-      "title": "Sunelan S17 1.8\" QQVGA Screen, Dual SIM, Game, Camera 25BL_Battery, 2000MAH -Deep Blue+Black",
-      "category": "Phones",
-      "price": 7107,
-      "old_price": 8000,
-      "discount_percent": 11,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/4774914/1.jpg?3930",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-12T16:35:13+00:00",
-      "link": "https://www.jumia.com.ng/sunelan-s17-1.8-qqvga-screen-dual-sim-game-camera-25blbattery-2000mah-deep-blueblack-419477402.html"
     },
     {
       "id": "afdfd7a5a66b5336",
