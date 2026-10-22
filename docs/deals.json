@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T16:54:07+00:00",
-  "count": 605,
+  "updated_at": "2026-10-22T20:52:18+00:00",
+  "count": 637,
   "deals": [
     {
       "id": "6bf7b9b77a36337b",
@@ -197,6 +197,20 @@
       "ends_at": null,
       "first_seen": "2026-10-21T13:04:41+00:00",
       "link": "https://www.jumia.com.ng/fashion-5-pairs-men-cotton-socks-breathable-sweat-absorbing-419502287.html"
+    },
+    {
+      "id": "63eaeb85494301b3",
+      "store": "Jumia",
+      "title": "12pcs Mobile Gaming Thumb Sleeve Sets, Wasp Feelers(6 Pair)",
+      "category": "Phones",
+      "price": 1567,
+      "old_price": 7200,
+      "discount_percent": 78,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/81/9769942/1.jpg?8321",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:48+00:00",
+      "link": "https://www.jumia.com.ng/generic-12pcs-mobile-gaming-thumb-sleeve-sets-wasp-feelers6-pair-249967918.html"
     },
     {
       "id": "b329226a2758ffcd",
@@ -689,6 +703,20 @@
       "link": "https://www.jumia.com.ng/arhanory-miami-cuban-link-chain-for-men-women-iced-out-bracelet-diamond-chain-hip-hop-jewelry-silver-blue-419045101.html"
     },
     {
+      "id": "c3d2f93bc57ce3ec",
+      "store": "Jumia",
+      "title": "HENIN  PC20000 Ultra Slim 20000mAh Power Bank 4-In-1 Built Cables Dual USB LED Digital Display",
+      "category": "Phones",
+      "price": 8792,
+      "old_price": 28800,
+      "discount_percent": 69,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/23/3377914/1.jpg?7483",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-15T20:47:11+00:00",
+      "link": "https://www.jumia.com.ng/pc20000-ultra-slim-20000mah-power-bank-4-in-1-built-cables-dual-usb-led-digital-display-henin-mpg12066370.html"
+    },
+    {
       "id": "6e749fd8848c4416",
       "store": "Jumia",
       "title": "P9 Wireless Bluetooth Stereo For Games And Music Headphone",
@@ -771,6 +799,20 @@
       "ends_at": null,
       "first_seen": "2026-10-22T13:05:03+00:00",
       "link": "https://www.jumia.com.ng/flamedeal-2-in-1-full-touch-screen-smart-watch-wireless-bluetooth-headset-417950430.html"
+    },
+    {
+      "id": "6ea1210f52faa0ff",
+      "store": "Jumia",
+      "title": "Moonstone Heart Pendant Necklace for Women – Dainty Silver Tone Chain, Romantic Birthday Gift for Her",
+      "category": "Fashion",
+      "price": 1242,
+      "old_price": 3850,
+      "discount_percent": 67,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/2065404/1.jpg?1464",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:51:49+00:00",
+      "link": "https://www.jumia.com.ng/fashion-moonstone-heart-pendant-necklace-for-women-dainty-silver-tone-chain-romantic-birthday-gift-for-her-404560267.html"
     },
     {
       "id": "180212803b410844",
@@ -1392,7 +1434,7 @@
       "id": "5d8ea8785659e7dc",
       "store": "Jumia",
       "title": "Oraimo SpaceBuds Neo True Wireless Spatial Earbuds Sound360 Audio - Black",
-      "category": "Electronics",
+      "category": "Phones",
       "price": 16552,
       "old_price": 43200,
       "discount_percent": 61,
@@ -1459,20 +1501,6 @@
       "link": "https://www.jumia.com.ng/generic-mini-hd-wireless-camera-night-vision-security-cam-motion-detection-two-way-audio-tf-card-loop-recording-magnetic-mount-android-and-ios-compatible-418538271.html"
     },
     {
-      "id": "56f025f6b01291e8",
-      "store": "Jumia",
-      "title": "MKTEL 3310S Black Small Phone,Button Phone,1.77 inch, Dual SIM,2500mAh Big Battery,Torch Light,FM Radio GSM Mobile Phone",
-      "category": "Phones",
-      "price": 7829,
-      "old_price": 20160,
-      "discount_percent": 61,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/63/9094914/1.jpg?8829",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:46+00:00",
-      "link": "https://www.jumia.com.ng/mktel-3310s-black-small-phonebutton-phone1.77-inch-dual-sim2500mah-big-batterytorch-lightfm-radio-gsm-mobile-phone-419490936.html"
-    },
-    {
       "id": "049f0bacd3a210b5",
       "store": "Jumia",
       "title": "Multifunctional Data Cable Storage Bag Travel Cord Organizer Pouch",
@@ -1485,6 +1513,20 @@
       "ends_at": null,
       "first_seen": "2026-10-22T13:04:57+00:00",
       "link": "https://www.jumia.com.ng/generic-multifunctional-data-cable-storage-bag-travel-cord-organizer-pouch-419471066.html"
+    },
+    {
+      "id": "5932cb9d2336351c",
+      "store": "Jumia",
+      "title": "G01 Wireless Neckband Headphones V5.2 Hifi Stereo Sports Neckband Headset Waterproof Earbuds For Outdoor Running",
+      "category": "Phones",
+      "price": 2242,
+      "old_price": 5760,
+      "discount_percent": 61,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/06/7930914/1.jpg?3369",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-14T20:46:22+00:00",
+      "link": "https://www.jumia.com.ng/g01-wireless-neckband-headphones-v5.2-hifi-stereo-sports-neckband-headset-waterproof-earbuds-for-outdoor-running-generic-mpg11972149.html"
     },
     {
       "id": "833f13ef9dada51f",
@@ -1571,6 +1613,20 @@
       "link": "https://www.jumia.com.ng/generic-high-quality-wireless-mobile-wifi-pro-5g-mifi-lte-cat6-super-software-3000mah-lcd-display-universal-type-c-fast-charging-4g5g-router-for-all-networks-420434665.html"
     },
     {
+      "id": "0a6822d54c98f023",
+      "store": "Jumia",
+      "title": "LM 2-in-1 Spray Mop Floor Cleaner with Water Spray Bottle, Wet Dry Microfiber Flat Mop for Home Kitchen Bathroom Cleaning-White",
+      "category": "Groceries",
+      "price": 9246,
+      "old_price": 23040,
+      "discount_percent": 59,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/6262914/1.jpg?0565",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-12T12:58:08+00:00",
+      "link": "https://www.jumia.com.ng/lm-2-in-1-spray-mop-floor-cleaner-with-water-spray-bottle-wet-dry-microfiber-flat-mop-for-home-kitchen-bathroom-cleaning-white-419262694.html"
+    },
+    {
       "id": "bc050be486603987",
       "store": "Jumia",
       "title": "MATIHO Wireless Phone Live Streaming Tripod,70cm Extendable,10m Bluetooth Remote,360° Horizontal & Vertical Rotation",
@@ -1611,6 +1667,20 @@
       "ends_at": null,
       "first_seen": "2026-10-14T00:59:23+00:00",
       "link": "https://www.jumia.com.ng/touphy-hair-clippers-for-men-professional-cordlesscorded-barber-clippers-for-hair-cutting-grooming-419037248.html"
+    },
+    {
+      "id": "56f025f6b01291e8",
+      "store": "Jumia",
+      "title": "MKTEL 3310S Black Small Phone,Button Phone,1.77 inch, Dual SIM,2500mAh Big Battery,Torch Light,FM Radio GSM Mobile Phone",
+      "category": "Phones",
+      "price": 8240,
+      "old_price": 20160,
+      "discount_percent": 59,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/63/9094914/1.jpg?8829",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:46+00:00",
+      "link": "https://www.jumia.com.ng/mktel-3310s-black-small-phonebutton-phone1.77-inch-dual-sim2500mah-big-batterytorch-lightfm-radio-gsm-mobile-phone-419490936.html"
     },
     {
       "id": "eb736f7f44c7b5c1",
@@ -1921,6 +1991,20 @@
       "link": "https://www.jumia.com.ng/generic-7in2-usb3.0-hub-type-c-docking-stations-otg-laptop-computer-tablets-cable-adapters-418868869.html"
     },
     {
+      "id": "4564f6fd7fb90561",
+      "store": "Jumia",
+      "title": "Men's  Jewelry Cross With Diamond Necklace",
+      "category": "Fashion",
+      "price": 1660,
+      "old_price": 3874,
+      "discount_percent": 57,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/39/9088904/1.jpg?8415",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-13T20:50:04+00:00",
+      "link": "https://www.jumia.com.ng/fashion-mens-jewelry-cross-with-diamond-necklace-409880993.html"
+    },
+    {
       "id": "afa1d307f5d14086",
       "store": "Jumia",
       "title": "LP Smart TV 55-Voice Bluetooth Remote-4K UHD-Android 14.0-1.5+8G-Frameless-WiFi+Bluetooth-3 HDMI + 2 USB+ 1 year warranty - Black",
@@ -2033,10 +2117,24 @@
       "link": "https://www.jumia.com.ng/generic-new-neat-medium-size-industrial-gas-cooker-2-burner-locally-made-419969095.html"
     },
     {
+      "id": "bda9bbb84b759c73",
+      "store": "Jumia",
+      "title": "ALagzi Men's Trendy Casual Sneakers - White",
+      "category": "Fashion",
+      "price": 10781,
+      "old_price": 24822,
+      "discount_percent": 56,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/83/1440222/1.jpg?0805",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-18T16:47:50+00:00",
+      "link": "https://www.jumia.com.ng/alagzi-mens-trendy-casual-sneakers-white-222044138.html"
+    },
+    {
       "id": "d811669545029783",
       "store": "Jumia",
       "title": "Philly 20000mAh Power Charging Bank Portable Charger Ultra Slim",
-      "category": "Other",
+      "category": "Phones",
       "price": 7197,
       "old_price": 16560,
       "discount_percent": 56,
@@ -2101,6 +2199,20 @@
       "ends_at": null,
       "first_seen": "2026-10-19T13:03:58+00:00",
       "link": "https://www.jumia.com.ng/calliara-mens-embroidered-polo-shirt-classic-short-sleeve-with-lion-badge-409342362.html"
+    },
+    {
+      "id": "d7e3e04f327aad0b",
+      "store": "Jumia",
+      "title": "Redmi 15c 5g 8gb+256gb (renewed -new) blue",
+      "category": "Phones",
+      "price": 176000,
+      "old_price": 400000,
+      "discount_percent": 56,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/78/3464024/1.jpg?3692",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:50:17+00:00",
+      "link": "https://www.jumia.com.ng/renewed-redmi-15c-5g-8gb256gb-renewed-new-blue-420464387.html"
     },
     {
       "id": "fc2c8cba7ba5af4e",
@@ -2677,20 +2789,6 @@
       "link": "https://www.jumia.com.ng/generic-head-mounted-camera-holder-with-adjustable-nylon-strap-for-most-head-sizeswith-emote-mobile-phone-pov-mount-for-cycling-fishing-motorcycling-and-other-outdoor-sports-419563519.html"
     },
     {
-      "id": "04d9dbed0ef467d0",
-      "store": "Jumia",
-      "title": "C Idea 6.7 Inches Smartphone,with android10 snapdragon processor,720*1600incell dual Sim 8+64GB",
-      "category": "Phones",
-      "price": 69552,
-      "old_price": 143000,
-      "discount_percent": 51,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/40/6261914/1.jpg?6080",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-16T04:48:13+00:00",
-      "link": "https://www.jumia.com.ng/c-idea-6.7-inches-smartphonewith-android10-snapdragon-processor7201600incell-dual-sim-864gb-419162604.html"
-    },
-    {
       "id": "76d4789f0c143e0f",
       "store": "Jumia",
       "title": "ALagzi 2025 Men's Breathable Height-Increasing Fashionable Sports Shoes - White",
@@ -2759,6 +2857,20 @@
       "ends_at": null,
       "first_seen": "2026-10-22T16:52:30+00:00",
       "link": "https://www.jumia.com.ng/fashion-men-senator-blue-420061192.html"
+    },
+    {
+      "id": "e14526db991e42bc",
+      "store": "Jumia",
+      "title": "Dymo Label Manager Label Maker 160",
+      "category": "Other",
+      "price": 98000,
+      "old_price": 200000,
+      "discount_percent": 51,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/71/5862024/1.jpg?6632",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:50:17+00:00",
+      "link": "https://www.jumia.com.ng/dymo-label-manager-label-maker-160-420268517.html"
     },
     {
       "id": "51ea08820a642623",
@@ -3405,20 +3517,6 @@
       "link": "https://www.jumia.com.ng/matiho-matiho-hair-clippers-multifunctional-haircut-machine-electric-shavers-for-home-barber-use-352095106.html"
     },
     {
-      "id": "fc930a907220984c",
-      "store": "Jumia",
-      "title": "Oraimo Traveler 12 Byte Power Bank 20000mAh 12W Fast Charging Digital Display",
-      "category": "Phones",
-      "price": 13950,
-      "old_price": 25900,
-      "discount_percent": 46,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/6994793/1.jpg?7016",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:48+00:00",
-      "link": "https://www.jumia.com.ng/traveler-12-byte-power-bank-20000mah-large-power-display-12w-charging-portable-fast-oraimo-mpg11495048.html"
-    },
-    {
       "id": "16efd8f437843927",
       "store": "Jumia",
       "title": "TOUPHY T-Shirts +Shorts 100% Cotton Men's Short Sleeve Set-Black",
@@ -4007,6 +4105,34 @@
       "link": "https://www.jumia.com.ng/tv-led-numerique-32-hd-sans-bordure-noir-built-in-decoder-garantie-12-mois-ic-hk32dfdtv-r-hikers-mpg11699364.html"
     },
     {
+      "id": "5abb47432f23811e",
+      "store": "Jumia",
+      "title": "Tedber TS-R800 PRO Soundbar System with Subwoofer – 320W Peak Power, Bluetooth 5.1, Adaptive Audio, Smart Surround Sound",
+      "category": "Electronics",
+      "price": 74800,
+      "old_price": 125000,
+      "discount_percent": 40,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/30/2934004/1.jpg?8160",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:14:02+00:00",
+      "link": "https://www.jumia.com.ng/ts-r800-soundbar-system-with-subwoofer-200w-peak-power-bluetooth-5.1-adaptive-audio-smart-surround-sound-tedber-mpg11354340.html"
+    },
+    {
+      "id": "fc930a907220984c",
+      "store": "Jumia",
+      "title": "Oraimo Traveler 12 Byte Power Bank 20000mAh 12W Fast Charging Digital Display",
+      "category": "Phones",
+      "price": 15500,
+      "old_price": 25900,
+      "discount_percent": 40,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/6994793/1.jpg?7016",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:48+00:00",
+      "link": "https://www.jumia.com.ng/traveler-12-byte-power-bank-20000mah-large-power-display-12w-charging-portable-fast-oraimo-mpg11495048.html"
+    },
+    {
       "id": "bb37b03b333a2c82",
       "store": "Jumia",
       "title": "Roushun Vitamin C Serum [Anti-Aging Serum]---30ml",
@@ -4033,6 +4159,34 @@
       "ends_at": null,
       "first_seen": "2026-10-21T20:51:47+00:00",
       "link": "https://www.jumia.com.ng/intex-inflatable-double-dura-beam-air-mattress-with-internal-pump-1.52m-x-2.03m-x-46-cm-57458196.html"
+    },
+    {
+      "id": "5237a7e63adcce00",
+      "store": "Jumia",
+      "title": "6.5-Inch Smart Balance Hoverboard with Bluetooth and LED Lights (Red and Black Lightning Design)",
+      "category": "Other",
+      "price": 150000,
+      "old_price": 250000,
+      "discount_percent": 40,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/22/5224914/1.jpg?3113",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:50:17+00:00",
+      "link": "https://www.jumia.com.ng/generic-6.5-inch-smart-balance-hoverboard-with-bluetooth-and-led-lights-red-and-black-lightning-design-419422522.html"
+    },
+    {
+      "id": "1495f55c05f83c30",
+      "store": "Jumia",
+      "title": "Hp Deskjet Ink Advantage 2976( All-in-one HP) Printer, Color Printer For Home",
+      "category": "Other",
+      "price": 180000,
+      "old_price": 300000,
+      "discount_percent": 40,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/6829914/1.jpg?1264",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:50:23+00:00",
+      "link": "https://www.jumia.com.ng/hp-deskjet-ink-advantage-2976-all-in-one-hp-printer-color-printer-for-home-419928664.html"
     },
     {
       "id": "4669325336982163",
@@ -4413,6 +4567,20 @@
       "link": "https://www.jumia.com.ng/generic-led-drop-light-pendant-light-chandelier-celling-fittingled-drop-light-392216547.html"
     },
     {
+      "id": "beef825624f1b84c",
+      "store": "Jumia",
+      "title": "Hp ProBook 11 X360-TOUCHSCREEN Intel Celeron 128GB SSD-4GB RAM WINDOWS11Pro & Free USB Light With Mouse",
+      "category": "Other",
+      "price": 190000,
+      "old_price": 300000,
+      "discount_percent": 36,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/2278914/1.jpg?7028",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:50:17+00:00",
+      "link": "https://www.jumia.com.ng/probook-11-x360-touchscreen-intel-celeron-128gb-ssd-4gb-ram-windows11pro-free-usb-light-with-mouse-hp-mpg12019281.html"
+    },
+    {
       "id": "015910c82501204b",
       "store": "Jumia",
       "title": "Martini Rosso Red Vermouth Aperitivo 100cl",
@@ -4425,6 +4593,20 @@
       "ends_at": null,
       "first_seen": "2026-10-12T20:36:12+00:00",
       "link": "https://www.jumia.com.ng/martini-rosso-red-vermouth-aperitivo-100cl-83118623.html"
+    },
+    {
+      "id": "91af27ff5c007dba",
+      "store": "Jumia",
+      "title": "Ace Elec 20000 MAh Utra Slim Portable Power Bank -Type C Dual input and Output",
+      "category": "Phones",
+      "price": 7650,
+      "old_price": 12000,
+      "discount_percent": 36,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/59/5142914/1.jpg?5950",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:46+00:00",
+      "link": "https://www.jumia.com.ng/20000-mah-utra-slim-portable-power-bank-ace-elec-mpg11495891.html"
     },
     {
       "id": "535207bc74a37a26",
@@ -4453,20 +4635,6 @@
       "ends_at": null,
       "first_seen": "2026-10-22T08:56:46+00:00",
       "link": "https://www.jumia.com.ng/ace-elec-20000-mah-utra-slim-portable-power-bank-type-c-dual-input-and-output-419241595.html"
-    },
-    {
-      "id": "5abb47432f23811e",
-      "store": "Jumia",
-      "title": "Tedber TS-R800 PRO Soundbar System with Subwoofer – 320W Peak Power, Bluetooth 5.1, Adaptive Audio, Smart Surround Sound",
-      "category": "Electronics",
-      "price": 79800,
-      "old_price": 125000,
-      "discount_percent": 36,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/30/2934004/1.jpg?8160",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:14:02+00:00",
-      "link": "https://www.jumia.com.ng/ts-r800-soundbar-system-with-subwoofer-200w-peak-power-bluetooth-5.1-adaptive-audio-smart-surround-sound-tedber-mpg11354340.html"
     },
     {
       "id": "648ddb67dafa5de8",
@@ -4777,6 +4945,20 @@
       "link": "https://www.jumia.com.ng/itel-5-sockets-3metre-cord-power-strip-extension-box-180984010.html"
     },
     {
+      "id": "2a85afc2f15a0f64",
+      "store": "Jumia",
+      "title": "Honor X6C 6GB RAM+128GB ROM DUAL SIM ANDROID 15\"",
+      "category": "Other",
+      "price": 199900,
+      "old_price": 300000,
+      "discount_percent": 33,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/99/2735914/1.jpg?6149",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:50:23+00:00",
+      "link": "https://www.jumia.com.ng/honor-x6c-6gb-ram128gb-rom-dual-sim-android-15-419537299.html"
+    },
+    {
       "id": "ec54a328b213e445",
       "store": "Jumia",
       "title": "Curren Exotic Leather Strap Military Sports Men Watch-Coffee Brown",
@@ -4887,6 +5069,20 @@
       "ends_at": null,
       "first_seen": "2026-10-12T00:46:13+00:00",
       "link": "https://www.jumia.com.ng/royal-circle-whisky-750ml-x1-263200140.html"
+    },
+    {
+      "id": "94f9f1a564cf447e",
+      "store": "Jumia",
+      "title": "Nutribullet Original Nutrient Extractor Blender - 600W",
+      "category": "Home & Kitchen",
+      "price": 135000,
+      "old_price": 200000,
+      "discount_percent": 32,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/44/9459814/1.jpg?2416",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:50:17+00:00",
+      "link": "https://www.jumia.com.ng/nutribullet-original-nutrient-extractor-blender-600w-418954944.html"
     },
     {
       "id": "a06441090d413da4",
@@ -5029,6 +5225,20 @@
       "link": "https://www.jumia.com.ng/oraimo-spacebuds-pro-true-wireless-bluetooth-earbuds-adaptive-hybrid-anc-418242038.html"
     },
     {
+      "id": "e93dad64ff68f32c",
+      "store": "Jumia",
+      "title": "CYFAZA 5-Tier Metal Shoe Rack Hat Rack, Entryway Durable Storage Organizer",
+      "category": "Home & Kitchen",
+      "price": 13475,
+      "old_price": 19800,
+      "discount_percent": 31,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/92/6065204/1.jpg?4998",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:51:16+00:00",
+      "link": "https://www.jumia.com.ng/cyfaza-5-tier-metal-shoe-rack-hat-rack-entryway-durable-storage-organizer-402560629.html"
+    },
+    {
       "id": "da8b6017cf847e66",
       "store": "Jumia",
       "title": "HANSEN 7L Swallow Maker- Fully Automatic -fufu/Eba/Yam Pounder",
@@ -5097,6 +5307,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:58+00:00",
       "link": "https://www.jumia.com.ng/nourishing-cocoa-body-lotion-400ml-free-dry-fresh-roll-on-for-men-50ml-nivea-mpg1657713.html"
+    },
+    {
+      "id": "362182b4d7378f71",
+      "store": "Jumia",
+      "title": "Smart Watch Bluetooth Call Touch Screen Waterproof Fitness",
+      "category": "Electronics",
+      "price": 5760,
+      "old_price": 8352,
+      "discount_percent": 31,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/56/8333914/1.jpg?9632",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:51:02+00:00",
+      "link": "https://www.jumia.com.ng/generic-smart-watch-bluetooth-call-touch-screen-waterproof-fitness-419333865.html"
     },
     {
       "id": "66b0b14c7c2cf962",
@@ -6009,6 +6233,20 @@
       "link": "https://www.jumia.com.ng/fashion-mens-watches-business-steel-strip-quartz-wrist-watches-cuban-bracelet-set-419105500.html"
     },
     {
+      "id": "cc00841886d8de00",
+      "store": "Jumia",
+      "title": "Itel A200 Plus Smart Phone With 128GB ROM & 3GB RAM (Nightly Blue)",
+      "category": "Phones",
+      "price": 146699,
+      "old_price": 200000,
+      "discount_percent": 26,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/33/1515914/1.jpg?6381",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:50:17+00:00",
+      "link": "https://www.jumia.com.ng/itel-a200-plus-smart-phone-with-128gb-rom-3gb-ram-nightly-blue-419515133.html"
+    },
+    {
       "id": "4f85ac92a106bd10",
       "store": "Jumia",
       "title": "IWIN ENERGY IWIN IW-8918 18-Inch Rechargeable Stand Fan With Lithium Battery, Remote & Mosquito Repellent Light",
@@ -6051,18 +6289,18 @@
       "link": "https://www.jumia.com.ng/aeon-150litres-chest-freezer-acf150gj-dark-grey-1-year-warranty.-401319088.html"
     },
     {
-      "id": "83f2275f15fa7eb7",
+      "id": "0a9feff98c9eaab2",
       "store": "Jumia",
-      "title": "Binatone Digital Voltage Stabilizer (DVS-2001) + 2 Years Warranty",
-      "category": "Other",
-      "price": 71999,
-      "old_price": 97500,
+      "title": "Adjustable Outdoor Relaxing Chair With Cushion_Grey",
+      "category": "Beauty & Health",
+      "price": 155000,
+      "old_price": 210000,
       "discount_percent": 26,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/72/2033821/1.jpg?0331",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/3423414/1.jpg?8644",
       "promo_code": null,
       "ends_at": null,
-      "first_seen": "2026-10-12T12:57:20+00:00",
-      "link": "https://www.jumia.com.ng/binatone-digital-voltage-stabilizer-dvs-2001-2-years-warranty-128330227.html"
+      "first_seen": "2026-10-22T20:50:23+00:00",
+      "link": "https://www.jumia.com.ng/generic-adjustable-outdoor-relaxing-chair-with-cushiongrey-414324357.html"
     },
     {
       "id": "aa4c6154dae8efdb",
@@ -6105,6 +6343,20 @@
       "ends_at": null,
       "first_seen": "2026-10-12T12:57:20+00:00",
       "link": "https://www.jumia.com.ng/hisense-5kg-top-load-twin-tub-washing-machine-wm503-wspa-with-one-year-warranty-77919362.html"
+    },
+    {
+      "id": "85fe0a87685016f5",
+      "store": "Jumia",
+      "title": "Jinko 2 UNITS OF 350W SOLAR PANEL",
+      "category": "Other",
+      "price": 118758,
+      "old_price": 160000,
+      "discount_percent": 25,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/01/3733914/1.jpg?5820",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-14T20:46:00+00:00",
+      "link": "https://www.jumia.com.ng/2-units-of-350w-solar-panel-jinko-mpg11967839.html"
     },
     {
       "id": "1b27bc779257ba73",
@@ -6345,6 +6597,20 @@
       "link": "https://www.jumia.com.ng/32-inches-frameless-hd-led-tv-black-hikers-mpg11528610.html"
     },
     {
+      "id": "8baef370c34da590",
+      "store": "Jumia",
+      "title": "Bruhm Air fryer Double Compartment 9Lt",
+      "category": "Other",
+      "price": 143000,
+      "old_price": 189000,
+      "discount_percent": 24,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/29/8957814/1.jpg?4381",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:50:17+00:00",
+      "link": "https://www.jumia.com.ng/bruhm-air-fryer-double-compartment-9lt-418759892.html"
+    },
+    {
       "id": "555f149ca02e7412",
       "store": "Jumia",
       "title": "Nexus 18 Inch Standing Fan (NX-SF5400B)",
@@ -6581,6 +6847,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:25+00:00",
       "link": "https://www.jumia.com.ng/nestle-activ-go-sachet-n2-ng-400g-87161831.html"
+    },
+    {
+      "id": "de9cb3e066e8c471",
+      "store": "Jumia",
+      "title": "Starlink Standard Kit - Gen 3 (02534003-501/B)- White",
+      "category": "Other",
+      "price": 529999,
+      "old_price": 690000,
+      "discount_percent": 23,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/15/1308404/1.jpg?8823",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-12T20:35:27+00:00",
+      "link": "https://www.jumia.com.ng/starlink-standard-kit-gen-3-02534003-501b-white-404803151.html"
     },
     {
       "id": "554ec0607886130d",
@@ -6919,6 +7199,20 @@
       "link": "https://www.jumia.com.ng/fashion-mensguys-quality-black-leather-pam-slippers-black-palm-352679572.html"
     },
     {
+      "id": "97bd1dc59015d7d0",
+      "store": "Jumia",
+      "title": "Anker USB C Cable,6.6FT Thunderbolt 4 USB C To USB C Certified Cable, 8K Display/40Gbps/100W",
+      "category": "Other",
+      "price": 100000,
+      "old_price": 130000,
+      "discount_percent": 23,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/21/7226693/1.jpg?6346",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:50:17+00:00",
+      "link": "https://www.jumia.com.ng/anker-usb-c-cable6.6ft-thunderbolt-4-usb-c-to-usb-c-certified-cable-8k-display40gbps100w-396622712.html"
+    },
+    {
       "id": "92ad435647f7bdce",
       "store": "Jumia",
       "title": "TCL 43\" Inches QLED Google Smart TV - 2025 Edition  + 12 MONTHS WARRANTY (43S5K)",
@@ -6945,6 +7239,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:25+00:00",
       "link": "https://www.jumia.com.ng/generic-3-rolls-heavy-duty-trash-refusewaste-bin-nylon-404343312.html"
+    },
+    {
+      "id": "b7830a5e26af326e",
+      "store": "Jumia",
+      "title": "Mi+ 2.1 Channel Bluetooth Soundbar with Wooden Subwoofer, USB, MP3, AUX, Coaxial Input, Dual Speakers, Home Theater Audio System MILS508",
+      "category": "Electronics",
+      "price": 49853,
+      "old_price": 64800,
+      "discount_percent": 23,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/98/7175814/1.jpg?1784",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-12T12:57:47+00:00",
+      "link": "https://www.jumia.com.ng/mi-2.1-channel-bluetooth-soundbar-with-wooden-subwoofer-usb-mp3-aux-coaxial-input-dual-speakers-home-theater-audio-system-mils508-418571789.html"
     },
     {
       "id": "3a61f8a57b9c9715",
@@ -7017,6 +7325,20 @@
       "link": "https://www.jumia.com.ng/cepsa-12.5kg-gas-cylinder-with-hose-level-indicating-regulator-stainless-steel-404486590.html"
     },
     {
+      "id": "ed9f9e9e843929c7",
+      "store": "Jumia",
+      "title": "ARIDOO German  portable high power lawn mower",
+      "category": "Other",
+      "price": 154999,
+      "old_price": 200000,
+      "discount_percent": 22,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/31/4107104/1.jpg?4745",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:50:23+00:00",
+      "link": "https://www.jumia.com.ng/aridoo-german-portable-high-power-lawn-mower-401701413.html"
+    },
+    {
       "id": "18b012c17ce6c404",
       "store": "Jumia",
       "title": "William Lawson's Finest Blended Scotch Whisky 75cl",
@@ -7029,6 +7351,20 @@
       "ends_at": null,
       "first_seen": "2026-10-12T00:46:13+00:00",
       "link": "https://www.jumia.com.ng/william-lawsons-finest-blended-scotch-whisky-75cl-83118629.html"
+    },
+    {
+      "id": "f403437a16e97018",
+      "store": "Jumia",
+      "title": "BoomBest 1036 BigBOOM XL Xtra large size Wireless Bluetooth Speaker, 100WMax Dual Drivers, Deep Bass, USB/FM/AUX/TF, Portable Party Sound Syst- Zealot Killer",
+      "category": "Electronics",
+      "price": 25600,
+      "old_price": 33000,
+      "discount_percent": 22,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/14/2541814/1.jpg?9549",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-12T20:35:50+00:00",
+      "link": "https://www.jumia.com.ng/boombest-1036-bigboom-xl-xtra-large-size-wireless-bluetooth-speaker-100wmax-dual-drivers-deep-bass-usbfmauxtf-portable-party-sound-syst-zealot-killer-418145241.html"
     },
     {
       "id": "25e103d259e3d64d",
@@ -7127,20 +7463,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:25+00:00",
       "link": "https://www.jumia.com.ng/baileys-original-irish-cream-700ml.-395492463.html"
-    },
-    {
-      "id": "de9cb3e066e8c471",
-      "store": "Jumia",
-      "title": "Starlink Standard Kit - Gen 3 (02534003-501/B)- White",
-      "category": "Other",
-      "price": 539999,
-      "old_price": 690000,
-      "discount_percent": 21,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/15/1308404/1.jpg?8823",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-12T20:35:27+00:00",
-      "link": "https://www.jumia.com.ng/starlink-standard-kit-gen-3-02534003-501b-white-404803151.html"
     },
     {
       "id": "cca4250080a9be1d",
@@ -7367,6 +7689,34 @@
       "link": "https://www.jumia.com.ng/generic-high-quality-exotic-faux-marblemdf-wood-center-table-419427858.html"
     },
     {
+      "id": "a3914a500c120393",
+      "store": "Jumia",
+      "title": "50G Yam Pounding Machine  Pounder Mixer Blender Morsel Pound",
+      "category": "Home & Kitchen",
+      "price": 132000,
+      "old_price": 165000,
+      "discount_percent": 20,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/81/253846/1.jpg?7123",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:50:17+00:00",
+      "link": "https://www.jumia.com.ng/yam-pounding-machine-pounder-mixer-blender-morsel-pound-50g-mpg1641970.html"
+    },
+    {
+      "id": "87fa02c5bce27bd9",
+      "store": "Jumia",
+      "title": "100M HDMI WIRELESS TRANSMITTER AND RECEIVER (fast,durable,light speed,no lag)",
+      "category": "Other",
+      "price": 120000,
+      "old_price": 150000,
+      "discount_percent": 20,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/26/0827914/1.jpg?4750",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:50:23+00:00",
+      "link": "https://www.jumia.com.ng/generic-100m-hdmi-wireless-transmitter-and-receiver-fastdurablelight-speedno-lag-419728062.html"
+    },
+    {
       "id": "ee7d2bd2080e0bbb",
       "store": "Jumia",
       "title": "NIVEA Crème Soft Shower Gel - 500ml",
@@ -7451,6 +7801,20 @@
       "link": "https://www.jumia.com.ng/dou-color-mens-long-sleeve-plaid-shirt-black-273026131.html"
     },
     {
+      "id": "7e979de078825afa",
+      "store": "Jumia",
+      "title": "TRIOPO KL 105cm Collapsible Beauty Dish Diffuser Quick Folding Softbox For Studio Flash & LED Lighting",
+      "category": "Other",
+      "price": 101500,
+      "old_price": 125000,
+      "discount_percent": 18,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/6007914/1.jpg?4071",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:50:17+00:00",
+      "link": "https://www.jumia.com.ng/triopo-kl-105cm-collapsible-beauty-dish-diffuser-quick-folding-softbox-for-studio-flash-led-lighting-419700608.html"
+    },
+    {
       "id": "21189f18e4532e41",
       "store": "Jumia",
       "title": "Sanda Original Quality & Super Authentic Men's Digital & Analog Alarm/Stopwatch Orange/Black Silicon Rubber Wristwatch For Honourable Citizens",
@@ -7521,6 +7885,20 @@
       "link": "https://www.jumia.com.ng/nivea-men-deep-body-lotion-400ml-117097332.html"
     },
     {
+      "id": "8fc2606f46c8cc6b",
+      "store": "Jumia",
+      "title": "Gaming/studio Desk With LED Lights 1.2meter",
+      "category": "Other",
+      "price": 165000,
+      "old_price": 200000,
+      "discount_percent": 17,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/97/5751024/1.jpg?3357",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:50:17+00:00",
+      "link": "https://www.jumia.com.ng/generic-gamingstudio-desk-with-led-lights-1.2meter-420157579.html"
+    },
+    {
       "id": "d64d2ad45881e9ab",
       "store": "Jumia",
       "title": "Extremely beautiful bodycon Long Gown for ladies",
@@ -7575,6 +7953,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:02+00:00",
       "link": "https://www.jumia.com.ng/zealot-s67-portable-bluetooth-boombox-speaker-75w-grey-green-418534169.html"
+    },
+    {
+      "id": "d0c8d6d31a954787",
+      "store": "Jumia",
+      "title": "Hypo 1000ml Lime Bottle (Hypo)",
+      "category": "Groceries",
+      "price": 2690,
+      "old_price": 3228,
+      "discount_percent": 16,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/08/4575914/1.jpg?3683",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-12T00:46:13+00:00",
+      "link": "https://www.jumia.com.ng/hypo-1000ml-lime-bottle-hypo-419575480.html"
     },
     {
       "id": "54d8de9fc3cc469e",
@@ -7703,6 +8095,20 @@
       "link": "https://www.jumia.com.ng/standing-fan-18-inches-solitec-mpg10055692.html"
     },
     {
+      "id": "1cf49c6037d4be3c",
+      "store": "Jumia",
+      "title": "130ah GEL solar inverter battery",
+      "category": "Other",
+      "price": 107500,
+      "old_price": 127300,
+      "discount_percent": 15,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/38/1347814/1.jpg?7297",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-14T20:46:00+00:00",
+      "link": "https://www.jumia.com.ng/generic-130ah-gel-solar-inverter-battery-418743183.html"
+    },
+    {
       "id": "b2bc5dfceb5c0671",
       "store": "Jumia",
       "title": "NIVEA Nourishing Cocoa Body Lotion For Women - 400ml",
@@ -7815,6 +8221,20 @@
       "link": "https://www.jumia.com.ng/table-top-glass-gas-cooker-2-burner-century-mpg1238358.html"
     },
     {
+      "id": "c7418324e611b60a",
+      "store": "Jumia",
+      "title": "itel Energy Power Go Pro 100,000mAh 320Wh 200W AC + DC 133W Portable Power Station, LiFePO4 IESS-320ACT",
+      "category": "Phones",
+      "price": 144940,
+      "old_price": 170000,
+      "discount_percent": 14,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/52/1381024/1.jpg?3945",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-12T20:35:21+00:00",
+      "link": "https://www.jumia.com.ng/itel-energy-power-go-pro-100000mah-320wh-200w-ac-dc-133w-portable-power-station-lifepo4-iess-320act-420183125.html"
+    },
+    {
       "id": "27ec0175f5ed368f",
       "store": "Jumia",
       "title": "Mi+ (MIJ-D5030V) 50” VIDAA Smart 4K UHD LED TV – VIDAA OS, Bluetooth, HDR, HDMI, USB + 12 MONTHS WARRANTY",
@@ -7855,6 +8275,20 @@
       "ends_at": null,
       "first_seen": "2026-10-22T16:52:35+00:00",
       "link": "https://www.jumia.com.ng/generic-wireless-keyboard-case-for-samsung-galaxy-tab-a11-plus-a9-plus-black-420322262.html"
+    },
+    {
+      "id": "9235445b17ebccda",
+      "store": "Jumia",
+      "title": "Top Quality Portable Steam Sauna",
+      "category": "Other",
+      "price": 160000,
+      "old_price": 185000,
+      "discount_percent": 13,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/86/968609/1.jpg?8860",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:50:17+00:00",
+      "link": "https://www.jumia.com.ng/top-quality-portable-steam-sauna-generic-mpg12047598.html"
     },
     {
       "id": "2d8a9bafdb06efba",
@@ -8093,6 +8527,20 @@
       "ends_at": null,
       "first_seen": "2026-10-12T12:57:20+00:00",
       "link": "https://www.jumia.com.ng/solitec-18-standing-fan-plus-404802075.html"
+    },
+    {
+      "id": "46933f30d2378a28",
+      "store": "Jumia",
+      "title": "8PM Fire 75cl",
+      "category": "Groceries",
+      "price": 6436,
+      "old_price": 7332,
+      "discount_percent": 12,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/60/9437814/1.jpg?8793",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-22T20:51:19+00:00",
+      "link": "https://www.jumia.com.ng/8pm-fire-75cl-418734906.html"
     },
     {
       "id": "c6bc794dc21314b4",
@@ -8345,10 +8793,10 @@
       "title": "London to Abuja one-way flight, 13 Nov (2 stops)",
       "category": "Travel",
       "store": "Aviasales",
-      "price": 528399,
-      "old_price": 528399,
+      "price": 528434,
+      "old_price": 528434,
       "promo_code": null,
-      "link": "https://www.aviasales.com/search/LON1311ABV1?t=AH17946063001794871500004360LGWBCNALGABV_0ce5ff31253d34078d6176c2e4be1c2d_32334&search_date=22102026&expected_price_uuid=01a163a2-d054-8030-ae3b-6bf84af4a349&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NU851wYlSM5J3CICbn803w&expected_price_source=share&expected_price_currency=ngn&expected_price=528399&marker=585767",
+      "link": "https://www.aviasales.com/search/LON1311ABV1?t=AH17946063001794871500004360LGWBCNALGABV_0ce5ff31253d34078d6176c2e4be1c2d_32334&search_date=22102026&expected_price_uuid=01a163a2-d054-8030-ae3b-6bf84af4a349&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NU851wYlSM5J3CICbn803w&expected_price_source=share&expected_price_currency=ngn&expected_price=528434&marker=585767",
       "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNDAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMxZDZiNWEiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM5ZmQzYjgiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0idXJsKCNnKSIvPjxjaXJjbGUgY3g9IjMzNSIgY3k9IjE2NSIgcj0iMzAiIGZpbGw9IiNmZmYiIG9wYWNpdHk9Ii4yNSIvPjxwYXRoIGQ9Ik00MCAyNTAgUTIwMCAxMjAgMzYwIDIwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1kYXNoYXJyYXk9IjIgMTAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iLjgiLz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyNTAgMTUwKSByb3RhdGUoMTUpIiBmaWxsPSIjZmZmIj48cGF0aCBkPSJNLTM4IC00IEwyMiAtNCBRMzggLTQgNDIgMCBRMzggNCAyMiA0IEwtMzggNCBRLTQyIDAgLTM4IC00WiIvPjxwYXRoIGQ9Ik0tMiAtMyBMLTIwIC0zNCBMLTEwIC0zNCBMMTYgLTNaIi8+PHBhdGggZD0iTS0yIDMgTC0yMCAzNCBMLTEwIDM0IEwxNiAzWiIvPjxwYXRoIGQ9Ik0tMzQgLTMgTC00MiAtMTYgTC0zNiAtMTYgTC0yNiAtM1oiLz48cGF0aCBkPSJNLTM0IDMgTC00MiAxNiBMLTM2IDE2IEwtMjYgM1oiLz48L2c+PGcgZmlsbD0iIzAwMCIgb3BhY2l0eT0iLjIyIj48cmVjdCB4PSIwIiB5PSIzMzAiIHdpZHRoPSIyNiIgaGVpZ2h0PSI3MCIgcng9IjIiLz48cmVjdCB4PSIzMCIgeT0iMjkwIiB3aWR0aD0iMzMiIGhlaWdodD0iMTEwIiByeD0iMiIvPjxyZWN0IHg9IjY3IiB5PSIzMTUiIHdpZHRoPSIyOCIgaGVpZ2h0PSI4NSIgcng9IjIiLz48cmVjdCB4PSI5OSIgeT0iMjYwIiB3aWR0aD0iMzUiIGhlaWdodD0iMTQwIiByeD0iMiIvPjxyZWN0IHg9IjEzOCIgeT0iMzQwIiB3aWR0aD0iMzAiIGhlaWdodD0iNjAiIHJ4PSIyIi8+PHJlY3QgeD0iMTcyIiB5PSIyODAiIHdpZHRoPSIzNyIgaGVpZ2h0PSIxMjAiIHJ4PSIyIi8+PHJlY3QgeD0iMjEzIiB5PSIzMDUiIHdpZHRoPSIzMiIgaGVpZ2h0PSI5NSIgcng9IjIiLz48cmVjdCB4PSIyNDkiIHk9IjI1MCIgd2lkdGg9IjI3IiBoZWlnaHQ9IjE1MCIgcng9IjIiLz48cmVjdCB4PSIyODAiIHk9IjMyNSIgd2lkdGg9IjM0IiBoZWlnaHQ9Ijc1IiByeD0iMiIvPjxyZWN0IHg9IjMxOCIgeT0iMjk1IiB3aWR0aD0iMjkiIGhlaWdodD0iMTA1IiByeD0iMiIvPjxyZWN0IHg9IjM1MSIgeT0iMzM1IiB3aWR0aD0iMzYiIGhlaWdodD0iNjUiIHJ4PSIyIi8+PHJlY3QgeD0iMzkxIiB5PSIyNzUiIHdpZHRoPSIzMSIgaGVpZ2h0PSIxMjUiIHJ4PSIyIi8+PHJlY3QgeD0iNDI2IiB5PSIzMTAiIHdpZHRoPSIyNiIgaGVpZ2h0PSI5MCIgcng9IjIiLz48L2c+PHRleHQgeD0iMzIiIHk9IjcwIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iNTIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNmZmYiPkxPTiDihpIgQUJWPC90ZXh0Pjx0ZXh0IHg9IjMyIiB5PSIxMDgiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIyNCIgZmlsbD0iI2ZmZiI+TG9uZG9uIHRvIEFidWphPC90ZXh0Pjx0ZXh0IHg9IjMyIiB5PSIzNzIiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIyMCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZiI+4pyIIEZMSUdIVCBERUFMPC90ZXh0Pjwvc3ZnPg==",
       "ends_at": null
     },
