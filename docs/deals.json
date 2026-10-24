@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T04:50:23+00:00",
-  "count": 1047,
+  "updated_at": "2026-10-24T08:52:08+00:00",
+  "count": 1039,
   "deals": [
     {
       "id": "d76650e655978d25",
@@ -43,20 +43,6 @@
       "ends_at": null,
       "first_seen": "2026-10-23T08:53:33+00:00",
       "link": "https://www.jumia.com.ng/vic-fingerprint-touch-5.3-earphone-wireless-hifi-stereo-headsets.-419151343.html"
-    },
-    {
-      "id": "16ab1ee17aa868e8",
-      "store": "Jumia",
-      "title": "13PCS Complete Makeup Brush Kit With Storage Bag",
-      "category": "Beauty & Health",
-      "price": 1200,
-      "old_price": 9994,
-      "discount_percent": 87,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/22/5004591/1.jpg?5820",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:14:58+00:00",
-      "link": "https://www.jumia.com.ng/13pcs-makeup-brush-kit-with-storage-bag-eyeshadow-eyebrow-generic-mpg10727934.html"
     },
     {
       "id": "6f4af2840a1b5272",
@@ -633,6 +619,20 @@
       "link": "https://www.jumia.com.ng/ultra-7-in-1-watch-band-smart-watch-49mm-series-8-ultra-smart-watch-49mm-tilecc-mpg12097186.html"
     },
     {
+      "id": "51b4755f01093939",
+      "store": "Jumia",
+      "title": "Mini Portable Handheld Facial Moisturizer For Ladies",
+      "category": "Beauty & Health",
+      "price": 2899,
+      "old_price": 11520,
+      "discount_percent": 74,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/11/5117914/1.jpg?0382",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-23T13:02:14+00:00",
+      "link": "https://www.jumia.com.ng/generic-mini-portable-handheld-facial-moisturizer-for-ladies-419711511.html"
+    },
+    {
       "id": "f1304d4b07ccc617",
       "store": "Jumia",
       "title": "HipHop Dreadlock Braiding Strings – Colorful Hair Styling Accessories For Men & Women",
@@ -645,20 +645,6 @@
       "ends_at": null,
       "first_seen": "2026-10-23T13:02:14+00:00",
       "link": "https://www.jumia.com.ng/generic-hiphop-dreadlock-braiding-strings-colorful-hair-styling-accessories-for-men-women-419050657.html"
-    },
-    {
-      "id": "51b4755f01093939",
-      "store": "Jumia",
-      "title": "Mini Portable Handheld Facial Moisturizer For Ladies",
-      "category": "Beauty & Health",
-      "price": 2949,
-      "old_price": 11520,
-      "discount_percent": 74,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/11/5117914/1.jpg?0382",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-23T13:02:14+00:00",
-      "link": "https://www.jumia.com.ng/generic-mini-portable-handheld-facial-moisturizer-for-ladies-419711511.html"
     },
     {
       "id": "1b8dabc2e5bccc62",
@@ -1025,20 +1011,6 @@
       "link": "https://www.jumia.com.ng/sikitut-42pcs-professional-makeup-brush-set-tools-kit-complete-collection-with-cosmetic-bag-419373733.html"
     },
     {
-      "id": "e37f29f49dfbedfe",
-      "store": "Jumia",
-      "title": "TOUPHY Hair Clipper/Rechargeable Hair Trimmer/Shaving Machine",
-      "category": "Beauty & Health",
-      "price": 5357,
-      "old_price": 18000,
-      "discount_percent": 70,
-      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/28/9509733/1.jpg?8497",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:14:58+00:00",
-      "link": "https://www.jumia.com.ng/touphy-hair-clipperrechargeable-hair-trimmershaving-machine-337905982.html"
-    },
-    {
       "id": "4343eaef7ebac625",
       "store": "Jumia",
       "title": "QCWOLVES 2L Industrial 8500W Food Crusher Blender with 2 Jar, 2-in-1 Food Jug Blender & Dry Grinder Blender for Smoothie, Ice Crush, Milkshake, Coffee/Spice Grind",
@@ -1165,20 +1137,6 @@
       "link": "https://www.jumia.com.ng/generic-universal-power-adapter-converter-travel-socket-charger-plug-100970329.html"
     },
     {
-      "id": "7b50d88d0d13e064",
-      "store": "Jumia",
-      "title": "MK ✔ Ultra 66W (50000Max)40000mAh Power Bank+ 66W Super Output+ 100% Screen+ LED Light+ 8 USB Ports Battery Type-C",
-      "category": "Phones",
-      "price": 17911,
-      "old_price": 57600,
-      "discount_percent": 68,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/00/1531914/1.jpg?3413",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:48+00:00",
-      "link": "https://www.jumia.com.ng/mk-ultra-66w-50000max40000mah-power-bank-66w-super-output-100-screen-led-light-8-usb-ports-battery-type-c-419135100.html"
-    },
-    {
       "id": "fdf9cc13860c6b80",
       "store": "Jumia",
       "title": "P47 5.0 Super Wireless Bluetooth Stereo Foldable Headphone-black",
@@ -1289,20 +1247,6 @@
       "ends_at": null,
       "first_seen": "2026-10-22T20:51:49+00:00",
       "link": "https://www.jumia.com.ng/fashion-moonstone-heart-pendant-necklace-for-women-dainty-silver-tone-chain-romantic-birthday-gift-for-her-404560267.html"
-    },
-    {
-      "id": "888c612968913d4c",
-      "store": "Jumia",
-      "title": "SupDevice 1pc Open-Ear Clip-On Wireless Single-Ear Earbud - Clear Calls, Long Battery Life, Lightweight & Secure Fit for Sports, Driving & Working & Daily Use, Black",
-      "category": "Phones",
-      "price": 3719,
-      "old_price": 11520,
-      "discount_percent": 67,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/6048914/1.jpg?2193",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-23T13:01:14+00:00",
-      "link": "https://www.jumia.com.ng/supdevice-1pc-open-ear-clip-on-wireless-single-ear-earbud-clear-calls-long-battery-life-lightweight-secure-fit-for-sports-driving-working-daily-use-black-419840657.html"
     },
     {
       "id": "fe36a4042f4c3dca",
@@ -1443,6 +1387,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:13:56+00:00",
       "link": "https://www.jumia.com.ng/mi-mij3250-32inches-frameless-hd-led-tv-12-months-warranty-black-419698943.html"
+    },
+    {
+      "id": "e37f29f49dfbedfe",
+      "store": "Jumia",
+      "title": "TOUPHY Hair Clipper/Rechargeable Hair Trimmer/Shaving Machine",
+      "category": "Beauty & Health",
+      "price": 5990,
+      "old_price": 18000,
+      "discount_percent": 66,
+      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/28/9509733/1.jpg?8497",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:14:58+00:00",
+      "link": "https://www.jumia.com.ng/touphy-hair-clipperrechargeable-hair-trimmershaving-machine-337905982.html"
     },
     {
       "id": "20602374cc2ee94d",
@@ -1737,6 +1695,20 @@
       "ends_at": null,
       "first_seen": "2026-10-23T13:01:14+00:00",
       "link": "https://www.jumia.com.ng/mk-r-top-60000mahs-power-bank-78w-super-output-100-screen-big-led-light-super-cables-8-usb-ports-battery-type-c-419988350.html"
+    },
+    {
+      "id": "888c612968913d4c",
+      "store": "Jumia",
+      "title": "SupDevice 1pc Open-Ear Clip-On Wireless Single-Ear Earbud - Clear Calls, Long Battery Life, Lightweight & Secure Fit for Sports, Driving & Working & Daily Use, Black",
+      "category": "Phones",
+      "price": 4099,
+      "old_price": 11520,
+      "discount_percent": 64,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/75/6048914/1.jpg?2193",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-23T13:01:14+00:00",
+      "link": "https://www.jumia.com.ng/supdevice-1pc-open-ear-clip-on-wireless-single-ear-earbud-clear-calls-long-battery-life-lightweight-secure-fit-for-sports-driving-working-daily-use-black-419840657.html"
     },
     {
       "id": "63cca5286987d5cf",
@@ -2409,20 +2381,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:55+00:00",
       "link": "https://www.jumia.com.ng/touphy-2-piece-mens-cotton-t-shirt-setmens-short-sleeve-419033328.html"
-    },
-    {
-      "id": "9da73735aaa6eff9",
-      "store": "Jumia",
-      "title": "Bolizma Portable Charger Power Bank, 20000mAh Battery, PowerIQ, 2 USB-A, 1 Micro USB, 1 USB-C Ports for iPhone Series, AirPods, Android Phone and More",
-      "category": "Phones",
-      "price": 5760,
-      "old_price": 14400,
-      "discount_percent": 60,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/93/5947814/1.jpg?1851",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-13T04:37:09+00:00",
-      "link": "https://www.jumia.com.ng/bolizma-portable-charger-power-bank-20000mah-battery-poweriq-2-usb-a-1-micro-usb-1-usb-c-ports-for-iphone-series-airpods-android-phone-and-more-418749539.html"
     },
     {
       "id": "0a6822d54c98f023",
@@ -3454,7 +3412,7 @@
       "price": 1950,
       "old_price": 4390,
       "discount_percent": 55,
-      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/44/2853704/1.jpg?4456",
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/44/2853704/1.jpg?4456",
       "promo_code": null,
       "ends_at": null,
       "first_seen": "2026-10-15T20:47:57+00:00",
@@ -3571,6 +3529,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:13:48+00:00",
       "link": "https://www.jumia.com.ng/generic-wireless-bluetooth-touch-control-led-digital-earphones-tws-302906723.html"
+    },
+    {
+      "id": "b862b03735eb1d86",
+      "store": "Jumia",
+      "title": "Boys' Summer Basketball Tank Top Shorts Sports Set - Yellow",
+      "category": "Fashion",
+      "price": 4520,
+      "old_price": 10080,
+      "discount_percent": 55,
+      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/45/2145814/1.jpg?7304",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:14:51+00:00",
+      "link": "https://www.jumia.com.ng/fashion-boys-summer-basketball-tank-top-shorts-sports-set-yellow-418541254.html"
     },
     {
       "id": "5932cb9d2336351c",
@@ -4593,20 +4565,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:02+00:00",
       "link": "https://www.jumia.com.ng/aec-hifi-bluetooth-headsets-built-in-microphone-noise-cancelling-232597195.html"
-    },
-    {
-      "id": "b862b03735eb1d86",
-      "store": "Jumia",
-      "title": "Boys' Summer Basketball Tank Top Shorts Sports Set - Yellow",
-      "category": "Fashion",
-      "price": 4980,
-      "old_price": 10080,
-      "discount_percent": 50,
-      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/45/2145814/1.jpg?7304",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:14:51+00:00",
-      "link": "https://www.jumia.com.ng/fashion-boys-summer-basketball-tank-top-shorts-sports-set-yellow-418541254.html"
     },
     {
       "id": "a1658277b7fb9d22",
@@ -6541,6 +6499,20 @@
       "link": "https://www.jumia.com.ng/fashion-4-in-1-unisex-plain-round-neck-polo-t-shirt-409359563.html"
     },
     {
+      "id": "c5a1a9ffe51bb71a",
+      "store": "Jumia",
+      "title": "Zealot P1 Portable Wireless Speaker BT 5.0 Speakers TWS Series Stereo Scene HiFi Sound",
+      "category": "Electronics",
+      "price": 41165,
+      "old_price": 69999,
+      "discount_percent": 41,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/34/6508372/1.jpg?5726",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-24T08:50:38+00:00",
+      "link": "https://www.jumia.com.ng/zealot-p1-portable-wireless-speaker-bt-5.0-speakers-tws-series-stereo-scene-hifi-sound-273805643.html"
+    },
+    {
       "id": "424656b4682b170c",
       "store": "Jumia",
       "title": "CAT6 CABLE 100% COPPER OUTDOOR 305M SFTP",
@@ -6581,6 +6553,20 @@
       "ends_at": null,
       "first_seen": "2026-10-12T16:34:43+00:00",
       "link": "https://www.jumia.com.ng/singleton-of-dufftown-12-year-old-70cl-83821457.html"
+    },
+    {
+      "id": "c1e8c237ff251510",
+      "store": "Jumia",
+      "title": "Professional Barber Cape, Large Size 160×140cm Salon Hair Cutting Cape, Anti-Static Waterproof Hairdressing Apron for Haircut & Hair Coloring",
+      "category": "Beauty & Health",
+      "price": 6280,
+      "old_price": 10640,
+      "discount_percent": 40,
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/04/6456814/1.jpg?9768",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-23T13:02:14+00:00",
+      "link": "https://www.jumia.com.ng/generic-professional-barber-cape-large-size-160140cm-salon-hair-cutting-cape-anti-static-waterproof-hairdressing-apron-for-haircut-hair-coloring-418654640.html"
     },
     {
       "id": "faaea8dd298e8e17",
@@ -6749,20 +6735,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:13:48+00:00",
       "link": "https://www.jumia.com.ng/traveler-12-byte-power-bank-20000mah-large-power-display-12w-charging-portable-fast-oraimo-mpg11495048.html"
-    },
-    {
-      "id": "c1e8c237ff251510",
-      "store": "Jumia",
-      "title": "Professional Barber Cape, Large Size 160×140cm Salon Hair Cutting Cape, Anti-Static Waterproof Hairdressing Apron for Haircut & Hair Coloring",
-      "category": "Beauty & Health",
-      "price": 6380,
-      "old_price": 10640,
-      "discount_percent": 40,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/04/6456814/1.jpg?9768",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-23T13:02:14+00:00",
-      "link": "https://www.jumia.com.ng/generic-professional-barber-cape-large-size-160140cm-salon-hair-cutting-cape-anti-static-waterproof-hairdressing-apron-for-haircut-hair-coloring-418654640.html"
     },
     {
       "id": "ab46b801161c48a3",
@@ -7493,20 +7465,6 @@
       "link": "https://www.jumia.com.ng/generic-168w-uv-led-nail-lamp-fast-dryers9pcs-manicure-tools-280740280.html"
     },
     {
-      "id": "91af27ff5c007dba",
-      "store": "Jumia",
-      "title": "Ace Elec 20000 MAh Utra Slim Portable Power Bank -Type C Dual input and Output",
-      "category": "Phones",
-      "price": 7650,
-      "old_price": 12000,
-      "discount_percent": 36,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/59/5142914/1.jpg?5950",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:46+00:00",
-      "link": "https://www.jumia.com.ng/20000-mah-utra-slim-portable-power-bank-ace-elec-mpg11495891.html"
-    },
-    {
       "id": "e815e6509a4e7add",
       "store": "Jumia",
       "title": "1Pcs Outdoor Sports Knee Brace Breathable And Protective",
@@ -7561,20 +7519,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:13:56+00:00",
       "link": "https://www.jumia.com.ng/generic-sonivia-bluetooth-home-theater-sound-system-with-extra-bass.-420233631.html"
-    },
-    {
-      "id": "ae7c7281c48be8c2",
-      "store": "Jumia",
-      "title": "C Idea 30000mAh Cheap Long Standby Portable Powerbank",
-      "category": "Phones",
-      "price": 11520,
-      "old_price": 18000,
-      "discount_percent": 36,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/57/6452804/1.jpg?5610",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-12T20:35:31+00:00",
-      "link": "https://www.jumia.com.ng/c-idea-30000mah-cheap-long-standby-portable-powerbank-408254675.html"
     },
     {
       "id": "6ccf57e7aa5abc2e",
@@ -8653,20 +8597,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:58+00:00",
       "link": "https://www.jumia.com.ng/nourishing-cocoa-body-lotion-400ml-free-dry-fresh-roll-on-for-men-50ml-nivea-mpg1657713.html"
-    },
-    {
-      "id": "362182b4d7378f71",
-      "store": "Jumia",
-      "title": "Smart Watch Bluetooth Call Touch Screen Waterproof Fitness",
-      "category": "Electronics",
-      "price": 5760,
-      "old_price": 8352,
-      "discount_percent": 31,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/56/8333914/1.jpg?9632",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-22T20:51:02+00:00",
-      "link": "https://www.jumia.com.ng/generic-smart-watch-bluetooth-call-touch-screen-waterproof-fitness-419333865.html"
     },
     {
       "id": "66b0b14c7c2cf962",
@@ -10790,7 +10720,7 @@
       "price": 25574,
       "old_price": 33495,
       "discount_percent": 23,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/37/612838/1.jpg?2377",
+      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/37/612838/1.jpg?2377",
       "promo_code": null,
       "ends_at": null,
       "first_seen": "2026-10-20T13:05:12+00:00",
@@ -11693,20 +11623,6 @@
       "link": "https://www.jumia.com.ng/william-lawsons-finest-blended-scotch-whisky-75cl-83118629.html"
     },
     {
-      "id": "f403437a16e97018",
-      "store": "Jumia",
-      "title": "BoomBest 1036 BigBOOM XL Xtra large size Wireless Bluetooth Speaker, 100WMax Dual Drivers, Deep Bass, USB/FM/AUX/TF, Portable Party Sound Syst- Zealot Killer",
-      "category": "Electronics",
-      "price": 25600,
-      "old_price": 33000,
-      "discount_percent": 22,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/14/2541814/1.jpg?9549",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-12T20:35:50+00:00",
-      "link": "https://www.jumia.com.ng/boombest-1036-bigboom-xl-xtra-large-size-wireless-bluetooth-speaker-100wmax-dual-drivers-deep-bass-usbfmauxtf-portable-party-sound-syst-zealot-killer-418145241.html"
-    },
-    {
       "id": "fc4ce054d669ce83",
       "store": "Jumia",
       "title": "Baofeng Standard Security Alert 10-Pieces Security Phone BF-888s Walkie Talkie With Earpieces",
@@ -12195,20 +12111,6 @@
       "ends_at": null,
       "first_seen": "2026-10-23T16:53:04+00:00",
       "link": "https://www.jumia.com.ng/charweek-solar-rechargeable-fan-with-bulb-and-panel-420348676.html"
-    },
-    {
-      "id": "ee7d2bd2080e0bbb",
-      "store": "Jumia",
-      "title": "NIVEA Crème Soft Shower Gel - 500ml",
-      "category": "Beauty & Health",
-      "price": 5555,
-      "old_price": 6940,
-      "discount_percent": 19,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/0433401/1.jpg?7784",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:15:05+00:00",
-      "link": "https://www.jumia.com.ng/nivea-creme-soft-shower-gel-500ml-104334052.html"
     },
     {
       "id": "ad48e18775923a35",
@@ -13539,20 +13441,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:15:05+00:00",
       "link": "https://www.jumia.com.ng/veet-normal-hair-removal-cream-100ml-92723165.html"
-    },
-    {
-      "id": "8abf6f9fb4bc4984",
-      "store": "Jumia",
-      "title": "MUSCLEA Whey Protein Powder 500G  - Build & Repair Muscle - 500G",
-      "category": "Beauty & Health",
-      "price": 19500,
-      "old_price": 22500,
-      "discount_percent": 13,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/24/3991914/1.jpg?9403",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-22T16:53:58+00:00",
-      "link": "https://www.jumia.com.ng/musclea-whey-protein-powder-500g-build-repair-muscle-500g-419199342.html"
     },
     {
       "id": "533bdd568c3c4c17",
