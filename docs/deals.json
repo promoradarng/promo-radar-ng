@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T01:15:33+00:00",
-  "count": 977,
+  "updated_at": "2026-10-26T04:55:29+00:00",
+  "count": 971,
   "deals": [
     {
       "id": "56813b07d2293192",
@@ -21,9 +21,9 @@
       "store": "Jumia",
       "title": "SupDevice Authentic 20000mAh High-Capacity Portable Charger, 3-Output (USB1+USB2+Type-C), Quick Charge 3.0, 5V/9V/12V, Universal Battery Bank for Android & iOS - HTY-12/13/15,Black",
       "category": "Phones",
-      "price": 8828,
+      "price": 8350,
       "old_price": 64800,
-      "discount_percent": 86,
+      "discount_percent": 87,
       "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/77/8800024/1.jpg?0439",
       "promo_code": null,
       "ends_at": null,
@@ -353,6 +353,20 @@
       "link": "https://www.jumia.com.ng/generic-original-solar-powered-dual-lens-ptz-cctv-camera-v380-418635881.html"
     },
     {
+      "id": "9f72518b1668f3a4",
+      "store": "Jumia",
+      "title": "MK ® Top 40000mAh Power Bank+ 78W Super Output+ 100% Screen+ LED Light+ 8 USB Ports Battery Type-C.",
+      "category": "Phones",
+      "price": 16110,
+      "old_price": 72000,
+      "discount_percent": 77,
+      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/95/3889914/1.jpg?8501",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-15T16:49:23+00:00",
+      "link": "https://www.jumia.com.ng/mk-r-top-40000mah-power-bank-78w-super-output-100-screen-led-light-8-usb-ports-battery-type-c.-419988359.html"
+    },
+    {
       "id": "c6611d88280258cd",
       "store": "Jumia",
       "title": "Double Sided Vegetable Slicer Kitchen Shredder Fruit Cutter Potato Peeler Carrot",
@@ -463,20 +477,6 @@
       "ends_at": null,
       "first_seen": "2026-10-25T16:50:37+00:00",
       "link": "https://www.jumia.com.ng/fashion-men-small-wallet-soft-leather-clip-trendy-418995993.html"
-    },
-    {
-      "id": "9f72518b1668f3a4",
-      "store": "Jumia",
-      "title": "MK ® Top 40000mAh Power Bank+ 78W Super Output+ 100% Screen+ LED Light+ 8 USB Ports Battery Type-C.",
-      "category": "Phones",
-      "price": 17323,
-      "old_price": 72000,
-      "discount_percent": 75,
-      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/95/3889914/1.jpg?8501",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-15T16:49:23+00:00",
-      "link": "https://www.jumia.com.ng/mk-r-top-40000mah-power-bank-78w-super-output-100-screen-led-light-8-usb-ports-battery-type-c.-419988359.html"
     },
     {
       "id": "2dea13b714590414",
@@ -1347,20 +1347,6 @@
       "link": "https://www.jumia.com.ng/mktel-b310-white-small-phonebutton-phone1.77-inch-dual-sim1200mah-big-batterytorch-lightfm-radio-gsm-mobile-phone-419142379.html"
     },
     {
-      "id": "fb806ff62255fe1c",
-      "store": "Jumia",
-      "title": "P9 Wireless Bluetooth Headset Noise Reduction Earphone Black",
-      "category": "Phones",
-      "price": 3840,
-      "old_price": 11621,
-      "discount_percent": 66,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/8159203/1.jpg?3815",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:48+00:00",
-      "link": "https://www.jumia.com.ng/generic-p9-wireless-bluetooth-headset-noise-reduction-earphone-black-302951808.html"
-    },
-    {
       "id": "e48a59fc08acd322",
       "store": "Jumia",
       "title": "Synzida  Wireless Bluetooth Earbuds with Charging Case, In Ear Eeadphones with Deep Bass, Built-in Microphone, Stable 15M Connection, Lightweight Sports Earphones for Music, Calls, Travel and Daily Use",
@@ -1401,20 +1387,6 @@
       "ends_at": null,
       "first_seen": "2026-10-14T20:46:22+00:00",
       "link": "https://www.jumia.com.ng/12pcs-mobile-gaming-thumb-sleeve-sets-wasp-feelers6-pair-generic-mpg5989810.html"
-    },
-    {
-      "id": "05d0e1b8cbac50db",
-      "store": "Jumia",
-      "title": "Mi+  MIJ3250 32''Inches Frameless HD LED TV 12 Months Warranty - Black",
-      "category": "Electronics",
-      "price": 82999,
-      "old_price": 250000,
-      "discount_percent": 66,
-      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/34/9896914/3.jpg?1572",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:56+00:00",
-      "link": "https://www.jumia.com.ng/mi-mij3250-32inches-frameless-hd-led-tv-12-months-warranty-black-419698943.html"
     },
     {
       "id": "6f4af2840a1b5272",
@@ -1471,20 +1443,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:13:46+00:00",
       "link": "https://www.jumia.com.ng/wireless-earbuds-with-long-battery-life-universal-phone-control-voice-call-noise-reduction-wireless-earphones-for-sports-with-button-volume-control-crystal-microphone-45mah-lithium-polymer-battery-suitable-for-all-smartphones-blac-generic-mpg12038351.html"
-    },
-    {
-      "id": "578f3b30875d9a9b",
-      "store": "Jumia",
-      "title": "P9 Wireless Bluetooth Headset Noise Reduction Earphone White",
-      "category": "Phones",
-      "price": 3840,
-      "old_price": 11477,
-      "discount_percent": 66,
-      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/09/4759203/1.jpg?3849",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-25T04:51:00+00:00",
-      "link": "https://www.jumia.com.ng/generic-p9-wireless-bluetooth-headset-noise-reduction-earphone-white-302957490.html"
     },
     {
       "id": "2cc2b3cd3b6039e9",
@@ -1751,6 +1709,20 @@
       "ends_at": null,
       "first_seen": "2026-10-23T13:01:14+00:00",
       "link": "https://www.jumia.com.ng/mk-r-top-60000mahs-power-bank-78w-super-output-100-screen-big-led-light-super-cables-8-usb-ports-battery-type-c-419988350.html"
+    },
+    {
+      "id": "05d0e1b8cbac50db",
+      "store": "Jumia",
+      "title": "Mi+  MIJ3250 32''Inches Frameless HD LED TV 12 Months Warranty - Black",
+      "category": "Electronics",
+      "price": 88999,
+      "old_price": 250000,
+      "discount_percent": 64,
+      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/34/9896914/3.jpg?1572",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:56+00:00",
+      "link": "https://www.jumia.com.ng/mi-mij3250-32inches-frameless-hd-led-tv-12-months-warranty-black-419698943.html"
     },
     {
       "id": "4451fbbb9bf101f3",
@@ -2507,20 +2479,6 @@
       "ends_at": null,
       "first_seen": "2026-10-23T13:02:02+00:00",
       "link": "https://www.jumia.com.ng/fashion-women-shoes-flat-sandals-girl-shoes-279398300.html"
-    },
-    {
-      "id": "9da73735aaa6eff9",
-      "store": "Jumia",
-      "title": "Bolizma Portable Charger Power Bank, 20000mAh Battery, PowerIQ, 2 USB-A, 1 Micro USB, 1 USB-C Ports for iPhone Series, AirPods, Android Phone and More",
-      "category": "Phones",
-      "price": 5760,
-      "old_price": 14400,
-      "discount_percent": 60,
-      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/93/5947814/1.jpg?1851",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-13T04:37:09+00:00",
-      "link": "https://www.jumia.com.ng/bolizma-portable-charger-power-bank-20000mah-battery-poweriq-2-usb-a-1-micro-usb-1-usb-c-ports-for-iphone-series-airpods-android-phone-and-more-418749539.html"
     },
     {
       "id": "0a6822d54c98f023",
@@ -3335,20 +3293,6 @@
       "link": "https://www.jumia.com.ng/olykas-2026-upper-arm-electronic-blood-pressure-machine-monitor-with-voice-function-397594794.html"
     },
     {
-      "id": "8d19f54c02267655",
-      "store": "Jumia",
-      "title": "LP LP Smart TV 32 , Android 14.0 , 1+8G, Frameless , HD, WiFi, 2 HDMI 2 USB Ports + 1 year warranty - Black",
-      "category": "Electronics",
-      "price": 101000,
-      "old_price": 230400,
-      "discount_percent": 56,
-      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/55/1729814/1.jpg?5407",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:56+00:00",
-      "link": "https://www.jumia.com.ng/lp-lp-smart-tv-32-android-14.0-18g-frameless-hd-wifi-2-hdmi-2-usb-ports-1-year-warranty-black-418927155.html"
-    },
-    {
       "id": "74a3e0367f4b6730",
       "store": "Jumia",
       "title": "CALLIARA Men's Embroidered Polo Shirt Classic Short Sleeve with Lion Badge",
@@ -3531,20 +3475,6 @@
       "link": "https://www.jumia.com.ng/generic-4pcs-stainless-steel-facial-acne-blackhead-remover-needles-kit-extractor-tool-set-234354648.html"
     },
     {
-      "id": "7ba65f20c4bde3ab",
-      "store": "Jumia",
-      "title": "Yinowo PC19 50000mAh power bank 22.5W Super Fast Charge with four charging ports（New version）",
-      "category": "Phones",
-      "price": 23715,
-      "old_price": 53280,
-      "discount_percent": 55,
-      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/73/7468814/1.jpg?2610",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:46+00:00",
-      "link": "https://www.jumia.com.ng/yinowo-pc19-50000mah-power-bank-22.5w-super-fast-charge-with-four-charging-portsnew-version-418864737.html"
-    },
-    {
       "id": "5d6ddbe856f239c1",
       "store": "Jumia",
       "title": "CYFAZA Dish Drying Rack, Metal 3-Tier Large Capacity Dish Rack with Utensil Holder, Cutting Board Holder, Draining Board Tray for Kitchen Counter Storage (Black)",
@@ -3683,6 +3613,20 @@
       "ends_at": null,
       "first_seen": "2026-10-23T13:01:26+00:00",
       "link": "https://www.jumia.com.ng/v380-pro-dual-lens-ptz-solar-camera-5.0mp-generic-mpg11349028.html"
+    },
+    {
+      "id": "8d19f54c02267655",
+      "store": "Jumia",
+      "title": "LP LP Smart TV 32 , Android 14.0 , 1+8G, Frameless , HD, WiFi, 2 HDMI 2 USB Ports + 1 year warranty - Black",
+      "category": "Electronics",
+      "price": 105000,
+      "old_price": 230400,
+      "discount_percent": 54,
+      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/55/1729814/1.jpg?5407",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:56+00:00",
+      "link": "https://www.jumia.com.ng/lp-lp-smart-tv-32-android-14.0-18g-frameless-hd-wifi-2-hdmi-2-usb-ports-1-year-warranty-black-418927155.html"
     },
     {
       "id": "1383447458d7d675",
@@ -4567,6 +4511,20 @@
       "link": "https://www.jumia.com.ng/fashion-seamless-shapewear-bodysuit-womens-tummy-control-body-shapers-309486537.html"
     },
     {
+      "id": "7ba65f20c4bde3ab",
+      "store": "Jumia",
+      "title": "Yinowo PC19 50000mAh power bank 22.5W Super Fast Charge with four charging ports（New version）",
+      "category": "Phones",
+      "price": 26101,
+      "old_price": 53280,
+      "discount_percent": 51,
+      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/73/7468814/1.jpg?2610",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:46+00:00",
+      "link": "https://www.jumia.com.ng/yinowo-pc19-50000mah-power-bank-22.5w-super-fast-charge-with-four-charging-portsnew-version-418864737.html"
+    },
+    {
       "id": "51ea08820a642623",
       "store": "Jumia",
       "title": "KingElec 30000mAh Power Banks Portable Super Fast Charger",
@@ -4845,20 +4803,6 @@
       "ends_at": null,
       "first_seen": "2026-10-23T13:01:14+00:00",
       "link": "https://www.jumia.com.ng/foomee-pa28-in-ear-tws-earbuds-feature-powerful-active-noise-cancellation-and-call-noise-reduction-anc-enc-20-hour-battery-life-and-bluetooth-5.4.-419086269.html"
-    },
-    {
-      "id": "8dcb8ff8466e7d41",
-      "store": "Jumia",
-      "title": "Cloudoon Kitchen Faucet Water Filter 6-Layer Purifier Tap Attachment for Sink–Pink",
-      "category": "Home & Kitchen",
-      "price": 3000,
-      "old_price": 6000,
-      "discount_percent": 50,
-      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/31/2495814/1.jpg?8490",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-12T00:46:06+00:00",
-      "link": "https://www.jumia.com.ng/cloudoon-kitchen-faucet-water-filter-6-layer-purifier-tap-attachment-for-sinkpink-418594213.html"
     },
     {
       "id": "58f7409aadbb95cb",
@@ -5575,20 +5519,6 @@
       "link": "https://www.jumia.com.ng/royal-43-inches-google-smart-tv-rtv43m10p-12-months-warranty-419084675.html"
     },
     {
-      "id": "2b73f8ddec16c76b",
-      "store": "Jumia",
-      "title": "LP Smart TV 43-Android 14.0-Frameless - Full HD - 1+8G - WiFi+Bluetooth-2 HDMI 2 USB Ports + 1 year warranty - Black",
-      "category": "Electronics",
-      "price": 183000,
-      "old_price": 341280,
-      "discount_percent": 46,
-      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/61/5692914/1.jpg?2740",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:56+00:00",
-      "link": "https://www.jumia.com.ng/lp-smart-tv-43-android-14.0-frameless-full-hd-18g-wifibluetooth-2-hdmi-2-usb-ports-1-year-warranty-black-419296516.html"
-    },
-    {
       "id": "282d432ee556af01",
       "store": "Jumia",
       "title": "TRENDING NOW! Stylish Men's Printed Short Sleeve Shirt Summer  Must-Have! ULTRA-SOFT Men's Casual Short Sleeve Shirt  Stretch Fabric  Anti-Odor Technology Exclusive Limited Stock!",
@@ -5657,20 +5587,6 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:13:48+00:00",
       "link": "https://www.jumia.com.ng/traveler-12-byte-power-bank-20000mah-large-power-display-12w-charging-portable-fast-oraimo-mpg11495048.html"
-    },
-    {
-      "id": "15e0c8e74bcd5736",
-      "store": "Jumia",
-      "title": "LP Smart TV 43-Android 14.0-Frameless - Full HD - 1+8G - WiFi+Bluetooth-2 HDMI 2 USB Ports + 1 year warranty - Black",
-      "category": "Electronics",
-      "price": 179200,
-      "old_price": 331200,
-      "discount_percent": 45,
-      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/25/3022914/1.jpg?5026",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:56+00:00",
-      "link": "https://www.jumia.com.ng/lp-smart-tv-43-android-14.0-frameless-full-hd-18g-wifibluetooth-2-hdmi-2-usb-ports-1-year-warranty-black-419220352.html"
     },
     {
       "id": "16efd8f437843927",
@@ -5881,6 +5797,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:13:46+00:00",
       "link": "https://www.jumia.com.ng/oukitel-c66-smartphone16gb412ram128gb-rom6.73hd64mp-ai-phoneandroid-16-4g-dual-sim-mobile-phones-with-free-casenfcgpsreverse-chargingdark-grey-419471075.html"
+    },
+    {
+      "id": "2b73f8ddec16c76b",
+      "store": "Jumia",
+      "title": "LP Smart TV 43-Android 14.0-Frameless - Full HD - 1+8G - WiFi+Bluetooth-2 HDMI 2 USB Ports + 1 year warranty - Black",
+      "category": "Electronics",
+      "price": 187100,
+      "old_price": 341280,
+      "discount_percent": 45,
+      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/61/5692914/1.jpg?2740",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:56+00:00",
+      "link": "https://www.jumia.com.ng/lp-smart-tv-43-android-14.0-frameless-full-hd-18g-wifibluetooth-2-hdmi-2-usb-ports-1-year-warranty-black-419296516.html"
     },
     {
       "id": "ae1502af608fac9e",
@@ -6667,20 +6597,6 @@
       "link": "https://www.jumia.com.ng/fashion-4-in-1-unisex-plain-round-neck-polo-t-shirt-409359563.html"
     },
     {
-      "id": "19b87636a6eea462",
-      "store": "Jumia",
-      "title": "LP LP 32 Digital TV,Frameless , 1366*768 Resolution, 2 HDMI + 2 USB Ports+ 12 MONTHS WARRANTY",
-      "category": "Electronics",
-      "price": 84000,
-      "old_price": 142560,
-      "discount_percent": 41,
-      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/42/5749814/1.jpg?8282",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:56+00:00",
-      "link": "https://www.jumia.com.ng/lp-lp-32-digital-tvframeless-1366768-resolution-2-hdmi-2-usb-ports-12-months-warranty-418947524.html"
-    },
-    {
       "id": "1ed67196d397031e",
       "store": "Jumia",
       "title": "Singleton of Dufftown 12 Year Old 70cl",
@@ -7085,6 +7001,20 @@
       "ends_at": null,
       "first_seen": "2026-10-11T21:14:02+00:00",
       "link": "https://www.jumia.com.ng/djack-super-bass-3-in-1-bluetooth-home-theater-dj-d3l-401074786.html"
+    },
+    {
+      "id": "19b87636a6eea462",
+      "store": "Jumia",
+      "title": "LP LP 32 Digital TV,Frameless , 1366*768 Resolution, 2 HDMI + 2 USB Ports+ 12 MONTHS WARRANTY",
+      "category": "Electronics",
+      "price": 87100,
+      "old_price": 142560,
+      "discount_percent": 38,
+      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/42/5749814/1.jpg?8282",
+      "promo_code": null,
+      "ends_at": null,
+      "first_seen": "2026-10-11T21:13:56+00:00",
+      "link": "https://www.jumia.com.ng/lp-lp-32-digital-tvframeless-1366768-resolution-2-hdmi-2-usb-ports-12-months-warranty-418947524.html"
     },
     {
       "id": "f2e2d75207e2d9bd",
@@ -13275,20 +13205,6 @@
       "link": "https://www.jumia.com.ng/poco-c85-6.9-6gb-ram-128gb-rom-xiaomi-hyperos-purple-419689551.html"
     },
     {
-      "id": "b357d0c34f05d02c",
-      "store": "Jumia",
-      "title": "Sunelan S18 1.8\" QQVGA Screen, Dual SIM, Game, Camera 25BL_Battery, 2000MAH -Black Red",
-      "category": "Phones",
-      "price": 7107,
-      "old_price": 8000,
-      "discount_percent": 11,
-      "image": "https://ng.jumia.is/unsafe/fit-in/520x520/filters:fill(white)/product/72/5774914/1.jpg?5674",
-      "promo_code": null,
-      "ends_at": null,
-      "first_seen": "2026-10-11T21:13:48+00:00",
-      "link": "https://www.jumia.com.ng/sunelan-s18-1.8-qqvga-screen-dual-sim-game-camera-25blbattery-2000mah-black-red-419477527.html"
-    },
-    {
       "id": "ff11d4dbccbbc642",
       "store": "Jumia",
       "title": "Sunelan S18 1.8\" QQVGA Screen, Dual SIM, Game, Camera 25BL_Battery, 2000MAH -Black",
@@ -13526,13 +13442,13 @@
     },
     {
       "id": "travel-abv-lon",
-      "title": "Abuja to London one-way flight, 10 Dec (direct)",
+      "title": "Abuja to London one-way flight, 29 Oct (2 stops)",
       "category": "Travel",
       "store": "Aviasales",
-      "price": 529835,
-      "old_price": 529835,
+      "price": 760151,
+      "old_price": 760151,
       "promo_code": null,
-      "link": "https://www.aviasales.com/search/ABV1012LON1?t=P417969004001796919000000370ABVLGW_896056c5f723be17470f1e92dec96dd8_33554&search_date=19102026&expected_price_uuid=01a15253-6cc2-8031-29b8-6cdc9b601f4a&static_fare_key=TY%7CP1%7CH0%7CL1_2_0%7CCH0%7CR0%7CTBC1&itinerary_key=LSMs_SIgEhxztI6zsxirbw&expected_price_source=share&expected_price_currency=ngn&expected_price=529835&marker=585767",
+      "link": "https://www.aviasales.com/search/ABV2910LON1?t=AT17932788001793341200001100ABVLOSCMNSTN_15e0278a92a71a6409a13ae74b035a43_46893&search_date=22102026&expected_price_uuid=01a1612e-a62a-8040-abdf-dac175d81d82&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=NuvgRqDeuOqjIpYzfLsqCQ&expected_price_source=share&expected_price_currency=ngn&expected_price=760151&marker=585767",
       "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNDAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMyZjVkOGEiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM4ZmI0ZDkiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0idXJsKCNnKSIvPjxjaXJjbGUgY3g9IjMzNSIgY3k9IjE2NSIgcj0iMzAiIGZpbGw9IiNmZmYiIG9wYWNpdHk9Ii4yNSIvPjxwYXRoIGQ9Ik00MCAyNTAgUTIwMCAxMjAgMzYwIDIwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1kYXNoYXJyYXk9IjIgMTAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iLjgiLz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyNTAgMTUwKSByb3RhdGUoMTUpIiBmaWxsPSIjZmZmIj48cGF0aCBkPSJNLTM4IC00IEwyMiAtNCBRMzggLTQgNDIgMCBRMzggNCAyMiA0IEwtMzggNCBRLTQyIDAgLTM4IC00WiIvPjxwYXRoIGQ9Ik0tMiAtMyBMLTIwIC0zNCBMLTEwIC0zNCBMMTYgLTNaIi8+PHBhdGggZD0iTS0yIDMgTC0yMCAzNCBMLTEwIDM0IEwxNiAzWiIvPjxwYXRoIGQ9Ik0tMzQgLTMgTC00MiAtMTYgTC0zNiAtMTYgTC0yNiAtM1oiLz48cGF0aCBkPSJNLTM0IDMgTC00MiAxNiBMLTM2IDE2IEwtMjYgM1oiLz48L2c+PGcgZmlsbD0iIzAwMCIgb3BhY2l0eT0iLjIyIj48cmVjdCB4PSIwIiB5PSIzMzAiIHdpZHRoPSIyNiIgaGVpZ2h0PSI3MCIgcng9IjIiLz48cmVjdCB4PSIzMCIgeT0iMjkwIiB3aWR0aD0iMzMiIGhlaWdodD0iMTEwIiByeD0iMiIvPjxyZWN0IHg9IjY3IiB5PSIzMTUiIHdpZHRoPSIyOCIgaGVpZ2h0PSI4NSIgcng9IjIiLz48cmVjdCB4PSI5OSIgeT0iMjYwIiB3aWR0aD0iMzUiIGhlaWdodD0iMTQwIiByeD0iMiIvPjxyZWN0IHg9IjEzOCIgeT0iMzQwIiB3aWR0aD0iMzAiIGhlaWdodD0iNjAiIHJ4PSIyIi8+PHJlY3QgeD0iMTcyIiB5PSIyODAiIHdpZHRoPSIzNyIgaGVpZ2h0PSIxMjAiIHJ4PSIyIi8+PHJlY3QgeD0iMjEzIiB5PSIzMDUiIHdpZHRoPSIzMiIgaGVpZ2h0PSI5NSIgcng9IjIiLz48cmVjdCB4PSIyNDkiIHk9IjI1MCIgd2lkdGg9IjI3IiBoZWlnaHQ9IjE1MCIgcng9IjIiLz48cmVjdCB4PSIyODAiIHk9IjMyNSIgd2lkdGg9IjM0IiBoZWlnaHQ9Ijc1IiByeD0iMiIvPjxyZWN0IHg9IjMxOCIgeT0iMjk1IiB3aWR0aD0iMjkiIGhlaWdodD0iMTA1IiByeD0iMiIvPjxyZWN0IHg9IjM1MSIgeT0iMzM1IiB3aWR0aD0iMzYiIGhlaWdodD0iNjUiIHJ4PSIyIi8+PHJlY3QgeD0iMzkxIiB5PSIyNzUiIHdpZHRoPSIzMSIgaGVpZ2h0PSIxMjUiIHJ4PSIyIi8+PHJlY3QgeD0iNDI2IiB5PSIzMTAiIHdpZHRoPSIyNiIgaGVpZ2h0PSI5MCIgcng9IjIiLz48L2c+PHRleHQgeD0iMzIiIHk9IjcwIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iNTIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNmZmYiPkFCViDihpIgTE9OPC90ZXh0Pjx0ZXh0IHg9IjMyIiB5PSIxMDgiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIyNCIgZmlsbD0iI2ZmZiI+QWJ1amEgdG8gTG9uZG9uPC90ZXh0Pjx0ZXh0IHg9IjMyIiB5PSIzNzIiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIyMCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZiI+4pyIIEZMSUdIVCBERUFMPC90ZXh0Pjwvc3ZnPg==",
       "ends_at": null
     },
@@ -13622,13 +13538,13 @@
     },
     {
       "id": "travel-was-los",
-      "title": "Washington DC to Lagos one-way flight, 04 Dec (1 stop)",
+      "title": "Washington DC to Lagos one-way flight, 16 Apr (1 stop)",
       "category": "Travel",
       "store": "Aviasales",
-      "price": 885820,
-      "old_price": 885820,
+      "price": 771573,
+      "old_price": 771573,
       "promo_code": null,
-      "link": "https://www.aviasales.com/search/WAS0412LOS1?t=AT17964183001796491800000865IADCMNLOS_3046600fa73d7a03f1a5a079704be278_54464&search_date=23102026&expected_price_uuid=01a16795-1e8c-8040-696c-f94cb25f7bfb&static_fare_key=TY%7CP1%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=GqpEO4yIeo9YjEnNR66mpw&expected_price_source=share&expected_price_currency=ngn&expected_price=885820&marker=585767",
+      "link": "https://www.aviasales.com/search/WAS1604LOS1?t=AT18079092001807985700000975IADCMNLOS_6aabe2724a38edcdc47ba7706f0b3135_45943&search_date=26102026&expected_price_uuid=01a175da-40b6-8040-6006-0a34499ba220&static_fare_key=TY%7CP0%7CH1%7CL1_1_23%7CCH1%7CR0%7CTBC1&itinerary_key=fcg6x_54z1JHLZ_xNhGCtA&expected_price_source=share&expected_price_currency=ngn&expected_price=771573&marker=585767",
       "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNDAwIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMwZjdhNGEiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM3ZmQxYTYiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0idXJsKCNnKSIvPjxjaXJjbGUgY3g9IjMzNSIgY3k9IjE2NSIgcj0iMzAiIGZpbGw9IiNmZmYiIG9wYWNpdHk9Ii4yNSIvPjxwYXRoIGQ9Ik00MCAyNTAgUTIwMCAxMjAgMzYwIDIwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1kYXNoYXJyYXk9IjIgMTAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgb3BhY2l0eT0iLjgiLz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyNTAgMTUwKSByb3RhdGUoMTUpIiBmaWxsPSIjZmZmIj48cGF0aCBkPSJNLTM4IC00IEwyMiAtNCBRMzggLTQgNDIgMCBRMzggNCAyMiA0IEwtMzggNCBRLTQyIDAgLTM4IC00WiIvPjxwYXRoIGQ9Ik0tMiAtMyBMLTIwIC0zNCBMLTEwIC0zNCBMMTYgLTNaIi8+PHBhdGggZD0iTS0yIDMgTC0yMCAzNCBMLTEwIDM0IEwxNiAzWiIvPjxwYXRoIGQ9Ik0tMzQgLTMgTC00MiAtMTYgTC0zNiAtMTYgTC0yNiAtM1oiLz48cGF0aCBkPSJNLTM0IDMgTC00MiAxNiBMLTM2IDE2IEwtMjYgM1oiLz48L2c+PGcgZmlsbD0iIzAwMCIgb3BhY2l0eT0iLjIyIj48cmVjdCB4PSIwIiB5PSIzMzAiIHdpZHRoPSIyNiIgaGVpZ2h0PSI3MCIgcng9IjIiLz48cmVjdCB4PSIzMCIgeT0iMjkwIiB3aWR0aD0iMzMiIGhlaWdodD0iMTEwIiByeD0iMiIvPjxyZWN0IHg9IjY3IiB5PSIzMTUiIHdpZHRoPSIyOCIgaGVpZ2h0PSI4NSIgcng9IjIiLz48cmVjdCB4PSI5OSIgeT0iMjYwIiB3aWR0aD0iMzUiIGhlaWdodD0iMTQwIiByeD0iMiIvPjxyZWN0IHg9IjEzOCIgeT0iMzQwIiB3aWR0aD0iMzAiIGhlaWdodD0iNjAiIHJ4PSIyIi8+PHJlY3QgeD0iMTcyIiB5PSIyODAiIHdpZHRoPSIzNyIgaGVpZ2h0PSIxMjAiIHJ4PSIyIi8+PHJlY3QgeD0iMjEzIiB5PSIzMDUiIHdpZHRoPSIzMiIgaGVpZ2h0PSI5NSIgcng9IjIiLz48cmVjdCB4PSIyNDkiIHk9IjI1MCIgd2lkdGg9IjI3IiBoZWlnaHQ9IjE1MCIgcng9IjIiLz48cmVjdCB4PSIyODAiIHk9IjMyNSIgd2lkdGg9IjM0IiBoZWlnaHQ9Ijc1IiByeD0iMiIvPjxyZWN0IHg9IjMxOCIgeT0iMjk1IiB3aWR0aD0iMjkiIGhlaWdodD0iMTA1IiByeD0iMiIvPjxyZWN0IHg9IjM1MSIgeT0iMzM1IiB3aWR0aD0iMzYiIGhlaWdodD0iNjUiIHJ4PSIyIi8+PHJlY3QgeD0iMzkxIiB5PSIyNzUiIHdpZHRoPSIzMSIgaGVpZ2h0PSIxMjUiIHJ4PSIyIi8+PHJlY3QgeD0iNDI2IiB5PSIzMTAiIHdpZHRoPSIyNiIgaGVpZ2h0PSI5MCIgcng9IjIiLz48L2c+PHRleHQgeD0iMzIiIHk9IjcwIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iNTIiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNmZmYiPldBUyDihpIgTE9TPC90ZXh0Pjx0ZXh0IHg9IjMyIiB5PSIxMDgiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIyNCIgZmlsbD0iI2ZmZiI+V2FzaGluZ3RvbiBEQyB0byBMYWdvczwvdGV4dD48dGV4dCB4PSIzMiIgeT0iMzcyIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNmZmYiPuKciCBGTElHSFQgREVBTDwvdGV4dD48L3N2Zz4=",
       "ends_at": null
     },
